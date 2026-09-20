@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Khối lượng tối thiểu của chương trình đào tạo trình độ đại học 4 năm tại Trường Đại học Kỹ thuật - Công nghệ Cần Thơ là bao nhiêu tín chỉ?",
+    "expected_answer": "Khối lượng của mỗi chương trình đào tạo trình độ đại học 4 năm tại Trường Đại học Kỹ thuật - Công nghệ Cần Thơ không dưới 130 tín chỉ.",
+    "expected_context": "Thống nhất các chương trình đào tạo trình độ đại học 4 năm có khối lượng của mỗi chương trình không dưới 130 tín chỉ."
+  },
+  {
+    "question": "Theo nội quy thư viện Trường ĐH KHXH&NV - ĐHQG-HCM, nếu bạn đọc trả tài liệu trễ hạn thì mức phí phạt là bao nhiêu và bị xử lý thế nào nếu tái phạm?",
+    "expected_answer": "Nếu để trễ hạn trả tài liệu bạn đọc phải nộp phạt 2.000 đ/ngày; nếu tái phạm từ 02 lần trở lên sẽ bị khóa giao dịch sử dụng thư viện từ 03 đến 06 tháng.",
+    "expected_context": "Nếu để trễ hạn trả tài liệu bạn đọc phải nộp phạt 2.000 đ/ngày (nếu tái phạm 02 lần trở lên bạn đọc sẽ bị khóa giao dịch sử dụng thư viện từ 03 đến 06 tháng)."
+  },
+  {
+    "question": "Sinh viên Trường ĐH KHXH&NV - ĐHQG-HCM được mượn tối đa bao nhiêu cuốn tài liệu tham khảo và giáo trình trong thời gian bao lâu?",
+    "expected_answer": "Sinh viên được mượn 06 cuốn tài liệu tham khảo trong vòng 30 ngày và 06 cuốn giáo trình trong thời gian một học kỳ.",
+    "expected_context": "Tài liệu tham khảo được mượn 06 cuốn đối với SV, HVSĐH; 08 cuốn đối với CB - GV trong vòng 30 ngày và phải trả tài liệu đúng thời hạn quy định. Giáo trình: được mượn 06 cuốn đối với SV, HVSĐH; 08 cuốn đối với CB - GV, trong thời gian là một học kỳ"
+  },
+  {
+    "question": "Đối tượng nào thuộc nhóm ưu tiên 1 khi xét duyệt vào ở ký túc xá của Trường Đại học Công nghiệp Thực phẩm TP.HCM (HUIT)?",
+    "expected_answer": "Nhóm ưu tiên 1 gồm: Bản thân sinh viên là anh hùng lực lượng vũ trang; anh hùng Lao động; thương binh; bệnh binh; người được hưởng chính sách như thương binh.",
+    "expected_context": "Nhóm ưu tiên 1: Bản thân sinh viên là anh hùng lực lượng vũ trang; anh hùng Lao động; thương binh; bệnh binh; người được hưởng chính sách như thương binh;"
+  },
+  {
+    "question": "Giờ nghỉ ngơi tại Ký túc xá Trường Đại học Cần Thơ được quy định vào những khung giờ nào mà sinh viên không được làm ồn ào?",
+    "expected_answer": "Sinh viên không được làm ồn ào trong giờ nghỉ: buổi trưa từ 12 giờ đến 13 giờ; buổi tối từ 23 giờ đến 5 giờ sáng hôm sau.",
+    "expected_context": "Không làm ồn ào gây ảnh hưởng đến người khác trong giờ nghỉ (Buổi trưa từ 12 giờ đến 13 giờ; Buổi tối từ 23 giờ đến 5 giờ sáng hôm sau)."
+  },
+  {
+    "question": "Quy định về việc nấu ăn trong phòng ở Ký túc xá Trường Đại học Cần Thơ như thế nào?",
+    "expected_answer": "Sinh viên không được nấu ăn trong phòng ở và khu vực KTX, trừ các dãy nhà có thiết kế và lắp đặt trang thiết bị cho phép nấu ăn tại KTX-A.",
+    "expected_context": "Không được nấu ăn trong phòng ở và khu vực KTX (Trừ các dãy nhà có thiết kế và lắp đặt trang thiết bị cho phép nấu ăn tại KTX-A); Không để thức ăn, thực phẩm vào tủ đựng đồ."
+  },
+  {
+    "question": "Một năm học đối với chương trình đại trà tại Trường Đại học Khoa học Tự nhiên - ĐHQG-HCM có cấu trúc như thế nào?",
+    "expected_answer": "Đối với chương trình đại trà: một năm học có hai học kỳ chính (mỗi học kỳ có 15 tuần thực học), ngoài ra trường có thể tổ chức thêm học kỳ hè với ít nhất 5 tuần thực học.",
+    "expected_context": "Đối với chương trình đại trà: một năm học có hai học kỳ chính, mỗi học kỳ chính có 15 tuần thực học. Ngoài hai học kỳ chính, Trường có thể tổ chức thêm học kỳ hè để sinh viên có điều kiện được học lại, học cải thiện hoặc học vượt. Mỗi học kỳ hè có ít nhất 5 tuần thực học."
+  },
+  {
+    "question": "Tiết 1 buổi sáng tại cơ sở 227 Nguyễn Văn Cừ của Trường Đại học Khoa học Tự nhiên bắt đầu và kết thúc vào mấy giờ?",
+    "expected_answer": "Tiết 1 buổi sáng tại cơ sở 227 Nguyễn Văn Cừ diễn ra từ 6g40 đến 7g30.",
+    "expected_context": "Giờ của tiết học tại cơ sở 227 Nguyễn Văn Cừ: Buổi sáng Tiết 1 : 6g40-7g30"
+  },
+  {
+    "question": "Dự kiến năm học 2024-2025 Ký túc xá Đại học Quốc gia TP.HCM tiếp nhận bao nhiêu sinh viên và dành bao nhiêu chỗ cho tân sinh viên?",
+    "expected_answer": "Ký túc xá ĐHQG-HCM dự kiến tiếp nhận 35.500 sinh viên vào ở, trong đó sinh viên cũ là 25.000 chỗ và tân sinh viên là 10.500 chỗ.",
+    "expected_context": "dự kiến năm học 2024-2025 ký túc xá sẽ tiếp nhận 35.500 sinh viên vào ở, trong đó dự kiến sinh viên cũ là 25.000 chỗ và tân sinh viên là 10.500 chỗ."
+  },
+  {
+    "question": "Học viện Báo chí và Tuyên truyền áp dụng mức phí phòng ký túc xá tòa E3, E5 và E6 như thế nào?",
+    "expected_answer": "Mức phí tòa E3, E5 là 500.000 đồng/tháng (chưa bao gồm phí điện nước), tòa E6 là 400.000 đồng/tháng (đã bao gồm điện nước).",
+    "expected_context": "Đối với Học viện Báo chí và Tuyên truyền áp dụng mức giá phòng ký túc xá với sinh viên như sau: Mức phí tòa E3, E5: 500.000 đồng/tháng (chưa bao gồm phí điện nước), E6: 400.000 đồng/tháng, E2: 300.000 đồng /tháng (tiền phòng ở E6 và E2 đã bao gồm điện nước.)"
+  },
+  {
+    "question": "Khái niệm tín chỉ được định nghĩa như thế nào theo Luật Giáo dục năm 2019?",
+    "expected_answer": "Tín chỉ là đơn vị dùng để đo lường khối lượng kiến thức, kỹ năng và kết quả học tập đã tích lũy được trong một khoảng thời gian nhất định.",
+    "expected_context": "Tại khoản 5 Điều 5 Luật Giáo dục năm 2019, có chỉ rõ về khái niệm của tín chỉ như sau: Tín chỉ là đơn vị dùng để đo lường khối lượng kiến thức, kỹ năng và kết quả học tập đã tích lũy được trong một khoảng thời gian nhất định."
+  },
+  {
+    "question": "Sinh viên HUFLIT kiểm tra đợt đăng ký học phần và thực hiện đăng ký qua cổng thông tin nào?",
+    "expected_answer": "Sinh viên HUFLIT kiểm tra lịch và đăng ký học phần trên cổng thông tin https://portal.huflit.edu.vn bằng email do trường cấp.",
+    "expected_context": "sinh viên HUFLIT cần thường xuyên kiểm tra website của trường và phòng đào tạo để biết chính xác thời gian bắt đầu và kết thúc từng đợt đăng ký (https://portal.huflit.edu.vn)."
+  },
+  {
+    "question": "Không gian học tập của thư viện truyền cảm hứng Inspire Library trường Đại học Tôn Đức Thắng có thể phục vụ bao nhiêu người cùng lúc?",
+    "expected_answer": "Thư viện truyền cảm hứng Inspire Library trường Đại học Tôn Đức Thắng có thể phục vụ khoảng 3.000 người sử dụng cùng lúc.",
+    "expected_context": "Thư viện này có thể phục vụ khoảng 3.000 người sử dụng cùng lúc tại các khu chức năng như không gian học tập chung gồm các phòng thuyết trình, phòng nghiên cứu cá nhân, phòng học nhóm, phòng xem phim, phòng hội thảo trực tuyến..."
+  },
+  {
+    "question": "Thư viện Quốc gia Việt Nam tọa lạc tại địa chỉ nào và tầng 1 gồm những khu chức năng gì?",
+    "expected_answer": "Thư viện Quốc gia Việt Nam tọa lạc tại số 31 Tràng Thi, Hà Nội; tầng 1 có khu vực số hóa, tài liệu Hàn Quốc, phòng làm thẻ, phòng hành chính và quầy thông tin.",
+    "expected_context": "Thư viện Quốc gia Việt Nam tọa lạc tại số 31 Tràng Thi, Hà Nội, đang trở thành “điểm hẹn” quen thuộc của nhiều bạn trẻ... Tầng 1 có khu vực số hóa, tài liệu Hàn Quốc, phòng làm thẻ, phòng hành chính và quầy thông tin."
+  },
+  {
+    "question": "Khi làm mất hoặc làm hư hỏng tài liệu mượn tại Thư viện Trường ĐH KHXH&NV - ĐHQG-HCM, bạn đọc bị xử lý ra sao?",
+    "expected_answer": "Bạn đọc phải tìm mua lại đúng tài liệu đã mất và nộp phạt thêm 01 lần tiền bằng giá trị của tài liệu tại thời điểm nộp phạt.",
+    "expected_context": "Nếu làm mất hoặc làm hư hỏng tài liệu bạn đọc sẽ bị xử lý như sau: Phải tìm mua lại đúng tài liệu đã mất và nộp phạt thêm 01 lần tiền bằng giá trị của tài liệu tại thời điểm nộp phạt."
+  }
+]
