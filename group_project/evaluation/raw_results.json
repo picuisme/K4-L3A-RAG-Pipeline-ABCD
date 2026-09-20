@@ -1,0 +1,1182 @@
+{
+  "A": [
+    {
+      "question": "Giờ giữ yên tĩnh tại ký túc xá Trường Đại học Cần Thơ là những khung giờ nào?",
+      "expected_answer": "Theo nội quy ký túc xá Trường Đại học Cần Thơ: buổi trưa từ 12 giờ đến 13 giờ và buổi tối từ 23 giờ đến 5 giờ sáng hôm sau.",
+      "expected_context": "Nội quy công tác nội trú tại Ký túc xá Trường Đại học Cần Thơ — mục quy định về nếp sống, giờ giữ yên tĩnh trưa và tối.",
+      "answer": "Giờ giữ yên tĩnh tại ký túc xá Trường Đại học Cần Thơ là:\n\n- Buổi trưa từ 12 giờ đến 13 giờ.\n- Buổi tối từ 23 giờ đến 5 giờ sáng hôm sau. \n\n[Citation: Document 1]",
+      "contexts": [
+        "[Trường Đại học Cần Thơ] đăng ký với Văn phòng TT. PVSV hoặc Tổ Bảo vệ KTX, sẽ được bố trí ở khu vực\nriêng.\nĐiều 3. Quy định về sinh họat\n1. SV nội trú khi ra vào khu vực KTX phải mang Thẻ Sinh viên và đúng giờ quy\nđịnh.\n2. Không làm ồn ào gây ảnh hưởng đến người khác trong giờ nghỉ (Buổi trưa từ\n12 giờ đến 13 giờ; Buổi tối từ 23 giờ đến 5 giờ sáng hôm sau).\n3. Không được qua khu vực KTX SV khác giới; Không tiếp khách trong phòng ở\n(kể cả SV nội trú ở phòng khác).",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] Buổi sáng\nTiết 1 : 6g40-7g30\nTiết 2 : 7g30-8g20\nTiết 3 : 8g30-9g20\nTiết 4 : 9g20-10g10\nTiết 5 : 10g20-11g10\nTiết 6 : 11g10-12g00\n\nBuổi chiều\nTiết 7 : 12g30-13g20\nTiết 8 : 13g20-14g10\nTiết 9 : 14g20-15g10\nTiết 10: 15g10-16g00\nTiết 11: 16g10-17g00\nTiết 12: 17g00-17g50\n\nBuổi tối\n\nTiết 13 :18g00-18g50\nTiết 14: 18g50-19g40\nTiết 15: 19g40-20g30\n\nb) Giờ của tiết học tại cơ sở Linh Trung:",
+        "[Trường ĐH Kỹ thuật - Công nghệ Cần Thơ] Điều 6. Thời gian hoạt động giảng dạy\n1. Thời gian hoạt động giảng dạy của trường được tính từ\n7 giờ đến 20 giờ 40 hằng ngày. Mỗi ngày có 13 tiết học được\nphân bổ như sau:\nBảng 1. Phân bố tiết học trong ngày\nThời gian\n| Buổi học  | Tiết  | Từ  | Đến  |     |\n| --------- | ----- | --- | ---- | --- |\nnghỉ\n|        | 1              | 7 giờ 00  | 7 giờ 50   |          |\n| ------ | -------------- | --------- | ---------- | -------- |",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] b) Giờ của tiết học tại cơ sở Linh Trung:\n\nBuổi sáng\nTiết 1 : 7g30-8g20\nTiết 2 : 8g20-9g10\nTiết 3 : 9g20-10g10\nTiết 4 : 10g10-11g00\nTiết 5 : 11g10-12g00\n\nBuổi chiều\n\nTiết 6 : 12g30-13g20\nTiết 7 : 13g20-14g10\nTiết 8 : 14g20-15g10\nTiết 9: 15g10-16g00\nTiết 10: 16g10-17g00\n\n\f6",
+        "Giá phòng ký túc Đại học Quốc gia TP.HCM năm học 2025 - 2026.\nKý túc xá của trường ** Đại học  Kinh tế TP.HCM ** gồm các loại phòng: 6 chỗ, 8 chỗ, 9 chỗ, 10 chỗ, và 12 chỗ, mức phí từ 180.000 - 1,15 triệu đồng/tháng/sinh viên. Cụ thể:"
+      ],
+      "source_titles": [
+        "Nội quy công tác nội trú tại Ký túc xá — Trường Đại học Cần Thơ",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Sổ tay sinh viên / Quy định đào tạo theo tín chỉ — Trường ĐH Kỹ thuật - Công nghệ Cần Thơ",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Mức phí ký túc xá các trường đại học 2025, cao nhất hơn 3 triệu đồng/tháng"
+      ],
+      "retrieval_source": "hybrid",
+      "latency_s": 16.539,
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 0.6165719191996794,
+        "context_recall": 1.0,
+        "context_precision": 0.9999999999
+      }
+    },
+    {
+      "question": "Phí ký túc xá của Trường Đại học Cần Thơ được nộp theo kỳ hay theo tháng?",
+      "expected_answer": "Tại Trường Đại học Cần Thơ, phí ký túc xá được nộp theo học kỳ, vào đầu mỗi học kỳ. Quá thời gian quy định mà sinh viên không nộp phí thì xem như sinh viên không có nhu cầu ở.",
+      "expected_context": "Nội quy KTX Trường Đại học Cần Thơ — mục thủ tục đăng ký và nộp phí ký túc xá.",
+      "answer": "Không có quy định của Trường Đại học Cần Thơ trong tài liệu. Tôi không tìm thấy thông tin nào liên quan đến phí ký túc xá của trường này.",
+      "contexts": [
+        "Mức phí ký túc xá trường Đại học Sư phạm - Đại học Đà Nẵng.\nNăm ngoái, trường **Đại học Việt Đức** áp dụng mức phí ký túc xá hàng tháng từ 600.000 đồng đến 2,4 triệu/tháng/sinh viên. Phí ký túc sẽ được đóng theo học kỳ (6 tháng) vào đầu mỗi học kỳ, mỗi sinh viên đặt cọc 2 tháng tiền phòng và sẽ được hoàn trả sau khi chấm dứt hợp đồng thuê và trừ các khoản chi phí đền bù (nếu có). Chi phí điện, nước, internet, sẽ đóng theo thông báo tiêu thụ hàng tháng.",
+        "Đối với  Học viện Báo chí và Tuyên truyền  áp dụng mức giá phòng ký túc xá với sinh viên như sau: Mức phí tòa E3, E5: 500.000 đồng/tháng (chưa bao gồm phí điện nước), E6: 400.000 đồng/tháng, E2: 300.000 đồng /tháng (tiền phòng ở E6 và E2 đã bao gồm điện nước.)\nNăm ngoái, trường Đại học Sư phạm (Đại học Đà Nẵng) cũng công bố mức phí ký túc xá từ 150.000 - 960.000 đồng/tháng/sinh viên. Ngoài ra, sinh viên cần đóng thêm 100.000 đồng phí thế chấp tài sản.",
+        "Ký túc xá tại trường có mức phí thuê theo tháng từ 250.000 đến 3,4 triệu đồng/tháng. Một số loại phòng có mức giá trên 1 triệu đồng gồm phòng ký túc xá 4 giường (1,7 triệu đồng/tháng), phòng 2 giường (3,4 triệu đồng/tháng).\nNếu chọn thêm dịch vụ gửi xe, sinh viên cần đóng mức phí từ 40.000 - 80.000 đồng/tháng, tùy loại xe và phải đóng 5 tháng/lần.",
+        "Mức thu lệ phí phòng ở và đơn giá dịch vụ tăng thêm tại ký túc xá Đại học Quốc gia TP.HCM từ 1-9-2024 đến 31-8-2025 - Ảnh: ĐÌNH KHẢI chụp lại\nĐại diện Trung tâm quản lý ký túc xá Đại học Quốc gia TP.HCM cho biết phí nội trú được đưa ra theo lộ trình đã được duyệt. Trung tâm quản lý ký túc xá đã thông báo từ đầu năm học trước - năm học 2023-2024 - cho các sinh viên được biết.",
+        "Năm học tới, trường  Đại học Công nghiệp TP.HCM  có 2.800 chỉ tiêu ở ký túc xá, trong đó 1.200 suất dành cho sinh viên năm nhất và 1.600 suất cho sinh viên năm 2, 3, 4. Sinh viên nhu cầu ở ký túc xá sẽ làm đơn theo mẫu quy định và nộp đơn tại văn phòng ký túc xá.\nMức đóng tiền ở ký túc xá là 550.000 đồng/tháng. Nhà trường sẽ thu 10 tháng trong năm học. Ngoài ra sinh viên sẽ đóng thêm khoản dịch vụ sử dụng máy giặt 225.000 đồng/năm."
+      ],
+      "source_titles": [
+        "Mức phí ký túc xá các trường đại học 2025, cao nhất hơn 3 triệu đồng/tháng",
+        "Mức phí ký túc xá các trường đại học 2025, cao nhất hơn 3 triệu đồng/tháng",
+        "Mức phí ký túc xá các trường đại học 2025, cao nhất hơn 3 triệu đồng/tháng",
+        "10.500 chỗ ở cho tân sinh viên tại ký túc xá ĐH Quốc gia TP.HCM - Tuổi Trẻ Online",
+        "Mức phí ký túc xá các trường đại học 2025, cao nhất hơn 3 triệu đồng/tháng"
+      ],
+      "retrieval_source": "hybrid",
+      "latency_s": 3.353,
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 0.0,
+        "context_recall": 0.0,
+        "context_precision": 0.0
+      }
+    },
+    {
+      "question": "Sinh viên ở ký túc xá Trường Đại học Cần Thơ chậm nộp phí điện nước bao nhiêu ngày thì bị xử lý, và mức xử lý là gì?",
+      "expected_answer": "Theo nội quy Trường Đại học Cần Thơ, chậm nộp phí điện, nước sau 7 ngày kể từ ngày hết hạn nộp thì bị cảnh cáo toàn ký túc xá.",
+      "expected_context": "Nội quy KTX Trường Đại học Cần Thơ — bảng các hành vi vi phạm và hình thức xử lý.",
+      "answer": "Sinh viên ở ký túc xá Trường Đại học Cần Thơ chậm nộp phí điện, nước sẽ bị xử lý cảnh cáo. Tuy nhiên, tài liệu không nêu rõ số ngày cụ thể chậm nộp thì bị xử lý. \n\n- Mức xử lý là cảnh cáo khi chậm nộp phí điện, nước [Document 1]. \n- Không tìm thấy thông tin về số ngày cụ thể chậm nộp trong tài liệu.",
+      "contexts": [
+        "[Trường Đại học Cần Thơ] 21 Vi phạm quy định về sử dụng  Tùy mức độ, xử lý từ khiển trách đến buộc\ninternet  của  Trường;  cố  tình  ra khỏi KTX, bồi thường thiệt hại và đề\n| can thiệp hoặc phá hỏng các  |     | nghị nhà trường xử lý  |     |     |\n| ---------------------------- | --- | ---------------------- | --- | --- |\nthiết bị WIFI trong phòng ở\nvà khu vực KTX.\n| 22 Chậm nộp phí điện, nước (Sau  |     | Cảnh cáo      |     |     |",
+        "[Trường Đại học Cần Thơ] Giám thị sẽ áp chỉ số bình quân hàng tháng để tạm tính.\n3. SV có trách nhiệm chi trả phí điện, nước hàng tháng đúng thời gian quy định.\n4. Khi phát hiện hư hỏng đồng hồ đo điện, nước hoặc nghi ngờ đồng hồ đo không\nchính xác, SV phải báo ngay cho TT. PVSV để sửa chữa hoặc thay thế kịp thời. Các\ntrường hợp hư hỏng SV không báo sửa chữa (hoặc thay thế) sẽ phải chi trả chi phí sử\ndụng do thất thoát nếu có.\n3",
+        "[Trường Đại học Cần Thơ] trường xử lý (thanh lý). Thẻ giữ xe, phiếu giữ xe quá hạn sau mỗi học kỳ xem như\nkhông còn giá trị, nhà xe không chịu trách nhiệm về hư hỏng, mất mát. Các trường\nhợp lấy xe quá thời hạn, SV phải chi trả phí vãng lai thời gian lấy trễ.\nĐiều 8. Quy định về sử dụng điện, nước và chi trả phí điện, nước\n1. Mỗi phòng ở SV được lắp đặt đồng hồ đo chỉ số điện và nước (trừ các dãy nhà\ncó cấu trúc đặc biệt). Hàng tháng, SV chi trả phí điện, nước theo chỉ số sử dụng thực",
+        "Đơn giá ký túc xá Đại học Kinh tế TP.HCM.\nBên cạnh giá tiền phòng, trường còn thông báo về phí dịch vụ. Với ký túc xá 43-45 Nguyễn Chí Thanh và ký túc xá 135 Trần Hưng Đạo gồm các mức phí:\n  * Phí sử dụng máy giặt/sấy: 15.000 đồng/lượt..\n  * Nước: miễn phí 2m3/sinh viên/tháng (nếu sử dụng vượt qua định mức sẽ tính tiền theo đơn giá hiện hành).\n  * Điện: miễn phí 10kWh/sinh viên/tháng (nếu sử dụng vượt qua định mức sẽ tính tiền theo đơn giá hiện hành).",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] Điều 23. Xử lý vi phạm đối với sinh viên\n1. Sinh viên có gian lận trong thi, kiểm tra, đánh giá kết quả học tập sẽ bị xử lý\nkỷ luật đối với từng học phần đã  vi phạm theo các quy định của Quy chế thi tốt\nnghiệp Trung học phổ thông hiện hành do Bộ Giáo dục và Đào tạo ban hành, trừ\ntrường hợp quy định tại khoản 2 Điều này."
+      ],
+      "source_titles": [
+        "Nội quy công tác nội trú tại Ký túc xá — Trường Đại học Cần Thơ",
+        "Nội quy công tác nội trú tại Ký túc xá — Trường Đại học Cần Thơ",
+        "Nội quy công tác nội trú tại Ký túc xá — Trường Đại học Cần Thơ",
+        "Mức phí ký túc xá các trường đại học 2025, cao nhất hơn 3 triệu đồng/tháng",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM"
+      ],
+      "retrieval_source": "hybrid",
+      "latency_s": 2.336,
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 0.0,
+        "context_recall": 0.0,
+        "context_precision": 0.8333333332916666
+      }
+    },
+    {
+      "question": "Ký túc xá Trường Đại học Cần Thơ cho phép sinh viên dùng thiết bị điện công suất tối đa bao nhiêu W?",
+      "expected_answer": "Tại ký túc xá Trường Đại học Cần Thơ, chỉ được dùng bàn ủi, ấm đun nước có công suất dưới 1.000 W.",
+      "expected_context": "Nội quy KTX Trường Đại học Cần Thơ — quy định về sử dụng điện và thiết bị điện trong phòng ở.",
+      "answer": "Ký túc xá Trường Đại học Cần Thơ cho phép sinh viên sử dụng các thiết bị điện có công suất nhỏ dưới 1.000 W, bao gồm máy tính, máy in, bàn ủi điện, ấm nấu nước, quạt điện để bàn, bóng đèn và các phương tiện điện tử khác phục vụ cho học tập [Document 2].",
+      "contexts": [
+        "Năm học tới, trường  Đại học Công nghiệp TP.HCM  có 2.800 chỉ tiêu ở ký túc xá, trong đó 1.200 suất dành cho sinh viên năm nhất và 1.600 suất cho sinh viên năm 2, 3, 4. Sinh viên nhu cầu ở ký túc xá sẽ làm đơn theo mẫu quy định và nộp đơn tại văn phòng ký túc xá.\nMức đóng tiền ở ký túc xá là 550.000 đồng/tháng. Nhà trường sẽ thu 10 tháng trong năm học. Ngoài ra sinh viên sẽ đóng thêm khoản dịch vụ sử dụng máy giặt 225.000 đồng/năm.",
+        "[Trường Đại học Cần Thơ] động khi không có cháy nổ xảy ra trong khu vực.\n6. Thực hiện đúng các quy định về sử dụng internet (WIFI).\n7. Cho phép SV sử dụng các thiết bị điện:\n- Máy tính, máy in phục vụ cho công việc học tập;\n- Bàn ủi điện, ấm nấu nước dùng điện công suất nhỏ (dưới 1.000 W);\n- Quạt điện để bàn, bóng đèn;\n- Các phương tiện điện tử khác phục vụ cho học tập có công suất nhỏ.\n8. Khi hết hạn ở KTX, SV có trách nhiệm bàn giao chỗ ở và các tài sản thuộc",
+        "Đơn giá ký túc xá Đại học Kinh tế TP.HCM.\nBên cạnh giá tiền phòng, trường còn thông báo về phí dịch vụ. Với ký túc xá 43-45 Nguyễn Chí Thanh và ký túc xá 135 Trần Hưng Đạo gồm các mức phí:\n  * Phí sử dụng máy giặt/sấy: 15.000 đồng/lượt..\n  * Nước: miễn phí 2m3/sinh viên/tháng (nếu sử dụng vượt qua định mức sẽ tính tiền theo đơn giá hiện hành).\n  * Điện: miễn phí 10kWh/sinh viên/tháng (nếu sử dụng vượt qua định mức sẽ tính tiền theo đơn giá hiện hành).",
+        "### Thư viện trường đại học phải rộng bao nhiêu mới đủ?",
+        "[Trường ĐH Kỹ thuật - Công nghệ Cần Thơ] lũy dưới 30 tín chỉ.\n- Sinh viên năm 2: Nếu khối lượng kiến thức tích lũy từ 30\nđến dưới 60 tín chỉ.\n- Sinh viên năm 3: Nếu khối lượng kiến thức tích lũy từ 60\nđến dưới 100 tín chỉ.\n- Sinh viên năm 4: Nếu khối lượng kiến thức tích lũy\ntừ 100 tín chỉ trở lên.\n2. Sau mỗi học kỳ, căn cứ vào điểm trung bình chung học\nkỳ, sinh viên được xếp loại học lực như sau:\n16"
+      ],
+      "source_titles": [
+        "Mức phí ký túc xá các trường đại học 2025, cao nhất hơn 3 triệu đồng/tháng",
+        "Nội quy công tác nội trú tại Ký túc xá — Trường Đại học Cần Thơ",
+        "Mức phí ký túc xá các trường đại học 2025, cao nhất hơn 3 triệu đồng/tháng",
+        "Những thư viện đại học sang chảnh khiến sinh viên mê mẩn 'ngồi lì' cả ngày",
+        "Sổ tay sinh viên / Quy định đào tạo theo tín chỉ — Trường ĐH Kỹ thuật - Công nghệ Cần Thơ"
+      ],
+      "retrieval_source": "hybrid",
+      "latency_s": 17.691,
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 0.46941558284057655,
+        "context_recall": 1.0,
+        "context_precision": 0.49999999995
+      }
+    },
+    {
+      "question": "Sinh viên rời khỏi ký túc xá Trường Đại học Cần Thơ bao nhiêu ngày thì phải báo, và báo cho ai?",
+      "expected_answer": "Theo nội quy Trường Đại học Cần Thơ, rời khỏi ký túc xá dưới 05 ngày phải báo với Phòng trưởng; từ 05 ngày trở lên thì Phòng trưởng có trách nhiệm báo với Giám thị.",
+      "expected_context": "Nội quy KTX Trường Đại học Cần Thơ — quy định về quản lý sinh viên vắng mặt tại phòng ở.",
+      "answer": "Sinh viên rời khỏi ký túc xá Trường Đại học Cần Thơ phải báo trước 7 ngày. Sinh viên cần báo cho Trung tâm Phục vụ Sinh viên (TT. PVSV) để được xử lý [Document 3].",
+      "contexts": [
+        "[Trường Đại học Cần Thơ] |     | cả  | SV  | nội  trú  | thuộc  | phòng  |     | toàn KTX | toàn KTX |\n| --- | --- | --- | --------- | ------ | ------ | --- | -------- | -------- |\n12 khác).\n|     | Tiếp                         | người  | khác  | giới  | trong  | Cảnh cáo    | Buộc ra khỏi  |     |\n| --- | ---------------------------- | ------ | ----- | ----- | ------ | ----------- | ------------- | --- |",
+        "[Trường Đại học Cần Thơ] |     |                              |        |       |       |        | hư hỏng     | hỏng          |     |\n14 Không  thực  hiện  vệ  sinh  Nhắc nhở Khiển trách  Cảnh cáo  (3)\n|     | phòng                  | ở   | (Phòng  | ở   | mất  vệ  |     | toàn KTX | toàn KTX,   |\n| --- | ---------------------- | --- | ------- | --- | -------- | --- | -------- | ----------- |\n|     | sinh, không ngăn nắp). |     |         |     |          |     |          | chuyển chỗ  |\nở khác",
+        "[Trường Đại học Cần Thơ] | -------------------------------- | --- | ------------- | --- | --- |\n| 7 ngày kể từ ngày hết hạn nộp    |     | toàn KTX,     |     |     |\n| phí).                            |     | truy thu phí  |     |     |\n23 Thiếu ý thức trong việc bảo  Nhắc nhở Khiển trách  Cảnh cáo\n| vệ tài sản gây mất mát; không  |             |         | toàn KTX | toàn KTX |\n| ------------------------------ | ----------- | ------- | -------- | -------- |",
+        "[Trường Đại học Cần Thơ] hỏng, phải báo cáo với TT. PVSV để được sửa chữa; SV phải chịu trách nhiệm đền bù\nvề những hư hỏng, mất mát do mình gây ra đối với trang thiết bị trong phòng ở và của\nKTX.\n4. SV tự bảo quản tư trang, đồ đạc và tài sản cá nhân. Khuyến cáo không mang\nvào và cất giữ tại phòng ở tài sản có giá trị khác không liên quan đến việc phục vụ cho\ncông tác học tập và sinh hoạt để tránh mất cắp.\n5. Không được tự ý sử dụng, làm hỏng các thiết bị chữa cháy hoặc mở khóa báo",
+        "[Trường Đại học Cần Thơ] 21 Vi phạm quy định về sử dụng  Tùy mức độ, xử lý từ khiển trách đến buộc\ninternet  của  Trường;  cố  tình  ra khỏi KTX, bồi thường thiệt hại và đề\n| can thiệp hoặc phá hỏng các  |     | nghị nhà trường xử lý  |     |     |\n| ---------------------------- | --- | ---------------------- | --- | --- |\nthiết bị WIFI trong phòng ở\nvà khu vực KTX.\n| 22 Chậm nộp phí điện, nước (Sau  |     | Cảnh cáo      |     |     |"
+      ],
+      "source_titles": [
+        "Nội quy công tác nội trú tại Ký túc xá — Trường Đại học Cần Thơ",
+        "Nội quy công tác nội trú tại Ký túc xá — Trường Đại học Cần Thơ",
+        "Nội quy công tác nội trú tại Ký túc xá — Trường Đại học Cần Thơ",
+        "Nội quy công tác nội trú tại Ký túc xá — Trường Đại học Cần Thơ",
+        "Nội quy công tác nội trú tại Ký túc xá — Trường Đại học Cần Thơ"
+      ],
+      "retrieval_source": "hybrid",
+      "latency_s": 31.413,
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 0.44446177615564525,
+        "context_recall": 1.0,
+        "context_precision": 0.3333333333
+      }
+    },
+    {
+      "question": "Sinh viên được mượn tối đa bao nhiêu cuốn tài liệu tham khảo ở Thư viện Trường ĐH Khoa học Xã hội và Nhân văn (ĐHQG-HCM), trong bao lâu?",
+      "expected_answer": "Tại Thư viện Trường ĐH KHXH&NV (ĐHQG-HCM), sinh viên và học viên sau đại học được mượn 06 cuốn tài liệu tham khảo trong vòng 30 ngày; cán bộ - giảng viên được mượn 08 cuốn.",
+      "expected_context": "Nội quy Thư viện Trường ĐH KHXH&NV, ĐHQG-HCM — mục quy định mượn tài liệu tham khảo.",
+      "answer": "Sinh viên (SV) được mượn tối đa 06 cuốn tài liệu tham khảo ở Thư viện Trường ĐH Khoa học Xã hội và Nhân văn (ĐHQG-HCM) trong vòng 30 ngày. \n\nCụ thể:\n- Mượn 06 cuốn tài liệu tham khảo trong vòng 30 ngày [Document 4].\n- Mượn 06 cuốn giáo trình trong thời gian là một học kỳ [Document 1].",
+      "contexts": [
+        "[Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM] (nếu tài liệu có hư hỏng bất thường).\n\n4.  Giáo  trình  được  mượn  06 cuốn đối với SV, HVSĐH; 08 cuốn đối với CB - GV, trong thời\n\ngian là một học kỳ  (học kỳ I: từ ngày 01 tháng 09 đến hết ngày 15 tháng 01; học kỳ II: từ\n\nngày 16 tháng 01 đến hết ngày 31 tháng 08). Nếu trả tài liệu trễ hạn, bạn đọc phải nộp phạt\n\n2.000 đ/ngày (nếu tái phạm 02 lần trở lên bạn đọc sẽ bị khóa giao dịch sử dụng thư viện từ\n\n03 đến 06 tháng).",
+        "[Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM] 2.  Đặt thẻ cán bộ/thẻ sinh viên/thẻ học viên/thẻ thư viện lên tài  liệu  cần mượn tại quầy phục\n\nvụ.\n\n3.  Tài liệu  tham  khảo  mỗi  lần  được  mượn  06  cuốn  đối với SV, HVSĐH; 08  cuốn  đối với CB -\n\nGV trong vòng 30 ngày. Bạn đọc phải trả sách đúng thời hạn quy định; Giáo  trình  được  mượn\n\n06 cuốn đối với SV, HVSĐH; 08 cuốn đối với CB - GV, trong thời gian là một học kỳ (học kỳ I: từ",
+        "[Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM] đọc cần liên hệ với chuyên viên thư viện và sao chụp theo quy định của thư viện.\n\n8.  Bạn đọc được mượn tài liệu như sau:\n\n-  Tài liệu tham khảo được mượn 06 cuốn đối với SV, HVSĐH; 08 cuốn đối với CB - GV trong\n\nvòng 30 ngày và phải trả tài liệu đúng thời hạn quy định.\n\n-    Giáo trình: được mượn 06 cuốn đối với SV, HVSĐH; 08 cuốn đối với CB - GV, trong thời gian",
+        "[Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM] 2.  Đặt thẻ cán bộ/thẻ sinh viên/thẻ học viên/thẻ thư viện lên tài  liệu  cần mượn tại quầy phục\n\nvụ.\n\n3.  Tài  liệu  tham  khảo  mỗi  lần  được  mượn  06  cuốn  đối với SV, HVSĐH; 08  cuốn  đối với CB -\n\nGV trong vòng 30 ngày. Bạn đọc phải trả sách đúng thời hạn quy định.\n\n4.  Đến thời hạn 30 ngày, nếu bạn đọc có nhu cầu sử dụng tiếp tài liệu cần liên hệ thư viện để gia",
+        "[Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM] ngày 01 tháng 09  đến hết ngày 15 tháng 01; học kỳ II: từ ngày 16 tháng 01 đến  hết  ngày 31\n\ntháng 08).\n\n4.  Đến thời hạn 30 ngàynếu bạn đọc có nhu cầu sử dụng tiếp tài liệu cần liên hệ thư viện để  gia\n\nhạn (nếu như không có bạn đọc khác chờ mượn). Thời gian tài liệu được gia hạn sử dụng\n\ntiếp là 14 ngày.\n\n5.  Nếu trả tài liệu trễ hạn, bạn đọc phải nộp phạt 2.000 đ/ngày (nếu tái phạm 02 lần trở lên"
+      ],
+      "source_titles": [
+        "Nội quy Thư viện — Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM",
+        "Nội quy Thư viện — Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM",
+        "Nội quy Thư viện — Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM",
+        "Nội quy Thư viện — Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM",
+        "Nội quy Thư viện — Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM"
+      ],
+      "retrieval_source": "hybrid",
+      "latency_s": 15.714,
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 0.43663326185548007,
+        "context_recall": 1.0,
+        "context_precision": 0.99999999998
+      }
+    },
+    {
+      "question": "Thời hạn mượn giáo trình tại Thư viện Trường ĐH Khoa học Xã hội và Nhân văn (ĐHQG-HCM) là bao lâu?",
+      "expected_answer": "Tại Thư viện Trường ĐH KHXH&NV (ĐHQG-HCM), giáo trình được mượn trong thời gian là một học kỳ, với số lượng 06 cuốn cho sinh viên và học viên sau đại học, 08 cuốn cho cán bộ - giảng viên.",
+      "expected_context": "Nội quy Thư viện Trường ĐH KHXH&NV, ĐHQG-HCM — mục quy định mượn giáo trình.",
+      "answer": "Thời hạn mượn giáo trình tại Thư viện Trường ĐH Khoa học Xã hội và Nhân văn (ĐHQG-HCM) là một học kỳ, cụ thể như sau:\n\n- Học kỳ I: từ ngày 01 tháng 09 đến hết ngày 15 tháng 01.\n- Học kỳ II: từ ngày 16 tháng 01 đến hết ngày 31 tháng 08 [Document 3].\n\nNgoài ra, nếu bạn đọc có nhu cầu sử dụng tiếp tài liệu, cần liên hệ thư viện để gia hạn, thời gian gia hạn sử dụng tiếp là 14 ngày [Document 4].",
+      "contexts": [
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] b) Quá thời hạn tối đa của khóa học, sinh viên sẽ bị xóa tên khỏi danh sách sinh\n\nviên của Trường.\n\nc) Tùy vào trường hợp cụ thể, Hiệu trưởng xem xét và gia hạn thêm thời gian\nđào tạo cho sinh viên nhưng không được vượt quá hai lần thời gian thiết kế của khóa\nhọc tương ứng với mỗi chương trình đào tạo.",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] 7. Thời gian tối đa để sinh viên hoàn thành khoá học\nTuỳ theo khả năng học tập, sinh viên được rút ngắn hoặc kéo dài thời gian học\n\nnhư sau:\n\na) Sinh viên được phép rút ngắn tối đa một (01) năm học và kéo dài thêm không\nvượt quá ba (03) năm học theo kế hoạch học tập. Riêng đối với chương trình liên\nthông đại học, sinh viên kéo dài thêm không vượt quá hai (02) năm học  theo kế\nhoạch học tập.",
+        "[Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM] (nếu tài liệu có hư hỏng bất thường).\n\n4.  Giáo  trình  được  mượn  06 cuốn đối với SV, HVSĐH; 08 cuốn đối với CB - GV, trong thời\n\ngian là một học kỳ  (học kỳ I: từ ngày 01 tháng 09 đến hết ngày 15 tháng 01; học kỳ II: từ\n\nngày 16 tháng 01 đến hết ngày 31 tháng 08). Nếu trả tài liệu trễ hạn, bạn đọc phải nộp phạt\n\n2.000 đ/ngày (nếu tái phạm 02 lần trở lên bạn đọc sẽ bị khóa giao dịch sử dụng thư viện từ\n\n03 đến 06 tháng).",
+        "[Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM] ngày 01 tháng 09  đến hết ngày 15 tháng 01; học kỳ II: từ ngày 16 tháng 01 đến  hết  ngày 31\n\ntháng 08).\n\n4.  Đến thời hạn 30 ngàynếu bạn đọc có nhu cầu sử dụng tiếp tài liệu cần liên hệ thư viện để  gia\n\nhạn (nếu như không có bạn đọc khác chờ mượn). Thời gian tài liệu được gia hạn sử dụng\n\ntiếp là 14 ngày.\n\n5.  Nếu trả tài liệu trễ hạn, bạn đọc phải nộp phạt 2.000 đ/ngày (nếu tái phạm 02 lần trở lên",
+        "[Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM] hạn (nếu như không có bạn đọc khác chờ mượn). Thời gian tài liệu được gia hạn sử dụng\n\ntiếp là 14 ngày.\n\n5.  Nếu trả tài liệu trễ hạn, bạn đọc phải nộp phạt 2.000 đ/ngày (nếu tái phạm 02 lần trở lên\n\nbạn đọc sẽ bị khóa giao dịch sử dụng thư viện từ 03 đến 06 tháng).\n\n6.  Nếu bạnđọclàmmất hoặclàmhư hỏngtài liệu sẽbịxửlýtheo các hình thức đã quy định ở nội\n\nquy chung.\n\n7.  Thực hiện các bước mượn, trả tài liệu theo đúng quy trình phục vụ."
+      ],
+      "source_titles": [
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Nội quy Thư viện — Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM",
+        "Nội quy Thư viện — Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM",
+        "Nội quy Thư viện — Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM"
+      ],
+      "retrieval_source": "hybrid",
+      "latency_s": 32.412,
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 0.3807420953326755,
+        "context_recall": 1.0,
+        "context_precision": 0.4166666666458333
+      }
+    },
+    {
+      "question": "Mức phạt trả tài liệu quá hạn ở Thư viện Trường ĐH Khoa học Xã hội và Nhân văn (ĐHQG-HCM) là bao nhiêu?",
+      "expected_answer": "Thư viện Trường ĐH KHXH&NV (ĐHQG-HCM) phạt 2.000 đồng mỗi ngày quá hạn; nếu tái phạm từ 02 lần trở lên sẽ bị khóa giao dịch từ 03 đến 06 tháng.",
+      "expected_context": "Nội quy Thư viện Trường ĐH KHXH&NV, ĐHQG-HCM — mục xử lý vi phạm, phạt quá hạn.",
+      "answer": "Mức phạt trả tài liệu quá hạn ở Thư viện Trường ĐH Khoa học Xã hội và Nhân văn (ĐHQG-HCM) là 2.000 đ/ngày. Nếu bạn đọc tái phạm 02 lần trở lên, sẽ bị khóa giao dịch sử dụng thư viện từ 03 đến 06 tháng [Document 1], [Document 4], [Document 5].",
+      "contexts": [
+        "[Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM] thư viện.\n\n6.  Cần trả tài liệu đúng thời gian quy định, nếu có nhu cầu tiếp tục sử dụng tài liệu đang mượn bạn\n\nđọc  cần  liên  hệ  thư  viện  để  gia  hạn.  Nếu  để  trễ  hạn  trả tài  liệu  bạn  đọc  phải  nộp  phạt  2.000\n\nđ/ngày (nếu tái phạm 02 lần trở lên bạn đọc sẽ bị khóa giao dịch sử dụng thư viện từ 03 đến 06\n\ntháng).\n\n7.  Không được sao chụp trái phép các tài liệu của thư viện, nếu có nhu cầu sao chụp tài liệu bạn",
+        "[Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM] hạn (nếu như không có bạn đọc khác chờ mượn). Thời gian tài liệu được gia hạn sử dụng\n\ntiếp là 14 ngày.\n\n5.  Nếu trả tài liệu trễ hạn, bạn đọc phải nộp phạt 2.000 đ/ngày (nếu tái phạm 02 lần trở lên\n\nbạn đọc sẽ bị khóa giao dịch sử dụng thư viện từ 03 đến 06 tháng).\n\n6.  Nếu bạnđọclàmmất hoặclàmhư hỏngtài liệu sẽbịxửlýtheo các hình thức đã quy định ở nội\n\nquy chung.\n\n7.  Thực hiện các bước mượn, trả tài liệu theo đúng quy trình phục vụ.",
+        "[Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM] + Tiền phạt: nộp phạt số tiền bằng 01 lần giá của tài liệu mất, được định giá tại thời điểm nộp\n\nphạt.\n\n-  Nếu trên thị trường và thư viện đều không còn tài liệu đã mất thì bạn đọc phải nộp phạt số\n\ntiền gấp 03 lần giá trị của tài liệu được định giá tại thời điểm nộp phạt.\n\n11. Ngoài nội quy chung, mỗi phòng chức năng đều có những quy định riêng, bạn đọc\n\ncần tham\n\nkhảo trước khi vào sử dụng.",
+        "[Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM] (nếu tài liệu có hư hỏng bất thường).\n\n4.  Giáo  trình  được  mượn  06 cuốn đối với SV, HVSĐH; 08 cuốn đối với CB - GV, trong thời\n\ngian là một học kỳ  (học kỳ I: từ ngày 01 tháng 09 đến hết ngày 15 tháng 01; học kỳ II: từ\n\nngày 16 tháng 01 đến hết ngày 31 tháng 08). Nếu trả tài liệu trễ hạn, bạn đọc phải nộp phạt\n\n2.000 đ/ngày (nếu tái phạm 02 lần trở lên bạn đọc sẽ bị khóa giao dịch sử dụng thư viện từ\n\n03 đến 06 tháng).",
+        "[Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM] ngày 01 tháng 09  đến hết ngày 15 tháng 01; học kỳ II: từ ngày 16 tháng 01 đến  hết  ngày 31\n\ntháng 08).\n\n4.  Đến thời hạn 30 ngàynếu bạn đọc có nhu cầu sử dụng tiếp tài liệu cần liên hệ thư viện để  gia\n\nhạn (nếu như không có bạn đọc khác chờ mượn). Thời gian tài liệu được gia hạn sử dụng\n\ntiếp là 14 ngày.\n\n5.  Nếu trả tài liệu trễ hạn, bạn đọc phải nộp phạt 2.000 đ/ngày (nếu tái phạm 02 lần trở lên"
+      ],
+      "source_titles": [
+        "Nội quy Thư viện — Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM",
+        "Nội quy Thư viện — Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM",
+        "Nội quy Thư viện — Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM",
+        "Nội quy Thư viện — Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM",
+        "Nội quy Thư viện — Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM"
+      ],
+      "retrieval_source": "hybrid",
+      "latency_s": 2.177,
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 0.5588446338343293,
+        "context_recall": 1.0,
+        "context_precision": 0.99999999998
+      }
+    },
+    {
+      "question": "Nội quy Thư viện Trường ĐH Khoa học Xã hội và Nhân văn (ĐHQG-HCM) cấm những hành vi nào đối với tài liệu?",
+      "expected_answer": "Theo nội quy Thư viện Trường ĐH KHXH&NV (ĐHQG-HCM): không được mang tài liệu ra khỏi thư viện nếu chưa qua thủ tục mượn; không được tráo đổi, xé trang, cắt xén, làm rách, nát, hư hỏng hoặc viết, vẽ vào tài liệu.",
+      "expected_context": "Nội quy Thư viện Trường ĐH KHXH&NV, ĐHQG-HCM — mục các hành vi bị nghiêm cấm.",
+      "answer": "Nội quy Thư viện Trường ĐH Khoa học Xã hội và Nhân văn (ĐHQG-HCM) cấm những hành vi sau đối với tài liệu:\n\n1. Không được làm xáo trộn, làm đổ tài liệu khi vào kho lựa chọn tài liệu [Document 1].\n2. Không được sao chụp trái phép các tài liệu của thư viện [Document 2].\n3. Nếu làm mất hoặc làm hư hỏng tài liệu, bạn đọc sẽ phải tìm mua lại đúng tài liệu đã mất và nộp phạt thêm 01 lần tiền bằng giá trị của tài liệu tại thời điểm nộp phạt [Document 3].\n4. Nếu không tìm được tài liệu mất trên thị trường phát hành, bạn đọc phải nộp phạt số tiền gấp 03 lần giá trị của tài liệu được định giá tại thời điểm nộp phạt [Document 4].",
+      "contexts": [
+        "[Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM] (WINDOW ON KOREA)\n\nI.  Nội quy sử dụng tài liệu.\n\n1.  Khi vào phòng đọc tham khảo Hàn Quốc, bạn đọc phải xuất trình thẻ cán bộ/thẻ sinh viên/thẻ\n\nhọc viên/thẻ thư viện và tuân thủ sự hướng dẫn của chuyên viên thư viện.\n\n2.  Để túi xách đúng nơi quy định. Khi vào kho lựa chọn tài liệu, bạn đọc không được làm xáo\n\ntrộn, làm đổ tài liệu, chỉ được mang 01 quyển vở/giấy tập để ghi chép (không sử dụng giấy khổ\n\nA4, A3…).\n\n3.  Trình tự mượn:",
+        "[Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM] thư viện.\n\n6.  Cần trả tài liệu đúng thời gian quy định, nếu có nhu cầu tiếp tục sử dụng tài liệu đang mượn bạn\n\nđọc  cần  liên  hệ  thư  viện  để  gia  hạn.  Nếu  để  trễ  hạn  trả tài  liệu  bạn  đọc  phải  nộp  phạt  2.000\n\nđ/ngày (nếu tái phạm 02 lần trở lên bạn đọc sẽ bị khóa giao dịch sử dụng thư viện từ 03 đến 06\n\ntháng).\n\n7.  Không được sao chụp trái phép các tài liệu của thư viện, nếu có nhu cầu sao chụp tài liệu bạn",
+        "[Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM] ngay cho chuyên viên thư viện.\n\n10. Nếu làm mất hoặc làm hư hỏng tài liệu bạn đọc sẽ bị xử lý như sau:\n\n-  Phải tìm mua lại đúng tài liệu đã mất và nộp phạt thêm 01 lần tiền bằng giá trị của tài liệu tại\n\nthời điểm nộp phạt.\n\n-  Trong trường hợp nếu bạn đọc không tìm được tài liệu mất trên thị trường phát hành, bạn\n\nVui vẻ, hòa nhã, tận tình, chu đáo - Phương châm phục vụ của chúng tôi.\n\n1",
+        "[Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM] + Tiền phạt: nộp phạt số tiền bằng 01 lần giá của tài liệu mất, được định giá tại thời điểm nộp\n\nphạt.\n\n-  Nếu trên thị trường và thư viện đều không còn tài liệu đã mất thì bạn đọc phải nộp phạt số\n\ntiền gấp 03 lần giá trị của tài liệu được định giá tại thời điểm nộp phạt.\n\n11. Ngoài nội quy chung, mỗi phòng chức năng đều có những quy định riêng, bạn đọc\n\ncần tham\n\nkhảo trước khi vào sử dụng.",
+        "[Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM] an ninh thông tin.\n\n6.  Các thiết bị lưu trữ di động phải được quét virus trước khi sử dụng.\n\n7.  Liên hệ  với chuyên viên thư viện khi cần sử dụng các tài liệu điện tử, tài liệu đa phương tiện\n\ncủa Thư viện.\n\n8.  Nếu  có  nhu  cầu  sử  dụng  các  dịch  vụ  tại  phòng  như:  in  ấn,  scan,  nhận  dạng,  ghi  đĩa  – nối\n\nfile…, người sử dụng cần liên hệ với chuyên viên thư viện và trả lệ phí theo quy định. Thời gian"
+      ],
+      "source_titles": [
+        "Nội quy Thư viện — Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM",
+        "Nội quy Thư viện — Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM",
+        "Nội quy Thư viện — Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM",
+        "Nội quy Thư viện — Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM",
+        "Nội quy Thư viện — Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM"
+      ],
+      "retrieval_source": "hybrid",
+      "latency_s": 49.267,
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 0.5000649489171375,
+        "context_recall": 1.0,
+        "context_precision": 0.99999999995
+      }
+    },
+    {
+      "question": "Theo quy chế đào tạo của Trường ĐH Khoa học Tự nhiên (ĐHQG-HCM), sinh viên chương trình đại trà phải đăng ký tối thiểu và tối đa bao nhiêu tín chỉ trong một học kỳ chính?",
+      "expected_answer": "Theo quy chế đào tạo Trường ĐH Khoa học Tự nhiên (ĐHQG-HCM), chương trình đại trà đăng ký tối thiểu 14 tín chỉ (không kể Giáo dục quốc phòng, thể chất, ngoại ngữ tổng quát) và tối đa 25 tín chỉ trong học kỳ chính.",
+      "expected_context": "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN), Trường ĐH Khoa học Tự nhiên ĐHQG-HCM — điều về khối lượng học tập và đăng ký học phần.",
+      "answer": "Theo quy chế đào tạo của Trường ĐH Khoa học Tự nhiên (ĐHQG-HCM), sinh viên chương trình đại trà phải đăng ký tối thiểu 12 tín chỉ và tối đa 25 tín chỉ trong một học kỳ chính. Cụ thể:\n\n- Tối thiểu: 12 tín chỉ (mặc dù không được nêu rõ trong tài liệu, nhưng quy định về học kỳ hè cho thấy số tín chỉ tối thiểu có thể là 12).\n- Tối đa: 25 tín chỉ [Document 1].\n\nThông tin này được lấy từ quy chế đào tạo của trường [Document 1].",
+      "contexts": [
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] b) Số tín chỉ đăng ký học tối đa trong học kỳ chính:\n-  Đối với chương trình Tiên tiến, Liên kết, Chất lượng cao:  tối đa là 22 tín\n\nchỉ.\n\n-  Đối với chương trình đại trà: tối đa là 25 tín chỉ.\n-  Số tín chỉ đăng ký học tối đa trong học kỳ hè là 12 tín chỉ\n-  Trong trường hợp đặc biệt sinh viên muốn đăng ký vượt quá số tín chỉ tối đa\nhoặc ít hơn số tín chỉ tối thiểu trong một học kỳ thì phải có đơn đề nghị, được Khoa\nđồng ý và Hiệu trưởng chấp thuận.",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] 5\n\n4. Một năm học của Trường được tổ chức như sau:\na)  Đối với chương trình đại trà: một năm học có hai học kỳ chính, mỗi học kỳ\nchính có 15 tuần thực học. Ngoài hai học kỳ chính, Trường có thể tổ chức thêm học\nkỳ hè để sinh viên có điều kiện được học lại, học cải thiện hoặc học vượt. Mỗi học\nkỳ hè có ít nhất 5 tuần thực học.\n\nb)  Đối với chương trình Tiên tiến, Liên kết, Chất lượng cao: một năm học có",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] 03 học kỳ chính với tổng số tối thiểu 30 tuần lên lớp.\n\nc) Kế hoạch năm học thể hiện những mốc thời gian chính của các hoạt động\nđào tạo trong năm học cho tất cả hình thức, chương trình đào tạo, được công bố kịp\nthời tới các bên liên quan trước khi bắt đầu năm học.",
+        "[Trường ĐH Kỹ thuật - Công nghệ Cần Thơ] Phương pháp đánh giá; Tài liệu tham khảo.\n4. Thống nhất các chương trình đào tạo trình độ đại học 4\nnăm có khối lượng của mỗi chương trình không dưới 130 tín chỉ.\nĐiều 5. Học phần và tín chỉ\n1. Học phần là khối lượng kiến thức tương đối trọn vẹn,\nthuận tiện cho sinh viên tích luỹ trong quá trình học tập. Phần\nlớn học phần có khối lượng từ 2 đến 4 tín chỉ, nội dung được\nbố trí giảng dạy trọn vẹn và phân bố đều trong một học kỳ.",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] Quốc Phòng, Giáo dục thể chất, Tin học cơ sở).\n\nf) Học kỳ liền kề trước thời điểm xét của ngành thứ nhất phải có điểm trung\n\nbình tích lũy học kỳ tối thiểu từ 7.0 trở lên.\n\ng) Quy định khác của Khoa phụ trách đào tạo (nếu có).\n2. Trong quá trình sinh viên học cùng lúc hai chương trình, sinh viên sẽ bị loại\nkhỏi danh sách đã đăng ký học chương trình thứ hai nếu thuộc vào các trường hợp\nnhư sau:"
+      ],
+      "source_titles": [
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Sổ tay sinh viên / Quy định đào tạo theo tín chỉ — Trường ĐH Kỹ thuật - Công nghệ Cần Thơ",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM"
+      ],
+      "retrieval_source": "hybrid",
+      "latency_s": 22.357,
+      "scores": {
+        "faithfulness": 0.5,
+        "answer_relevance": 0.4341760430109596,
+        "context_recall": 0.0,
+        "context_precision": 0.99999999995
+      }
+    },
+    {
+      "question": "Theo quy chế đào tạo của Trường ĐH Khoa học Tự nhiên (ĐHQG-HCM), học kỳ hè sinh viên được đăng ký tối đa bao nhiêu tín chỉ?",
+      "expected_answer": "Tối đa 12 tín chỉ trong học kỳ hè, theo quy chế đào tạo Trường ĐH Khoa học Tự nhiên (ĐHQG-HCM).",
+      "expected_context": "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — quy định khối lượng đăng ký học kỳ hè.",
+      "answer": "Theo quy chế đào tạo của Trường ĐH Khoa học Tự nhiên (ĐHQG-HCM), sinh viên được đăng ký tối đa 12 tín chỉ trong học kỳ hè [Document 1].",
+      "contexts": [
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] b) Số tín chỉ đăng ký học tối đa trong học kỳ chính:\n-  Đối với chương trình Tiên tiến, Liên kết, Chất lượng cao:  tối đa là 22 tín\n\nchỉ.\n\n-  Đối với chương trình đại trà: tối đa là 25 tín chỉ.\n-  Số tín chỉ đăng ký học tối đa trong học kỳ hè là 12 tín chỉ\n-  Trong trường hợp đặc biệt sinh viên muốn đăng ký vượt quá số tín chỉ tối đa\nhoặc ít hơn số tín chỉ tối thiểu trong một học kỳ thì phải có đơn đề nghị, được Khoa\nđồng ý và Hiệu trưởng chấp thuận.",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] c) Đối với sinh viên học cùng lúc hai chương trình, tổng số tín chỉ đăng ký tối\n\nđa cho mỗi học kỳ chính là 37, mỗi học kỳ hè không vượt quá 15.\n\n3. Điều chỉnh đăng ký học phần: theo kế hoạch điều chỉnh đăng ký học phần\n\ntại mỗi học kỳ.\n\n4. Trách nhiệm của sinh viên:\na) Chủ động theo dõi kết quả đăng ký học phần để xác nhận hoặc điều chỉnh\n\nnếu có.\n\nb) Thực hiện đầy đủ các yêu cầu như lên lớp, làm bài tập, thực hành, thí nghiệm,",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] 6\n\nĐiều 7. Tổ chức đăng ký học tập\n1. Đăng ký học phần:\na) Đầu mỗi học kỳ, sinh viên phải theo dõi thông báo để nắm thông tin về các\nhọc phần sẽ mở trong học kỳ và đăng ký các học phần trên trang thông tin điện tử\ncủa Phòng Đào tạo hoặc của Khoa.\n\nb) Tổng số tín chỉ của các học phần trong một học kỳ được tính bao gồm: số tín\n\nchỉ của học phần đăng ký mới, học phần học lại và học phần cải thiện.",
+        "### **Theo dõi về thông báo và lịch đăng ký**\nĐể thực hiện **cách đăng ký học phần** nhanh, sinh viên HUFLIT cần thường xuyên kiểm tra website của trường và phòng đào tạo để biết chính xác thời gian bắt đầu và kết thúc từng đợt đăng ký (https://portal.huflit.edu.vn).\nĐồng thời, nắm rõ các quy định về số tín chỉ mỗi học kỳ sinh viên có học lực bình thường được đăng ký khoảng 20 tín chỉ sinh viên có học lực yếu đăng ký tối thiểu 12 tín chỉ và sinh viên giỏi đăng ký tối đa không quá 30 tín chỉ.",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] 18\n\nchương trình thứ nhất.\n\n5.  Trường chỉ tổ chức đào tạo chương trình thứ hai cho sinh viên khi đáp ứng\ncác yêu cầu bảo đảm chất lượng về chỉ tiêu tuyển sinh, năng lực đào tạo; đồng thời\ncó quy định chi tiết về quy trình, thủ tục, điều kiện đăng ký học và cấp bằng tốt\nnghiệp chương trình thứ hai."
+      ],
+      "source_titles": [
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Cách đăng ký học phần: Hướng dẫn chi tiết từng bước",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM"
+      ],
+      "retrieval_source": "hybrid",
+      "latency_s": 3.815,
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 0.9439550829223292,
+        "context_recall": 1.0,
+        "context_precision": 0.9166666666361111
+      }
+    },
+    {
+      "question": "Theo quy chế đào tạo của Trường ĐH Khoa học Tự nhiên (ĐHQG-HCM), khi nào sinh viên bị cảnh báo học tập cuối học kỳ chính?",
+      "expected_answer": "Khi tổng số tín chỉ đạt trong học kỳ nhỏ hơn 7 tín chỉ (trừ sinh viên đã tích lũy tối thiểu 130 tín chỉ), hoặc điểm trung bình học kỳ liền kề dưới 3,0 hoặc trung bình hai học kỳ dưới 4,0 — theo quy chế của Trường ĐH Khoa học Tự nhiên (ĐHQG-HCM).",
+      "expected_context": "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — điều về cảnh báo học tập.",
+      "answer": "Trong tài liệu không có quy định cụ thể về việc sinh viên bị cảnh báo học tập cuối học kỳ chính tại Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM. Do đó, tôi không thể cung cấp thông tin về điều này.",
+      "contexts": [
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] d) Điều kiện làm khóa luận hoặc đồ án tốt nghiệp dựa vào các tiêu chí như sau:\n- Điểm trung bình tích lũy của khóa học.\n- Tiêu chí khác theo quy định của Khoa phụ trách đào tạo.\n\n2. Sinh viên thực hiện khoá luận tốt nghiệp và đồ án tốt nghiệp trong thời gian\n\n\f9\n\nlà một học kỳ tại học kỳ cuối cùng của khoá học. Tuỳ đặc điểm của ngành đào tạo,\nsinh viên làm khoá luận tốt nghiệp có thể được giao đề tài sớm hơn.",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] nghiệp ngay sau khi đủ điều kiện.\n\n2. Cuối mỗi học kỳ, Trường sẽ thông báo xét tốt nghiệp cho sinh viên.\n3. Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau:\na) Cho đến thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc\n\nkhông đang trong thời gian bị kỷ luật ở mức đình chỉ học tập;\n\nb) Tích lũy đủ số học phần và tổng số tín chỉ theo quy định của chương trình\n\nđào tạo;",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] Quy chế này.\n\n3. Sinh viên thuộc diện bị buộc thôi học sẽ bị xóa tên khỏi danh sách sinh viên.\nTrường sẽ thông báo cho sinh viên biết chậm nhất một tháng sau khi có quyết định\nbuộc thôi học.\n\n4. Kết quả học tập đã tích lũy của sinh viên trong trường hợp sinh viên bị buộc\n\nthôi học được lưu trữ tại Trường.\n\n\f14\n\nĐiều 17. Xét tốt nghiệp và công nhận tốt nghiệp\n1. Sinh viên phải thực hiện quy trình và thủ tục xét tốt nghiệp và công nhận tốt",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] 6. Sinh viên không tốt nghiệp được cấp chứng nhận về các học phần đã tích luỹ\n\ntrong chương trình đào tạo của nhà trường khi có nhu cầu.\n\n7. Sinh viên phải thực hiện quy trình và thủ tục xét tốt nghiệp công nhận tốt\n\nnghiệp ngay sau khi hoàn tất chương trình đào tạo và đủ điều kiện tốt nghiệp.\n\n8. Cuối mỗi học kỳ, Trường sẽ thông báo xét tốt nghiệp cho sinh viên.\n\nChương IV\nNHỮNG QUY ĐỊNH KHÁC ĐỐI VỚI SINH VIÊN",
+        "[Trường ĐH Kỹ thuật - Công nghệ Cần Thơ] tạm thời và chậm nhất là 2 tuần trước khi học kỳ mới bắt đầu,\nsinh viên phải nộp hồ sơ xin học lại. Nếu đủ điều kiện, Hiệu\ntrưởng sẽ có quyết định thu nhận sinh viên học lại.\n2. Cảnh báo học vụ là hình thức cảnh báo sinh viên trong\ncác trường hợp:\na. Có điểm trung bình chung học kỳ đạt dưới 0,80 đối với\n17"
+      ],
+      "source_titles": [
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Sổ tay sinh viên / Quy định đào tạo theo tín chỉ — Trường ĐH Kỹ thuật - Công nghệ Cần Thơ"
+      ],
+      "retrieval_source": "hybrid",
+      "latency_s": 13.197,
+      "scores": {
+        "faithfulness": 0.0,
+        "answer_relevance": 0.0,
+        "context_recall": 1.0,
+        "context_precision": 0.0
+      }
+    },
+    {
+      "question": "Theo quy chế đào tạo của Trường ĐH Khoa học Tự nhiên (ĐHQG-HCM), những trường hợp nào sinh viên bị buộc thôi học?",
+      "expected_answer": "Theo quy chế Trường ĐH Khoa học Tự nhiên (ĐHQG-HCM): không hoàn thành học phí đúng hạn; tự ý bỏ học hoặc bỏ thi từ một học kỳ chính trở lên; bị cảnh báo học tập lần thứ ba liên tiếp; bị kỷ luật ở mức buộc thôi học; vượt quá thời gian học tập tối đa quy định.",
+      "expected_context": "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — điều về buộc thôi học.",
+      "answer": "Theo quy chế đào tạo của Trường ĐH Khoa học Tự nhiên (ĐHQG-HCM), sinh viên bị buộc thôi học trong các trường hợp sau:\n\n1. Sinh viên thi hộ hoặc nhờ người thi hộ sẽ bị kỷ luật ở mức đình chỉ học tập 01 năm đối với trường hợp vi phạm lần thứ nhất và buộc thôi học đối với trường hợp vi phạm lần thứ hai. [Document 4]\n\n2. Người học sử dụng hồ sơ, văn bằng, chứng chỉ giả làm điều kiện trúng tuyển hoặc điều kiện tốt nghiệp sẽ bị buộc thôi học; văn bằng tốt nghiệp nếu đã được cấp sẽ bị thu hồi, huỷ bỏ. [Document 4]",
+      "contexts": [
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] b) Sinh viên không đạt một học phần bắt buộc sẽ phải học lại học phần đó hoặc\nhọc một học phần tương đương theo quy định trong chương trình đào tạo, hoặc học\nmột học phần thay thế nếu học phần đó không còn được giảng dạy;\n\nc) Sinh viên không đạt một học phần tự chọn sẽ phải học lại học phần đó hoặc\ncó thể chọn học một học phần tự chọn khác theo quy định trong chương trình đào\ntạo.",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] đào tạo và của Hiệu trưởng.\n\n2. Sinh viên được xem xét chuyển Trường khi có đủ các điều kiện sau:\na) Không đang là sinh viên trình độ năm thứ nhất hoặc năm cuối khóa, không\nthuộc diện bị xem xét buộc thôi học và còn đủ thời gian học tập theo quy định tại\nkhoản 7 Điều 2 của Quy chế này;\n\nb) Sinh viên đạt điều kiện trúng tuyển của chương trình, ngành đào tạo cùng\n\nkhóa tuyển sinh tại nơi chuyển đến;",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] Quốc Phòng, Giáo dục thể chất, Tin học cơ sở).\n\nf) Học kỳ liền kề trước thời điểm xét của ngành thứ nhất phải có điểm trung\n\nbình tích lũy học kỳ tối thiểu từ 7.0 trở lên.\n\ng) Quy định khác của Khoa phụ trách đào tạo (nếu có).\n2. Trong quá trình sinh viên học cùng lúc hai chương trình, sinh viên sẽ bị loại\nkhỏi danh sách đã đăng ký học chương trình thứ hai nếu thuộc vào các trường hợp\nnhư sau:",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] 2. Sinh viên thi hộ hoặc nhờ người thi hộ đều bị kỷ luật ở mức đình chỉ học tập\n01 (một) năm đối với trường hợp vi phạm lần thứ nhất và buộc thôi học đối  với\ntrường hợp vi phạm lần thứ hai.\n\n3. Người học sử dụng hồ sơ, văn bằng, chứng chỉ giả làm điều kiện trúng tuyển\nhoặc điều kiện tốt nghiệp sẽ bị buộc thôi học; văn bằng tốt nghiệp nếu đã được cấp\nsẽ bị thu hồi, huỷ bỏ.",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] b) Lớp sinh hoạt: bao gồm những sinh viên cùng khoá tuyển, cùng ngành và\ncùng chương trình đào tạo được tổ chức thành một lớp sinh hoạt, số lượng sinh viên\ncủa mỗi lớp sinh hoạt theo quy định về quản lý sinh viên.\n\n3. Các quy định về tổ chức đào tạo\na) Hiệu trưởng ban hành quy định về triển khai công tác đào tạo bậc đại học hệ\n\nchính quy các chương trình."
+      ],
+      "source_titles": [
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM"
+      ],
+      "retrieval_source": "hybrid",
+      "latency_s": 7.599,
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 0.5322259839717647,
+        "context_recall": 0.4,
+        "context_precision": 0.8055555555287036
+      }
+    },
+    {
+      "question": "Theo quy chế đào tạo của Trường ĐH Khoa học Tự nhiên (ĐHQG-HCM), thời gian học tập tối đa của sinh viên được kéo dài thêm bao lâu so với chương trình chuẩn?",
+      "expected_answer": "Theo quy chế Trường ĐH Khoa học Tự nhiên (ĐHQG-HCM), sinh viên được rút ngắn tối đa một (01) năm học và kéo dài thêm không vượt quá ba (03) năm học; riêng chương trình liên thông đại học kéo dài không vượt quá hai (02) năm học. Quá thời hạn sẽ bị xóa tên khỏi danh sách sinh viên.",
+      "expected_context": "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — điều về thời gian học tập.",
+      "answer": "Theo quy chế đào tạo của Trường ĐH Khoa học Tự nhiên (ĐHQG-HCM), sinh viên được phép kéo dài thêm thời gian học không vượt quá ba (03) năm học so với chương trình chuẩn. Riêng đối với chương trình liên thông đại học, thời gian kéo dài thêm không vượt quá hai (02) năm học theo kế hoạch học tập [Document 2].",
+      "contexts": [
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] 3. Thời gian tối đa được phép học đối với sinh viên học cùng lúc hai chương\ntrình là thời gian tối đa quy định cho chương trình thứ nhất, quy định tại khoản 7\nĐiều 2 của Quy chế này. Khi học chương trình thứ hai, sinh viên được công nhận\nkết quả của những học phần có nội dung và khối lượng kiến thức tương đương có\ntrong chương trình thứ nhất.",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] 7. Thời gian tối đa để sinh viên hoàn thành khoá học\nTuỳ theo khả năng học tập, sinh viên được rút ngắn hoặc kéo dài thời gian học\n\nnhư sau:\n\na) Sinh viên được phép rút ngắn tối đa một (01) năm học và kéo dài thêm không\nvượt quá ba (03) năm học theo kế hoạch học tập. Riêng đối với chương trình liên\nthông đại học, sinh viên kéo dài thêm không vượt quá hai (02) năm học  theo kế\nhoạch học tập.",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] b) Quá thời hạn tối đa của khóa học, sinh viên sẽ bị xóa tên khỏi danh sách sinh\n\nviên của Trường.\n\nc) Tùy vào trường hợp cụ thể, Hiệu trưởng xem xét và gia hạn thêm thời gian\nđào tạo cho sinh viên nhưng không được vượt quá hai lần thời gian thiết kế của khóa\nhọc tương ứng với mỗi chương trình đào tạo.",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] 6. Đối với mỗi hình thức đào tạo, chương trình đào tạo được cung cấp kế hoạch\nhọc tập chuẩn toàn khoá để định hướng cho sinh viên. Thời gian theo kế hoạch học\ntập chuẩn toàn khoá đối với hình thức đào tạo chính quy phải phù hợp với thời gian\nquy định trong Khung cơ cấu hệ thống giáo dục quốc dân, đồng thời đảm bảo đa số\nsinh viên hoàn thành chương trình đào tạo.",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] công nhận các môn học đã tích lũy theo quy định.\n\n4. Thời gian học được phép học tối đa đối với sinh viên chuyển đến là thời gian\n\n\f17\n\ntối đa hoàn thành khóa học tương ứng theo quy định tại khoản 7 Điều 2 của quy chế\nnày."
+      ],
+      "source_titles": [
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM"
+      ],
+      "retrieval_source": "hybrid",
+      "latency_s": 8.765,
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 0.8515850132568513,
+        "context_recall": 1.0,
+        "context_precision": 0.94999999997625
+      }
+    },
+    {
+      "question": "Theo quy chế đào tạo của Trường ĐH Khoa học Tự nhiên (ĐHQG-HCM), điểm trung bình 8,5 theo thang 10 tương ứng với điểm chữ nào?",
+      "expected_answer": "Điểm chữ A, tương ứng 3,5 theo thang điểm 4 (khoảng từ 8,0 đến cận 9,0), theo bảng chuyển đổi tại Điều 11 quy chế của Trường ĐH Khoa học Tự nhiên (ĐHQG-HCM).",
+      "expected_context": "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Điều 11, bảng chuyển đổi thang điểm 10 sang điểm chữ và thang điểm 4.",
+      "answer": "Theo quy chế đào tạo của Trường ĐH Khoa học Tự nhiên (ĐHQG-HCM), điểm trung bình 8,5 theo thang 10 tương ứng với điểm chữ Giỏi. Cụ thể, điểm trung bình từ 8 đến cận 9 được xếp loại Giỏi [Document 2].",
+      "contexts": [
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] C\n\n\f10\n\nĐiểm 4\n1,5\n1,0\n0,0\n\nĐiểm chữ\n D+\nD\nF\n\nThang điểm 10\n4,0 đến cận 5,0\n3,0 đến cận 4,0\n\n<3,0\n\n2. Thang điểm 4 và thang điểm chữ chỉ mang tính tham khảo, chuyển đổi khi\n\ncần thiết, không dùng để ghi và phân loại đánh giá.",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] Điểm trung bình\n\na. Loại đạt\nTừ 9 đến 10\nTừ 8 đến cận 9\nTừ 7 đến cận 8\nTừ 5 đến cận 7\nb. Loại không đạt\nTừ 4 đến cận 5\nDưới 4\n\nXếp loại/hạng\n\nXuất sắc\nGiỏi\nKhá\nTrung bình\nXếp loại\nYếu\nKém\n\n\f13\n\n-  Áp dụng cho khóa 2020 trở về trước:\n\nĐiểm trung bình\n\na. Loại đạt\nTừ 9 đến 10\nTừ 8 đến cận 9\nTừ 7 đến cận 8\nTừ 6 đến cận 7\nTừ 5 đến cận 6\nb. Loại không đạt\nTừ 4 đến cận 5\nDưới 4\n\nXếp loại/hạng\n\nXuất sắc\nGiỏi\nKhá\nTrung bình khá\nTrung bình\nXếp loại\nYếu\nKém",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] 8\n\ncuối học kỳ). Các điểm thành phần được đánh giá theo thang điểm 10. Phương pháp\nđánh giá, hình thức đánh giá và trọng số của mỗi điểm thành phần được quy định\ntrong đề cương chi tiết của mỗi học phần, được Khoa thông qua và được Hiệu trưởng\nphê duyệt. Điểm quá trình và điểm thi kết thúc học phần được quy định như sau:",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] tối thiểu 130 tín chỉ tích lũy).\n\nb) Điểm trung bình chung học tập học kỳ liền kề trước đó dưới 3,0 hoặc điểm",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] 3. Hạng tốt nghiệp được xác định căn cứ vào điểm trung bình tích lũy toàn khoá\nđược quy định tại điểm b khoản 2 Điều 15 của Quy chế này. Hạng tốt nghiệp của\n\n\f15\n\nsinh viên có điểm trung bình tích lũy loại xuất sắc và giỏi sẽ bị giảm đi một mức nếu\nđã bị kỷ luật từ mức cảnh cáo trở lên trong thời gian học.\n\n4. Kết quả học tập của sinh viên được ghi vào bảng điểm theo từng học phần\n\nvà phát kèm theo bằng tốt nghiệp."
+      ],
+      "source_titles": [
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM"
+      ],
+      "retrieval_source": "hybrid",
+      "latency_s": 2.78,
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 0.7855865451887768,
+        "context_recall": 1.0,
+        "context_precision": 0.9999999999666667
+      }
+    },
+    {
+      "question": "Theo quy chế đào tạo của Trường ĐH Khoa học Tự nhiên (ĐHQG-HCM), sinh viên học lại học phần không đạt thì điểm nào được tính là điểm chính thức?",
+      "expected_answer": "Điểm của lần học cuối là điểm chính thức của học phần, theo Điều 14 quy chế Trường ĐH Khoa học Tự nhiên (ĐHQG-HCM).",
+      "expected_context": "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Điều 14 về học lại và cải thiện điểm.",
+      "answer": "Theo quy chế đào tạo của Trường ĐH Khoa học Tự nhiên (ĐHQG-HCM), sinh viên có điểm học phần không đạt phải đăng ký học lại, và điểm lần học cuối sẽ là điểm chính thức của học phần đó [Document 4].",
+      "contexts": [
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] 3. Hạng tốt nghiệp được xác định căn cứ vào điểm trung bình tích lũy toàn khoá\nđược quy định tại điểm b khoản 2 Điều 15 của Quy chế này. Hạng tốt nghiệp của\n\n\f15\n\nsinh viên có điểm trung bình tích lũy loại xuất sắc và giỏi sẽ bị giảm đi một mức nếu\nđã bị kỷ luật từ mức cảnh cáo trở lên trong thời gian học.\n\n4. Kết quả học tập của sinh viên được ghi vào bảng điểm theo từng học phần\n\nvà phát kèm theo bằng tốt nghiệp.",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] 11\n\nkỳ.\n\n2. Trường sẽ xem xét công nhận, chuyển đổi tín chỉ trên cơ sở đối sánh chuẩn\nđầu ra, nội dung và khối lượng học tập, cách thức đánh giá học phần và các điều\nkiện bảo đảm chất lượng. Nếu được chấp thuận thì học phần được miễn sẽ có điểm\nmà sinh viên đã đạt tại Trường khác và kèm theo chữ bảo lưu (BL). Trường hợp\nđiểm cụ thể không xác định, học phần được miễn sẽ có điểm được ký hiệu M (điểm\nM).",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] của học phần này được tính là số tín chỉ tích lũy.\n\n5. Sinh viên vắng mặt trong buổi thi, đánh giá không có lý do chính đáng phải\nnhận điểm 0 (không) đối với điểm thành phần/hình thức kiểm tra tương ứng. Trường\nhợp sinh viên vắng mặt trong buổi thi cuối học kỳ nhưng có nộp đơn xin phép vắng\nthi và có lý do chính đáng sẽ được hoãn thi theo quy định tại Điều 12 của quy chế\nnày.",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] 3. Điểm bảo lưu (BL) và điểm miễn (M) không tính vào điểm trung bình học\n\nkỳ và điểm trung bình tích lũy.\n\n4. Khối lượng tối đa được công nhận, chuyển đổi không vượt quá 25% khối\n\nlượng học tập tối thiểu của chương trình đào tạo.\nĐiều 14. Học lại và học cải thiện điểm\n1. Học lại\na) Sinh viên có điểm học phần không đạt phải đăng ký học lại, điểm lần học\n\ncuối là điểm chính thức của học phần",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] 3. Đối với các học phần đã hoàn tất đăng ký, sinh viên có trách nhiệm thực hiện\nđầy đủ và nghiêm túc mọi yêu cầu của giảng viên về việc lên lớp, làm bài tập, thực\nhành, thí nghiệm, tham gia thảo luận, tham dự kiểm tra giữa học kỳ và thi kết thúc\nhọc phần. Nếu không thực hiện phần việc nào, sinh viên sẽ nhận điểm không (0) cho\nđiểm thành phần tương ứng.\n\n4. Học phần có điểm từ 5,0 (năm) trở lên được xem là học phần đạt, số tín chỉ"
+      ],
+      "source_titles": [
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM"
+      ],
+      "retrieval_source": "hybrid",
+      "latency_s": 7.602,
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 0.4319441292385411,
+        "context_recall": 1.0,
+        "context_precision": 0.6388888888675925
+      }
+    },
+    {
+      "question": "Ký túc xá Trường Đại học Công nghiệp Thực phẩm TP.HCM mở và đóng cổng lúc mấy giờ?",
+      "expected_answer": "Tại ký túc xá Trường ĐH Công nghiệp Thực phẩm TP.HCM: mở cổng lúc 05 giờ 00, đóng cổng lúc 22 giờ 30 vào ngày thường và 23 giờ 00 vào dịp Lễ, Tết; thang máy hoạt động từ 5 giờ 30 đến 22 giờ 30.",
+      "expected_context": "Nội quy - Quy chế lưu trú tại Ký túc xá Trường ĐH Công nghiệp Thực phẩm TP.HCM — quy định giờ giấc.",
+      "answer": "Ký túc xá Trường Đại học Công nghiệp Thực phẩm TP.HCM mở cổng lúc 05 giờ 00 phút và đóng cổng vào ngày thường lúc 22 giờ 30 phút, vào ngày lễ, Tết lúc 23 giờ 00 phút [Document 1].",
+      "contexts": [
+        "[Trường ĐH Công nghiệp Thực phẩm TP.HCM] +   Giờ mở cổng:   05 giờ 00 phút\n\n2\n\n\f           +   Giờ đóng cổng:  Ngày thường:\n\n22 giờ 30 phút\n\n                                            Ngày Lễ, Tết:\n\n23 giờ 00 phút\n\n2. Tất cả công chức viên chức, HSSV khi vào KTX phải đeo bảng  tên. Khách đến\nliên hệ công tác, thân nhân, bạn bè của HSSV đến thăm phải xuất trình giấy tờ tuỳ thân,\nđeo thẻ khách và tuân theo sự hướng dẫn của bảo vệ.\n\nĐiều 7. Qui định về phòng ở",
+        "[Trường ĐH Công nghiệp Thực phẩm TP.HCM] - Việc gia hạn hợp đồng hoặc ký hợp đồng mới đều phải tuân thủ quy chế này.\n\nChương III\n\nNỘI QUI – QUI ĐỊNH LƯU TRÚ TẠI  KÝ TÚC XÁ\n\nĐiều 6. Qui định ra vào cổng và thời gian sinh hoạt Ký túc xá\n\n1. Công chức, viên chức đến làm việc, HSSV – nội trú, khách đến liên hệ công tác\nvới KTX Trường Đại học Công nghiệp Thực phẩm Tp. Hồ Chí Minh phải chịu sự kiểm\nsoát của lực lượng bảo vệ và phải chấp hành nội quy ra vào cơ quan.",
+        "[Trường ĐH Công nghiệp Thực phẩm TP.HCM] viên sử dụng. Thời gian hoạt động của thang máy từ 5 giờ 30 đến 22 giờ 30.",
+        "[Trường ĐH Công nghiệp Thực phẩm TP.HCM] hàng ngày, sinh viên không được mang bàn, ghế, tủ, kệ, nệm cá nhân v.v... vào KTX.",
+        "[Trường ĐH Công nghiệp Thực phẩm TP.HCM] cán bộ hỗ trợ  sinh viên KTX để phối hợp cùng các bộ phận tổ chức dập tắt không để\ncháy lây lan."
+      ],
+      "source_titles": [
+        "Nội quy - Quy chế lưu trú tại Ký túc xá — Trường ĐH Công nghiệp Thực phẩm TP.HCM",
+        "Nội quy - Quy chế lưu trú tại Ký túc xá — Trường ĐH Công nghiệp Thực phẩm TP.HCM",
+        "Nội quy - Quy chế lưu trú tại Ký túc xá — Trường ĐH Công nghiệp Thực phẩm TP.HCM",
+        "Nội quy - Quy chế lưu trú tại Ký túc xá — Trường ĐH Công nghiệp Thực phẩm TP.HCM",
+        "Nội quy - Quy chế lưu trú tại Ký túc xá — Trường ĐH Công nghiệp Thực phẩm TP.HCM"
+      ],
+      "retrieval_source": "hybrid",
+      "latency_s": 68.612,
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 0.6182176957788665,
+        "context_recall": 1.0,
+        "context_precision": 0.99999999995
+      }
+    },
+    {
+      "question": "Ký túc xá Trường Đại học Công nghiệp Thực phẩm TP.HCM có cho tiếp khách trong phòng ở không?",
+      "expected_answer": "Không. Nội quy ký túc xá Trường ĐH Công nghiệp Thực phẩm TP.HCM quy định rõ không được tiếp khách trong phòng ở, đồng thời cấm đun nấu trong phòng, cấm cờ bạc và cấm tàng trữ ma túy, vũ khí, chất nổ.",
+      "expected_context": "Nội quy - Quy chế lưu trú tại Ký túc xá Trường ĐH Công nghiệp Thực phẩm TP.HCM — các hành vi bị cấm.",
+      "answer": "Không có quy định nào trong tài liệu về việc cho phép tiếp khách trong phòng ở tại Ký túc xá Trường Đại học Công nghiệp Thực phẩm TP.HCM. Do đó, tôi không thể cung cấp thông tin cụ thể về vấn đề này.",
+      "contexts": [
+        "[Trường ĐH Công nghiệp Thực phẩm TP.HCM] hàng ngày, sinh viên không được mang bàn, ghế, tủ, kệ, nệm cá nhân v.v... vào KTX.",
+        "[Trường Đại học Cần Thơ] | --- | ----------------------------- | ----- | ------ | --- | --------- | --------- | ------------- | --- |\n|     | phòng                         | (Trừ  | những  |     | dãy  nhà  | toàn KTX  | KTX           |     |\nđược phép nấu ăn).\n| 07  | Tổ chức nấu ăn trong phòng ở |        |      |      |       | Buộc ra  |     |     |\n| --- | ---------------------------- | ------ | ---- | ---- | ----- | -------- | --- | --- |",
+        "[Trường ĐH Công nghiệp Thực phẩm TP.HCM] Điều 7. Qui định về phòng ở\n\n1. Mỗi phòng ở phòng bầu ra trưởng phòng, các thành viên phải tuân thủ sự quản lý\ncủa trưởng phòng và có trách nhiệm thực hiện nghiêm túc nội qui - quy định lưu trú, đại\ndiện ký nhận với Trung tâm Ký túc xá sinh viên về tài sản của từng phòng.\n\n2. Hàng ngày phải luân phiên cử người trực phòng, giữ vệ sinh chung, ngăn nắp, lịch\nsự, không được vứt rác, xả nước, quăng đồ vật bừa bãi trong phòng và từ các tầng lầu\nxuống dưới.",
+        "[Trường Đại học Cần Thơ] 8. Không được nấu ăn trong phòng ở và khu vực KTX (Trừ các dãy nhà có thiết\nkế và lắp đặt trang thiết bị cho phép nấu ăn tại KTX-A); Không để thức ăn, thực phẩm\nvào tủ đựng đồ.\n9. SV khi rời khỏi KTX dưới 05 ngày (trừ những ngày nghỉ được Trường quy\nđịnh) phải báo với Phòng trưởng (người đại diện của mỗi phòng, được chỉ định hay do\nSV cử ra); Nếu rời khỏi KTX từ 05 ngày trở lên, Phòng trưởng có trách nhiệm báo với\nGiám thị.\nĐiều 4. Quy định về sử dụng phòng ở",
+        "[Trường ĐH Công nghiệp Thực phẩm TP.HCM] +   Giờ mở cổng:   05 giờ 00 phút\n\n2\n\n\f           +   Giờ đóng cổng:  Ngày thường:\n\n22 giờ 30 phút\n\n                                            Ngày Lễ, Tết:\n\n23 giờ 00 phút\n\n2. Tất cả công chức viên chức, HSSV khi vào KTX phải đeo bảng  tên. Khách đến\nliên hệ công tác, thân nhân, bạn bè của HSSV đến thăm phải xuất trình giấy tờ tuỳ thân,\nđeo thẻ khách và tuân theo sự hướng dẫn của bảo vệ.\n\nĐiều 7. Qui định về phòng ở"
+      ],
+      "source_titles": [
+        "Nội quy - Quy chế lưu trú tại Ký túc xá — Trường ĐH Công nghiệp Thực phẩm TP.HCM",
+        "Nội quy công tác nội trú tại Ký túc xá — Trường Đại học Cần Thơ",
+        "Nội quy - Quy chế lưu trú tại Ký túc xá — Trường ĐH Công nghiệp Thực phẩm TP.HCM",
+        "Nội quy công tác nội trú tại Ký túc xá — Trường Đại học Cần Thơ",
+        "Nội quy - Quy chế lưu trú tại Ký túc xá — Trường ĐH Công nghiệp Thực phẩm TP.HCM"
+      ],
+      "retrieval_source": "hybrid",
+      "latency_s": 9.006,
+      "scores": {
+        "faithfulness": 0.5,
+        "answer_relevance": 0.0,
+        "context_recall": 1.0,
+        "context_precision": 0.699999999965
+      }
+    },
+    {
+      "question": "Quy định về giờ giấc ra vào ký túc xá của Trường Đại học Cần Thơ và Trường ĐH Công nghiệp Thực phẩm TP.HCM khác nhau thế nào?",
+      "expected_answer": "Hai trường quy định khác nhau. Trường Đại học Cần Thơ quy định giờ giữ yên tĩnh (trưa 12-13 giờ, tối 23 giờ đến 5 giờ sáng). Trường ĐH Công nghiệp Thực phẩm TP.HCM quy định giờ mở/đóng cổng: mở 05 giờ 00, đóng 22 giờ 30 ngày thường và 23 giờ 00 dịp Lễ, Tết.",
+      "expected_context": "Cần đồng thời hai nguồn: Nội quy KTX Trường Đại học Cần Thơ và Nội quy - Quy chế lưu trú KTX Trường ĐH Công nghiệp Thực phẩm TP.HCM.",
+      "answer": "Quy định về giờ giấc ra vào ký túc xá của Trường Đại học Cần Thơ và Trường ĐH Công nghiệp Thực phẩm TP.HCM như sau:\n\n1. **Trường ĐH Công nghiệp Thực phẩm TP.HCM**:\n   - Giờ mở cổng: 05 giờ 00 phút.\n   - Giờ đóng cổng:\n     - Ngày thường: 22 giờ 30 phút.\n     - Ngày Lễ, Tết: 23 giờ 00 phút.\n   - Tất cả công chức viên chức, HSSV khi vào KTX phải đeo bảng tên và xuất trình giấy tờ tùy thân nếu là khách đến thăm [Document 3].\n\n2. **Trường Đại học Cần Thơ**:\n   - Sinh viên nội trú khi ra vào khu vực KTX phải mang Thẻ Sinh viên và đúng giờ quy định, nhưng không nêu cụ thể giờ mở và đóng cổng trong tài liệu [Document 4].\n\nTóm lại, quy định của Trường ĐH Công nghiệp Thực phẩm TP.HCM có giờ cụ thể cho việc mở và đóng cổng, trong khi Trường Đại học Cần Thơ chỉ yêu cầu sinh viên mang Thẻ Sinh viên và tuân thủ giờ quy định mà không nêu rõ giờ cụ thể.",
+      "contexts": [
+        "[Trường ĐH Công nghiệp Thực phẩm TP.HCM] - Việc gia hạn hợp đồng hoặc ký hợp đồng mới đều phải tuân thủ quy chế này.\n\nChương III\n\nNỘI QUI – QUI ĐỊNH LƯU TRÚ TẠI  KÝ TÚC XÁ\n\nĐiều 6. Qui định ra vào cổng và thời gian sinh hoạt Ký túc xá\n\n1. Công chức, viên chức đến làm việc, HSSV – nội trú, khách đến liên hệ công tác\nvới KTX Trường Đại học Công nghiệp Thực phẩm Tp. Hồ Chí Minh phải chịu sự kiểm\nsoát của lực lượng bảo vệ và phải chấp hành nội quy ra vào cơ quan.",
+        "[Trường ĐH Công nghiệp Thực phẩm TP.HCM] 5. Thực hiện tốt giờ giấc học tập, sinh hoạt, nghỉ ngơi theo quy định của khu nội trú.\nBan  đêm,  muốn  học  quá  giờ phải  dùng  đèn  cá  nhân  không  làm  ảnh  hưởng đến người\nkhác.\n\n6.  Không  được  tiếp  khách  trong  phòng  ở.  Sinh viên  nam  không  được  vào  phòng\n\ncủa sinh viên nữ và ngược lại.\n\n7. Không phơi quần áo và các đồ dùng khác tùy tiện ngoài hành lang.\n\n8. Không nói tục chửi thề, đùa nghịch, gây gổ kích động đánh nhau, tổ chức bè nhóm",
+        "[Trường ĐH Công nghiệp Thực phẩm TP.HCM] +   Giờ mở cổng:   05 giờ 00 phút\n\n2\n\n\f           +   Giờ đóng cổng:  Ngày thường:\n\n22 giờ 30 phút\n\n                                            Ngày Lễ, Tết:\n\n23 giờ 00 phút\n\n2. Tất cả công chức viên chức, HSSV khi vào KTX phải đeo bảng  tên. Khách đến\nliên hệ công tác, thân nhân, bạn bè của HSSV đến thăm phải xuất trình giấy tờ tuỳ thân,\nđeo thẻ khách và tuân theo sự hướng dẫn của bảo vệ.\n\nĐiều 7. Qui định về phòng ở",
+        "[Trường Đại học Cần Thơ] đăng ký với Văn phòng TT. PVSV hoặc Tổ Bảo vệ KTX, sẽ được bố trí ở khu vực\nriêng.\nĐiều 3. Quy định về sinh họat\n1. SV nội trú khi ra vào khu vực KTX phải mang Thẻ Sinh viên và đúng giờ quy\nđịnh.\n2. Không làm ồn ào gây ảnh hưởng đến người khác trong giờ nghỉ (Buổi trưa từ\n12 giờ đến 13 giờ; Buổi tối từ 23 giờ đến 5 giờ sáng hôm sau).\n3. Không được qua khu vực KTX SV khác giới; Không tiếp khách trong phòng ở\n(kể cả SV nội trú ở phòng khác).",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] quy định khác đối với sinh viên."
+      ],
+      "source_titles": [
+        "Nội quy - Quy chế lưu trú tại Ký túc xá — Trường ĐH Công nghiệp Thực phẩm TP.HCM",
+        "Nội quy - Quy chế lưu trú tại Ký túc xá — Trường ĐH Công nghiệp Thực phẩm TP.HCM",
+        "Nội quy - Quy chế lưu trú tại Ký túc xá — Trường ĐH Công nghiệp Thực phẩm TP.HCM",
+        "Nội quy công tác nội trú tại Ký túc xá — Trường Đại học Cần Thơ",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM"
+      ],
+      "retrieval_source": "hybrid",
+      "latency_s": 10.46,
+      "scores": {
+        "faithfulness": 0.7,
+        "answer_relevance": 0.6216269799749194,
+        "context_recall": 1.0,
+        "context_precision": 0.0
+      }
+    },
+    {
+      "question": "Ký túc xá Đại học Quốc gia TP.HCM bố trí bao nhiêu chỗ ở cho tân sinh viên trong năm học 2024-2025?",
+      "expected_answer": "Khoảng 10.500 chỗ dành cho tân sinh viên, trên tổng quy mô 35.500 chỗ ở (25.000 chỗ còn lại dành cho sinh viên các khóa trên).",
+      "expected_context": "Bài báo về chỗ ở ký túc xá Đại học Quốc gia TP.HCM năm học 2024-2025 và mức phí từng loại phòng.",
+      "answer": "Ký túc xá Đại học Quốc gia TP.HCM dự kiến sẽ bố trí 10.500 chỗ ở cho tân sinh viên trong năm học 2024-2025 [Document 1].",
+      "contexts": [
+        "## Đăng ký ở ký túc xá trực tuyến\nTrao đổi với _Tuổi Trẻ Online_ , ông Lại Thế Tuân - trưởng phòng tổng hợp, Trung tâm quản lý ký túc xá Đại học Quốc gia TP.HCM - cho biết theo số liệu, dự kiến năm học 2024-2025 ký túc xá sẽ tiếp nhận 35.500 sinh viên vào ở, trong đó dự kiến sinh viên cũ là 25.000 chỗ và tân sinh viên là 10.500 chỗ.",
+        "Giá phòng ký túc Đại học Quốc gia TP.HCM năm học 2025 - 2026.\nKý túc xá của trường ** Đại học  Kinh tế TP.HCM ** gồm các loại phòng: 6 chỗ, 8 chỗ, 9 chỗ, 10 chỗ, và 12 chỗ, mức phí từ 180.000 - 1,15 triệu đồng/tháng/sinh viên. Cụ thể:",
+        "Trung tâm quản lý ký túc xá Đại học Quốc gia TP.HCM cho biết sẽ có nhiều điểm mới được triển khai trong năm học 2024-2025. Trong đó trung tâm quản lý sẽ cung cấp thông tin, kế hoạch sửa chữa, cải tạo phòng ở sinh viên để sinh viên biết và chủ động trong sinh hoạt, học tập, tránh ảnh hưởng đến các bạn.\nKý túc xá cũng sẽ ban hành và áp dụng quy định tiêu chuẩn phòng ở sinh viên gồm 13 thiết bị theo các danh mục để cam kết cung cấp đầy đủ, đảm bảo chất lượng cho sinh viên.",
+        "TRỌNG NHÂN\n\nKý túc xá Đại học Quốc gia TP.HCM dự kiến tiếp nhận 35.500 sinh viên trong năm học 2024-2025. Sinh viên cho hay phí ký túc xá tăng so với năm trước.",
+        "Ngoài ra trong năm học 2024-2025, Trung tâm quản lý ký túc xá sẽ dành 1 tòa nhà để sắp xếp, bố trí cho sinh viên thuộc diện miễn, giảm lệ phí nội trú, khám sức khỏe...\n## **Vì sao ký túc xá tăng lệ phí nội trú?**"
+      ],
+      "source_titles": [
+        "10.500 chỗ ở cho tân sinh viên tại ký túc xá ĐH Quốc gia TP.HCM - Tuổi Trẻ Online",
+        "Mức phí ký túc xá các trường đại học 2025, cao nhất hơn 3 triệu đồng/tháng",
+        "10.500 chỗ ở cho tân sinh viên tại ký túc xá ĐH Quốc gia TP.HCM - Tuổi Trẻ Online",
+        "10.500 chỗ ở cho tân sinh viên tại ký túc xá ĐH Quốc gia TP.HCM - Tuổi Trẻ Online",
+        "10.500 chỗ ở cho tân sinh viên tại ký túc xá ĐH Quốc gia TP.HCM - Tuổi Trẻ Online"
+      ],
+      "retrieval_source": "hybrid",
+      "latency_s": 2.64,
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 0.662997457842094,
+        "context_recall": 1.0,
+        "context_precision": 0.7499999999625
+      }
+    },
+    {
+      "question": "Tân sinh viên nên chuẩn bị gì trước giờ mở cổng đăng ký học phần để tránh bị nghẽn hệ thống?",
+      "expected_answer": "Ghi sẵn tên và mã học phần, giảng viên, thời gian học; lập trước thời khóa biểu dự kiến; chuẩn bị phương án dự phòng khi lớp hết chỗ; đăng nhập sớm và kiên nhẫn vì hệ thống hay quá tải; lưu đăng ký ngay và chụp màn hình thời khóa biểu làm bằng chứng.",
+      "expected_context": "Bài hướng dẫn đăng ký tín chỉ/học phần hiệu quả cho tân sinh viên trên Báo Điện tử Chính phủ.",
+      "answer": "Tân sinh viên nên chuẩn bị những điều sau trước giờ mở cổng đăng ký học phần để tránh bị nghẽn hệ thống:\n\n1. **Đăng nhập sớm vào hệ thống đăng ký:** Sinh viên nên truy cập website đăng ký học phần trước giờ mở để làm quen giao diện và hạn chế tình trạng nghẽn mạng, tải trang chậm. Trong trường hợp hệ thống quá tải, có thể chuẩn bị sẵn nhiều thiết bị hoặc sử dụng trình duyệt khác để tăng khả năng đăng nhập thành công. [Document 1]\n\n2. **Kiên nhẫn khi đăng nhập:** Vào khung giờ bắt đầu mở hệ thống đăng ký, tất cả sinh viên sẽ tập trung đăng nhập, có thể dẫn đến tình trạng lỗi mạng hoặc sập trang web. Do đó, sinh viên cần phải kiên nhẫn để có thể đăng nhập lại vào hệ thống, có thể sử dụng nhiều trình duyệt web để tăng thêm cơ hội đăng ký thành công. [Document 3]\n\n3. **Chuẩn bị trước thông tin cần thiết:** Trước ngày mở đăng ký, sinh viên cần kiểm tra kỹ danh sách các môn học trong kế hoạch học tập, bao gồm mã môn, số tín chỉ và loại học phần. Việc nắm sẵn thông tin giúp thao tác nhanh hơn khi hệ thống mở, hạn chế nhầm lẫn hoặc mất thời gian tìm kiếm. [Document 2]",
+      "contexts": [
+        "* **Đăng nhập sớm vào hệ thống đăng ký:** Sinh viên nên truy cập website đăng ký học phần trước giờ mở để làm quen giao diện và hạn chế tình trạng nghẽn mạng, tải trang chậm. Trong trường hợp hệ thống quá tải, có thể chuẩn bị sẵn nhiều thiết bị hoặc sử dụng trình duyệt khác để tăng khả năng đăng nhập thành công.",
+        "Để quá trình đăng ký học phần diễn ra suôn sẻ và tránh tình trạng hết chỗ hoặc lỗi hệ thống, sinh viên HUFLIT nên chủ động chuẩn bị và áp dụng một số mẹo sau:\n  * **Chuẩn bị trước thông tin cần thiết:** Trước ngày mở đăng ký, sinh viên cần kiểm tra kỹ danh sách các môn học trong kế hoạch học tập, bao gồm mã môn, số tín chỉ và loại học phần. Việc nắm sẵn thông tin giúp thao tác nhanh hơn khi hệ thống mở, hạn chế nhầm lẫn hoặc mất thời gian tìm kiếm.",
+        "### **Lưu ý sinh viên cần biết khi đăng kí học phần**\nThời gian đăng kí học phần thường được nhà trường quy định từ trước. Vào khung giờ bắt đầu mở hệ thống đăng kí, tất cả sinh viên sẽ tập trung đăng nhập, có thể dẫn đến tình trạng lỗi mạng hoặc sập trang web. Do đó, sinh viên cần phải kiên nhẫn để có thể đăng nhập lại vào hệ thống, có thể sử dụng nhiều trình duyệt web để tăng thêm cơ hội đăng ký thành công.",
+        "Đăng kí học phần ở đại học thực chất là một cuộc chiến khốc liệt. Tất cả sinh viên sẽ phải đăng nhập hệ thống để đăng ký học phần cho kỳ học sau. Vì có quá nhiều sinh viên đăng nhập vào hệ thống cùng một lúc, vì thế có thể xảy ra một số lỗi làm sinh viên không thể đăng kí được lịch học. Một số tình trạng như lỗi mạng, số lượng sinh viên trong lớp không còn trống,... là thường xuyên xảy ra.\n## **Cần chuẩn bị gì trước khi đăng kí tín chỉ, học phần?**",
+        "**Cách đăng ký học phần** là vấn đề được nhiều sinh viên HUFLIT quan tâm, đặc biệt vào mỗi đầu học kỳ khi hệ thống mở đăng ký. Dưới đây là những câu hỏi thường gặp cùng câu trả lời giúp sinh viên chủ động và tự tin hơn trong quá trình đăng ký học phần.\n### **Sinh viên HUFLIT cần chuẩn bị gì trước khi đăng ký học phần?**"
+      ],
+      "source_titles": [
+        "Cách đăng ký học phần: Hướng dẫn chi tiết từng bước",
+        "Cách đăng ký học phần: Hướng dẫn chi tiết từng bước",
+        "Cách đăng kí tín chỉ, học phần hiệu quả cho tân sinh viên",
+        "Cách đăng kí tín chỉ, học phần hiệu quả cho tân sinh viên",
+        "Cách đăng ký học phần: Hướng dẫn chi tiết từng bước"
+      ],
+      "retrieval_source": "hybrid",
+      "latency_s": 3.763,
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 0.49970452179064656,
+        "context_recall": 0.8,
+        "context_precision": 0.99999999998
+      }
+    }
+  ],
+  "B": [
+    {
+      "question": "Giờ giữ yên tĩnh tại ký túc xá Trường Đại học Cần Thơ là những khung giờ nào?",
+      "expected_answer": "Theo nội quy ký túc xá Trường Đại học Cần Thơ: buổi trưa từ 12 giờ đến 13 giờ và buổi tối từ 23 giờ đến 5 giờ sáng hôm sau.",
+      "expected_context": "Nội quy công tác nội trú tại Ký túc xá Trường Đại học Cần Thơ — mục quy định về nếp sống, giờ giữ yên tĩnh trưa và tối.",
+      "answer": "Giờ giữ yên tĩnh tại ký túc xá Trường Đại học Cần Thơ là từ 12 giờ đến 13 giờ (buổi trưa) và từ 23 giờ đến 5 giờ sáng hôm sau (buổi tối) [Document 1].",
+      "contexts": [
+        "[Trường Đại học Cần Thơ] đăng ký với Văn phòng TT. PVSV hoặc Tổ Bảo vệ KTX, sẽ được bố trí ở khu vực\nriêng.\nĐiều 3. Quy định về sinh họat\n1. SV nội trú khi ra vào khu vực KTX phải mang Thẻ Sinh viên và đúng giờ quy\nđịnh.\n2. Không làm ồn ào gây ảnh hưởng đến người khác trong giờ nghỉ (Buổi trưa từ\n12 giờ đến 13 giờ; Buổi tối từ 23 giờ đến 5 giờ sáng hôm sau).\n3. Không được qua khu vực KTX SV khác giới; Không tiếp khách trong phòng ở\n(kể cả SV nội trú ở phòng khác).",
+        "[Trường ĐH Kỹ thuật - Công nghệ Cần Thơ] Điều 6. Thời gian hoạt động giảng dạy\n1. Thời gian hoạt động giảng dạy của trường được tính từ\n7 giờ đến 20 giờ 40 hằng ngày. Mỗi ngày có 13 tiết học được\nphân bổ như sau:\nBảng 1. Phân bố tiết học trong ngày\nThời gian\n| Buổi học  | Tiết  | Từ  | Đến  |     |\n| --------- | ----- | --- | ---- | --- |\nnghỉ\n|        | 1              | 7 giờ 00  | 7 giờ 50   |          |\n| ------ | -------------- | --------- | ---------- | -------- |",
+        "| Một góc học tập sang xịn |\n| Ngồi học từ sáng đến đêm vẫn không muốn về vì ở đây yên tĩnh, wifi mạnh như... sóng thần |\n| Giờ nghỉ trưa bỗng có một tiếng đàn cất lên dìu dặt khiến ai nấy đều cảm thấy thư giãn  |",
+        "[Trường ĐH Kỹ thuật - Công nghệ Cần Thơ] |        | 9  15 giờ 40   |           | 16 giờ 30  |          |\n|        | 10  16 giờ 30  |           | 17 giờ 20  |          |\n|        | 11  18 giờ 00  |           | 18 giờ 50  |          |\n| Tối    | 12  18 giờ 50  |           | 19 giờ 40  | 10 phút  |\n|        | 13  19 giờ 50  |           | 20 giờ 40  |          |\nTùy theo số lượng sinh viên, số lớp học học phần cần tổ\nchức, điều kiện cơ sở vật chất của trường, trưởng phòng đào",
+        "Nhiều không gian học tập phục vụ 24/7 như không gian thông tin của Đại học Nam California, trong đó cán bộ tham khảo chịu trách nhiệm đến 19 giờ, khoảng thời gian còn lại là sinh viên trực. Có những không gian học tập là những phần có thể tách rời với thư viện, sau giờ thư viện đóng cửa sinh viên có thể quét thẻ để vào. Một cách thức khác để không gian học tập có thể phục vụ mọi lúc mọi nơi là tạo nên một không gian ảo"
+      ],
+      "source_titles": [
+        "Nội quy công tác nội trú tại Ký túc xá — Trường Đại học Cần Thơ",
+        "Sổ tay sinh viên / Quy định đào tạo theo tín chỉ — Trường ĐH Kỹ thuật - Công nghệ Cần Thơ",
+        "Những thư viện đại học sang chảnh khiến sinh viên mê mẩn 'ngồi lì' cả ngày",
+        "Sổ tay sinh viên / Quy định đào tạo theo tín chỉ — Trường ĐH Kỹ thuật - Công nghệ Cần Thơ",
+        "Mô hình không gian học tập ở các thư viện đại học | NGHIỆP VỤ THƯ VIỆN"
+      ],
+      "retrieval_source": "hybrid",
+      "latency_s": 2.422,
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 0.6165887612492434,
+        "context_recall": 1.0,
+        "context_precision": 0.9999999999
+      }
+    },
+    {
+      "question": "Phí ký túc xá của Trường Đại học Cần Thơ được nộp theo kỳ hay theo tháng?",
+      "expected_answer": "Tại Trường Đại học Cần Thơ, phí ký túc xá được nộp theo học kỳ, vào đầu mỗi học kỳ. Quá thời gian quy định mà sinh viên không nộp phí thì xem như sinh viên không có nhu cầu ở.",
+      "expected_context": "Nội quy KTX Trường Đại học Cần Thơ — mục thủ tục đăng ký và nộp phí ký túc xá.",
+      "answer": "Không có quy định của Trường Đại học Cần Thơ trong tài liệu. Do đó, tôi không thể cung cấp thông tin về phí ký túc xá của trường này.",
+      "contexts": [
+        "Mức phí ký túc xá trường Đại học Sư phạm - Đại học Đà Nẵng.\nNăm ngoái, trường **Đại học Việt Đức** áp dụng mức phí ký túc xá hàng tháng từ 600.000 đồng đến 2,4 triệu/tháng/sinh viên. Phí ký túc sẽ được đóng theo học kỳ (6 tháng) vào đầu mỗi học kỳ, mỗi sinh viên đặt cọc 2 tháng tiền phòng và sẽ được hoàn trả sau khi chấm dứt hợp đồng thuê và trừ các khoản chi phí đền bù (nếu có). Chi phí điện, nước, internet, sẽ đóng theo thông báo tiêu thụ hàng tháng.",
+        "Năm học tới, trường  Đại học Công nghiệp TP.HCM  có 2.800 chỉ tiêu ở ký túc xá, trong đó 1.200 suất dành cho sinh viên năm nhất và 1.600 suất cho sinh viên năm 2, 3, 4. Sinh viên nhu cầu ở ký túc xá sẽ làm đơn theo mẫu quy định và nộp đơn tại văn phòng ký túc xá.\nMức đóng tiền ở ký túc xá là 550.000 đồng/tháng. Nhà trường sẽ thu 10 tháng trong năm học. Ngoài ra sinh viên sẽ đóng thêm khoản dịch vụ sử dụng máy giặt 225.000 đồng/năm.",
+        "Đối với  Học viện Báo chí và Tuyên truyền  áp dụng mức giá phòng ký túc xá với sinh viên như sau: Mức phí tòa E3, E5: 500.000 đồng/tháng (chưa bao gồm phí điện nước), E6: 400.000 đồng/tháng, E2: 300.000 đồng /tháng (tiền phòng ở E6 và E2 đã bao gồm điện nước.)\nNăm ngoái, trường Đại học Sư phạm (Đại học Đà Nẵng) cũng công bố mức phí ký túc xá từ 150.000 - 960.000 đồng/tháng/sinh viên. Ngoài ra, sinh viên cần đóng thêm 100.000 đồng phí thế chấp tài sản.",
+        "Ký túc xá tại trường có mức phí thuê theo tháng từ 250.000 đến 3,4 triệu đồng/tháng. Một số loại phòng có mức giá trên 1 triệu đồng gồm phòng ký túc xá 4 giường (1,7 triệu đồng/tháng), phòng 2 giường (3,4 triệu đồng/tháng).\nNếu chọn thêm dịch vụ gửi xe, sinh viên cần đóng mức phí từ 40.000 - 80.000 đồng/tháng, tùy loại xe và phải đóng 5 tháng/lần.",
+        "Đơn giá ký túc xá Đại học Kinh tế TP.HCM.\nBên cạnh giá tiền phòng, trường còn thông báo về phí dịch vụ. Với ký túc xá 43-45 Nguyễn Chí Thanh và ký túc xá 135 Trần Hưng Đạo gồm các mức phí:\n  * Phí sử dụng máy giặt/sấy: 15.000 đồng/lượt..\n  * Nước: miễn phí 2m3/sinh viên/tháng (nếu sử dụng vượt qua định mức sẽ tính tiền theo đơn giá hiện hành).\n  * Điện: miễn phí 10kWh/sinh viên/tháng (nếu sử dụng vượt qua định mức sẽ tính tiền theo đơn giá hiện hành)."
+      ],
+      "source_titles": [
+        "Mức phí ký túc xá các trường đại học 2025, cao nhất hơn 3 triệu đồng/tháng",
+        "Mức phí ký túc xá các trường đại học 2025, cao nhất hơn 3 triệu đồng/tháng",
+        "Mức phí ký túc xá các trường đại học 2025, cao nhất hơn 3 triệu đồng/tháng",
+        "Mức phí ký túc xá các trường đại học 2025, cao nhất hơn 3 triệu đồng/tháng",
+        "Mức phí ký túc xá các trường đại học 2025, cao nhất hơn 3 triệu đồng/tháng"
+      ],
+      "retrieval_source": "hybrid",
+      "latency_s": 5.603,
+      "scores": {
+        "faithfulness": 0.5,
+        "answer_relevance": 0.0,
+        "context_recall": 0.0,
+        "context_precision": 0.0
+      }
+    },
+    {
+      "question": "Sinh viên ở ký túc xá Trường Đại học Cần Thơ chậm nộp phí điện nước bao nhiêu ngày thì bị xử lý, và mức xử lý là gì?",
+      "expected_answer": "Theo nội quy Trường Đại học Cần Thơ, chậm nộp phí điện, nước sau 7 ngày kể từ ngày hết hạn nộp thì bị cảnh cáo toàn ký túc xá.",
+      "expected_context": "Nội quy KTX Trường Đại học Cần Thơ — bảng các hành vi vi phạm và hình thức xử lý.",
+      "answer": "Sinh viên ở ký túc xá Trường Đại học Cần Thơ chậm nộp phí điện nước sẽ bị xử lý cảnh cáo. Tuy nhiên, tài liệu không nêu rõ số ngày chậm nộp cụ thể dẫn đến việc xử lý này. \n\n- Mức xử lý: Cảnh cáo [Document 1]. \n- Số ngày chậm nộp không có thông tin trong tài liệu.",
+      "contexts": [
+        "[Trường Đại học Cần Thơ] 21 Vi phạm quy định về sử dụng  Tùy mức độ, xử lý từ khiển trách đến buộc\ninternet  của  Trường;  cố  tình  ra khỏi KTX, bồi thường thiệt hại và đề\n| can thiệp hoặc phá hỏng các  |     | nghị nhà trường xử lý  |     |     |\n| ---------------------------- | --- | ---------------------- | --- | --- |\nthiết bị WIFI trong phòng ở\nvà khu vực KTX.\n| 22 Chậm nộp phí điện, nước (Sau  |     | Cảnh cáo      |     |     |",
+        "Đơn giá ký túc xá Đại học Kinh tế TP.HCM.\nBên cạnh giá tiền phòng, trường còn thông báo về phí dịch vụ. Với ký túc xá 43-45 Nguyễn Chí Thanh và ký túc xá 135 Trần Hưng Đạo gồm các mức phí:\n  * Phí sử dụng máy giặt/sấy: 15.000 đồng/lượt..\n  * Nước: miễn phí 2m3/sinh viên/tháng (nếu sử dụng vượt qua định mức sẽ tính tiền theo đơn giá hiện hành).\n  * Điện: miễn phí 10kWh/sinh viên/tháng (nếu sử dụng vượt qua định mức sẽ tính tiền theo đơn giá hiện hành).",
+        "Đối với  Học viện Báo chí và Tuyên truyền  áp dụng mức giá phòng ký túc xá với sinh viên như sau: Mức phí tòa E3, E5: 500.000 đồng/tháng (chưa bao gồm phí điện nước), E6: 400.000 đồng/tháng, E2: 300.000 đồng /tháng (tiền phòng ở E6 và E2 đã bao gồm điện nước.)\nNăm ngoái, trường Đại học Sư phạm (Đại học Đà Nẵng) cũng công bố mức phí ký túc xá từ 150.000 - 960.000 đồng/tháng/sinh viên. Ngoài ra, sinh viên cần đóng thêm 100.000 đồng phí thế chấp tài sản.",
+        "[Trường Đại học Cần Thơ] trường xử lý (thanh lý). Thẻ giữ xe, phiếu giữ xe quá hạn sau mỗi học kỳ xem như\nkhông còn giá trị, nhà xe không chịu trách nhiệm về hư hỏng, mất mát. Các trường\nhợp lấy xe quá thời hạn, SV phải chi trả phí vãng lai thời gian lấy trễ.\nĐiều 8. Quy định về sử dụng điện, nước và chi trả phí điện, nước\n1. Mỗi phòng ở SV được lắp đặt đồng hồ đo chỉ số điện và nước (trừ các dãy nhà\ncó cấu trúc đặc biệt). Hàng tháng, SV chi trả phí điện, nước theo chỉ số sử dụng thực",
+        "Với những sinh viên thuộc diện miễn giảm học phí theo quy định của Nhà nước sẽ được giảm 50% phí ở ký túc xá. Sinh viên không trong diện miễn giảm nhưng có hoàn cảnh khó khăn sẽ làm đơn, kèm theo giấy tờ liên quan nộp cho ban quản lý ký túc để tổng hợp và đề lên ban giám hiệu nhà trường xem xét."
+      ],
+      "source_titles": [
+        "Nội quy công tác nội trú tại Ký túc xá — Trường Đại học Cần Thơ",
+        "Mức phí ký túc xá các trường đại học 2025, cao nhất hơn 3 triệu đồng/tháng",
+        "Mức phí ký túc xá các trường đại học 2025, cao nhất hơn 3 triệu đồng/tháng",
+        "Nội quy công tác nội trú tại Ký túc xá — Trường Đại học Cần Thơ",
+        "Mức phí ký túc xá các trường đại học 2025, cao nhất hơn 3 triệu đồng/tháng"
+      ],
+      "retrieval_source": "hybrid",
+      "latency_s": 2.179,
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 0.0,
+        "context_recall": 1.0,
+        "context_precision": 0.7499999999625
+      }
+    },
+    {
+      "question": "Ký túc xá Trường Đại học Cần Thơ cho phép sinh viên dùng thiết bị điện công suất tối đa bao nhiêu W?",
+      "expected_answer": "Tại ký túc xá Trường Đại học Cần Thơ, chỉ được dùng bàn ủi, ấm đun nước có công suất dưới 1.000 W.",
+      "expected_context": "Nội quy KTX Trường Đại học Cần Thơ — quy định về sử dụng điện và thiết bị điện trong phòng ở.",
+      "answer": "Ký túc xá Trường Đại học Cần Thơ cho phép sinh viên sử dụng các thiết bị điện có công suất nhỏ dưới 1.000 W, bao gồm máy tính, máy in, bàn ủi điện, ấm nấu nước, quạt điện để bàn, bóng đèn và các phương tiện điện tử khác phục vụ cho học tập [Document 1].",
+      "contexts": [
+        "[Trường Đại học Cần Thơ] động khi không có cháy nổ xảy ra trong khu vực.\n6. Thực hiện đúng các quy định về sử dụng internet (WIFI).\n7. Cho phép SV sử dụng các thiết bị điện:\n- Máy tính, máy in phục vụ cho công việc học tập;\n- Bàn ủi điện, ấm nấu nước dùng điện công suất nhỏ (dưới 1.000 W);\n- Quạt điện để bàn, bóng đèn;\n- Các phương tiện điện tử khác phục vụ cho học tập có công suất nhỏ.\n8. Khi hết hạn ở KTX, SV có trách nhiệm bàn giao chỗ ở và các tài sản thuộc",
+        "Năm học tới, trường  Đại học Công nghiệp TP.HCM  có 2.800 chỉ tiêu ở ký túc xá, trong đó 1.200 suất dành cho sinh viên năm nhất và 1.600 suất cho sinh viên năm 2, 3, 4. Sinh viên nhu cầu ở ký túc xá sẽ làm đơn theo mẫu quy định và nộp đơn tại văn phòng ký túc xá.\nMức đóng tiền ở ký túc xá là 550.000 đồng/tháng. Nhà trường sẽ thu 10 tháng trong năm học. Ngoài ra sinh viên sẽ đóng thêm khoản dịch vụ sử dụng máy giặt 225.000 đồng/năm.",
+        "### Thư viện trường đại học phải rộng bao nhiêu mới đủ?",
+        "Đơn giá ký túc xá Đại học Kinh tế TP.HCM.\nBên cạnh giá tiền phòng, trường còn thông báo về phí dịch vụ. Với ký túc xá 43-45 Nguyễn Chí Thanh và ký túc xá 135 Trần Hưng Đạo gồm các mức phí:\n  * Phí sử dụng máy giặt/sấy: 15.000 đồng/lượt..\n  * Nước: miễn phí 2m3/sinh viên/tháng (nếu sử dụng vượt qua định mức sẽ tính tiền theo đơn giá hiện hành).\n  * Điện: miễn phí 10kWh/sinh viên/tháng (nếu sử dụng vượt qua định mức sẽ tính tiền theo đơn giá hiện hành).",
+        "Đối với  Học viện Báo chí và Tuyên truyền  áp dụng mức giá phòng ký túc xá với sinh viên như sau: Mức phí tòa E3, E5: 500.000 đồng/tháng (chưa bao gồm phí điện nước), E6: 400.000 đồng/tháng, E2: 300.000 đồng /tháng (tiền phòng ở E6 và E2 đã bao gồm điện nước.)\nNăm ngoái, trường Đại học Sư phạm (Đại học Đà Nẵng) cũng công bố mức phí ký túc xá từ 150.000 - 960.000 đồng/tháng/sinh viên. Ngoài ra, sinh viên cần đóng thêm 100.000 đồng phí thế chấp tài sản."
+      ],
+      "source_titles": [
+        "Nội quy công tác nội trú tại Ký túc xá — Trường Đại học Cần Thơ",
+        "Mức phí ký túc xá các trường đại học 2025, cao nhất hơn 3 triệu đồng/tháng",
+        "Những thư viện đại học sang chảnh khiến sinh viên mê mẩn 'ngồi lì' cả ngày",
+        "Mức phí ký túc xá các trường đại học 2025, cao nhất hơn 3 triệu đồng/tháng",
+        "Mức phí ký túc xá các trường đại học 2025, cao nhất hơn 3 triệu đồng/tháng"
+      ],
+      "retrieval_source": "hybrid",
+      "latency_s": 2.339,
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 0.46941558284057655,
+        "context_recall": 1.0,
+        "context_precision": 0.9999999999
+      }
+    },
+    {
+      "question": "Sinh viên rời khỏi ký túc xá Trường Đại học Cần Thơ bao nhiêu ngày thì phải báo, và báo cho ai?",
+      "expected_answer": "Theo nội quy Trường Đại học Cần Thơ, rời khỏi ký túc xá dưới 05 ngày phải báo với Phòng trưởng; từ 05 ngày trở lên thì Phòng trưởng có trách nhiệm báo với Giám thị.",
+      "expected_context": "Nội quy KTX Trường Đại học Cần Thơ — quy định về quản lý sinh viên vắng mặt tại phòng ở.",
+      "answer": "Sinh viên rời khỏi ký túc xá Trường Đại học Cần Thơ dưới 05 ngày (trừ những ngày nghỉ được Trường quy định) phải báo với Phòng trưởng (người đại diện của mỗi phòng, được chỉ định hay do sinh viên cử ra). Nếu rời khỏi ký túc xá từ 05 ngày trở lên, Phòng trưởng có trách nhiệm báo với Giám thị [Document 1].",
+      "contexts": [
+        "[Trường Đại học Cần Thơ] 8. Không được nấu ăn trong phòng ở và khu vực KTX (Trừ các dãy nhà có thiết\nkế và lắp đặt trang thiết bị cho phép nấu ăn tại KTX-A); Không để thức ăn, thực phẩm\nvào tủ đựng đồ.\n9. SV khi rời khỏi KTX dưới 05 ngày (trừ những ngày nghỉ được Trường quy\nđịnh) phải báo với Phòng trưởng (người đại diện của mỗi phòng, được chỉ định hay do\nSV cử ra); Nếu rời khỏi KTX từ 05 ngày trở lên, Phòng trưởng có trách nhiệm báo với\nGiám thị.\nĐiều 4. Quy định về sử dụng phòng ở",
+        "Đối với  Học viện Báo chí và Tuyên truyền  áp dụng mức giá phòng ký túc xá với sinh viên như sau: Mức phí tòa E3, E5: 500.000 đồng/tháng (chưa bao gồm phí điện nước), E6: 400.000 đồng/tháng, E2: 300.000 đồng /tháng (tiền phòng ở E6 và E2 đã bao gồm điện nước.)\nNăm ngoái, trường Đại học Sư phạm (Đại học Đà Nẵng) cũng công bố mức phí ký túc xá từ 150.000 - 960.000 đồng/tháng/sinh viên. Ngoài ra, sinh viên cần đóng thêm 100.000 đồng phí thế chấp tài sản.",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] Quy chế này.\n\n3. Sinh viên thuộc diện bị buộc thôi học sẽ bị xóa tên khỏi danh sách sinh viên.\nTrường sẽ thông báo cho sinh viên biết chậm nhất một tháng sau khi có quyết định\nbuộc thôi học.\n\n4. Kết quả học tập đã tích lũy của sinh viên trong trường hợp sinh viên bị buộc\n\nthôi học được lưu trữ tại Trường.\n\n\f14\n\nĐiều 17. Xét tốt nghiệp và công nhận tốt nghiệp\n1. Sinh viên phải thực hiện quy trình và thủ tục xét tốt nghiệp và công nhận tốt",
+        "[Trường Đại học Cần Thơ] |     | cả  | SV  | nội  trú  | thuộc  | phòng  |     | toàn KTX | toàn KTX |\n| --- | --- | --- | --------- | ------ | ------ | --- | -------- | -------- |\n12 khác).\n|     | Tiếp                         | người  | khác  | giới  | trong  | Cảnh cáo    | Buộc ra khỏi  |     |\n| --- | ---------------------------- | ------ | ----- | ----- | ------ | ----------- | ------------- | --- |",
+        "[Trường Đại học Cần Thơ] |     |                              |        |       |       |        | hư hỏng     | hỏng          |     |\n14 Không  thực  hiện  vệ  sinh  Nhắc nhở Khiển trách  Cảnh cáo  (3)\n|     | phòng                  | ở   | (Phòng  | ở   | mất  vệ  |     | toàn KTX | toàn KTX,   |\n| --- | ---------------------- | --- | ------- | --- | -------- | --- | -------- | ----------- |\n|     | sinh, không ngăn nắp). |     |         |     |          |     |          | chuyển chỗ  |\nở khác"
+      ],
+      "source_titles": [
+        "Nội quy công tác nội trú tại Ký túc xá — Trường Đại học Cần Thơ",
+        "Mức phí ký túc xá các trường đại học 2025, cao nhất hơn 3 triệu đồng/tháng",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Nội quy công tác nội trú tại Ký túc xá — Trường Đại học Cần Thơ",
+        "Nội quy công tác nội trú tại Ký túc xá — Trường Đại học Cần Thơ"
+      ],
+      "retrieval_source": "hybrid",
+      "latency_s": 4.619,
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 0.5207908051515976,
+        "context_recall": 1.0,
+        "context_precision": 0.9999999999
+      }
+    },
+    {
+      "question": "Sinh viên được mượn tối đa bao nhiêu cuốn tài liệu tham khảo ở Thư viện Trường ĐH Khoa học Xã hội và Nhân văn (ĐHQG-HCM), trong bao lâu?",
+      "expected_answer": "Tại Thư viện Trường ĐH KHXH&NV (ĐHQG-HCM), sinh viên và học viên sau đại học được mượn 06 cuốn tài liệu tham khảo trong vòng 30 ngày; cán bộ - giảng viên được mượn 08 cuốn.",
+      "expected_context": "Nội quy Thư viện Trường ĐH KHXH&NV, ĐHQG-HCM — mục quy định mượn tài liệu tham khảo.",
+      "answer": "Sinh viên tại Thư viện Trường ĐH Khoa học Xã hội và Nhân văn (ĐHQG-HCM) được mượn tối đa 06 cuốn tài liệu tham khảo trong vòng 30 ngày. [Document 1], [Document 3].",
+      "contexts": [
+        "[Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM] đọc cần liên hệ với chuyên viên thư viện và sao chụp theo quy định của thư viện.\n\n8.  Bạn đọc được mượn tài liệu như sau:\n\n-  Tài liệu tham khảo được mượn 06 cuốn đối với SV, HVSĐH; 08 cuốn đối với CB - GV trong\n\nvòng 30 ngày và phải trả tài liệu đúng thời hạn quy định.\n\n-    Giáo trình: được mượn 06 cuốn đối với SV, HVSĐH; 08 cuốn đối với CB - GV, trong thời gian",
+        "[Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM] 2.  Đặt thẻ cán bộ/thẻ sinh viên/thẻ học viên/thẻ thư viện lên tài  liệu  cần mượn tại quầy phục\n\nvụ.\n\n3.  Tài liệu  tham  khảo  mỗi  lần  được  mượn  06  cuốn  đối với SV, HVSĐH; 08  cuốn  đối với CB -\n\nGV trong vòng 30 ngày. Bạn đọc phải trả sách đúng thời hạn quy định; Giáo  trình  được  mượn\n\n06 cuốn đối với SV, HVSĐH; 08 cuốn đối với CB - GV, trong thời gian là một học kỳ (học kỳ I: từ",
+        "[Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM] 2.  Đặt thẻ cán bộ/thẻ sinh viên/thẻ học viên/thẻ thư viện lên tài  liệu  cần mượn tại quầy phục\n\nvụ.\n\n3.  Tài  liệu  tham  khảo  mỗi  lần  được  mượn  06  cuốn  đối với SV, HVSĐH; 08  cuốn  đối với CB -\n\nGV trong vòng 30 ngày. Bạn đọc phải trả sách đúng thời hạn quy định.\n\n4.  Đến thời hạn 30 ngày, nếu bạn đọc có nhu cầu sử dụng tiếp tài liệu cần liên hệ thư viện để gia",
+        "[Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM] (nếu tài liệu có hư hỏng bất thường).\n\n4.  Giáo  trình  được  mượn  06 cuốn đối với SV, HVSĐH; 08 cuốn đối với CB - GV, trong thời\n\ngian là một học kỳ  (học kỳ I: từ ngày 01 tháng 09 đến hết ngày 15 tháng 01; học kỳ II: từ\n\nngày 16 tháng 01 đến hết ngày 31 tháng 08). Nếu trả tài liệu trễ hạn, bạn đọc phải nộp phạt\n\n2.000 đ/ngày (nếu tái phạm 02 lần trở lên bạn đọc sẽ bị khóa giao dịch sử dụng thư viện từ\n\n03 đến 06 tháng).",
+        "[Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM] 3.  Trình tự mượn tài liệu tham khảo:\n\n•  Mỗi  lượt  được  mượn  03  tài  liệu đối với Sinh viên, Học viên sau đại học và 05  tài\n\nliệu  đối với Cán bộ - Giảng viên.\n\n•  Đặt thẻ cán bộ/thẻ sinh viên/thẻ học viên/thẻ thư viện lên tài  liệu  cần mượn tại quầy\n\nphục vụ.\n\n•  Kiểm  tra  tình  trạng  tài  liệu  trước  khi  mượn  để  báo  cho  chuyên  viên  thư  viện\n\n(nếu tài liệu có hư hỏng bất thường)."
+      ],
+      "source_titles": [
+        "Nội quy Thư viện — Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM",
+        "Nội quy Thư viện — Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM",
+        "Nội quy Thư viện — Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM",
+        "Nội quy Thư viện — Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM",
+        "Nội quy Thư viện — Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM"
+      ],
+      "retrieval_source": "hybrid",
+      "latency_s": 7.032,
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 0.535970059348621,
+        "context_recall": 1.0,
+        "context_precision": 0.99999999998
+      }
+    },
+    {
+      "question": "Thời hạn mượn giáo trình tại Thư viện Trường ĐH Khoa học Xã hội và Nhân văn (ĐHQG-HCM) là bao lâu?",
+      "expected_answer": "Tại Thư viện Trường ĐH KHXH&NV (ĐHQG-HCM), giáo trình được mượn trong thời gian là một học kỳ, với số lượng 06 cuốn cho sinh viên và học viên sau đại học, 08 cuốn cho cán bộ - giảng viên.",
+      "expected_context": "Nội quy Thư viện Trường ĐH KHXH&NV, ĐHQG-HCM — mục quy định mượn giáo trình.",
+      "answer": "Thời hạn mượn giáo trình tại Thư viện Trường ĐH Khoa học Xã hội và Nhân văn (ĐHQG-HCM) là một học kỳ. Cụ thể, học kỳ I từ ngày 01 tháng 09 đến hết ngày 15 tháng 01 và học kỳ II từ ngày 16 tháng 01 đến hết ngày 31 tháng 08. Sinh viên và học viên sau đại học được mượn 06 cuốn, trong khi cán bộ - giảng viên được mượn 08 cuốn [Document 3].",
+      "contexts": [
+        "[Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM] 2.  Đặt thẻ cán bộ/thẻ sinh viên/thẻ học viên/thẻ thư viện lên tài  liệu  cần mượn tại quầy phục\n\nvụ.\n\n3.  Tài liệu  tham  khảo  mỗi  lần  được  mượn  06  cuốn  đối với SV, HVSĐH; 08  cuốn  đối với CB -\n\nGV trong vòng 30 ngày. Bạn đọc phải trả sách đúng thời hạn quy định; Giáo  trình  được  mượn\n\n06 cuốn đối với SV, HVSĐH; 08 cuốn đối với CB - GV, trong thời gian là một học kỳ (học kỳ I: từ",
+        "[Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM] đọc cần liên hệ với chuyên viên thư viện và sao chụp theo quy định của thư viện.\n\n8.  Bạn đọc được mượn tài liệu như sau:\n\n-  Tài liệu tham khảo được mượn 06 cuốn đối với SV, HVSĐH; 08 cuốn đối với CB - GV trong\n\nvòng 30 ngày và phải trả tài liệu đúng thời hạn quy định.\n\n-    Giáo trình: được mượn 06 cuốn đối với SV, HVSĐH; 08 cuốn đối với CB - GV, trong thời gian",
+        "[Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM] (nếu tài liệu có hư hỏng bất thường).\n\n4.  Giáo  trình  được  mượn  06 cuốn đối với SV, HVSĐH; 08 cuốn đối với CB - GV, trong thời\n\ngian là một học kỳ  (học kỳ I: từ ngày 01 tháng 09 đến hết ngày 15 tháng 01; học kỳ II: từ\n\nngày 16 tháng 01 đến hết ngày 31 tháng 08). Nếu trả tài liệu trễ hạn, bạn đọc phải nộp phạt\n\n2.000 đ/ngày (nếu tái phạm 02 lần trở lên bạn đọc sẽ bị khóa giao dịch sử dụng thư viện từ\n\n03 đến 06 tháng).",
+        "[Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM] hạn (nếu như không có bạn đọc khác chờ mượn). Thời gian tài liệu được gia hạn sử dụng\n\ntiếp là 14 ngày.\n\n5.  Nếu trả tài liệu trễ hạn, bạn đọc phải nộp phạt 2.000 đ/ngày (nếu tái phạm 02 lần trở lên\n\nbạn đọc sẽ bị khóa giao dịch sử dụng thư viện từ 03 đến 06 tháng).\n\n6.  Nếu bạnđọclàmmất hoặclàmhư hỏngtài liệu sẽbịxửlýtheo các hình thức đã quy định ở nội\n\nquy chung.\n\n7.  Thực hiện các bước mượn, trả tài liệu theo đúng quy trình phục vụ.",
+        "[Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM] 2.  Đặt thẻ cán bộ/thẻ sinh viên/thẻ học viên/thẻ thư viện lên tài  liệu  cần mượn tại quầy phục\n\nvụ.\n\n3.  Tài  liệu  tham  khảo  mỗi  lần  được  mượn  06  cuốn  đối với SV, HVSĐH; 08  cuốn  đối với CB -\n\nGV trong vòng 30 ngày. Bạn đọc phải trả sách đúng thời hạn quy định.\n\n4.  Đến thời hạn 30 ngày, nếu bạn đọc có nhu cầu sử dụng tiếp tài liệu cần liên hệ thư viện để gia"
+      ],
+      "source_titles": [
+        "Nội quy Thư viện — Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM",
+        "Nội quy Thư viện — Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM",
+        "Nội quy Thư viện — Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM",
+        "Nội quy Thư viện — Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM",
+        "Nội quy Thư viện — Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM"
+      ],
+      "retrieval_source": "hybrid",
+      "latency_s": 12.509,
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 0.5110299039924463,
+        "context_recall": 1.0,
+        "context_precision": 0.94999999997625
+      }
+    },
+    {
+      "question": "Mức phạt trả tài liệu quá hạn ở Thư viện Trường ĐH Khoa học Xã hội và Nhân văn (ĐHQG-HCM) là bao nhiêu?",
+      "expected_answer": "Thư viện Trường ĐH KHXH&NV (ĐHQG-HCM) phạt 2.000 đồng mỗi ngày quá hạn; nếu tái phạm từ 02 lần trở lên sẽ bị khóa giao dịch từ 03 đến 06 tháng.",
+      "expected_context": "Nội quy Thư viện Trường ĐH KHXH&NV, ĐHQG-HCM — mục xử lý vi phạm, phạt quá hạn.",
+      "answer": "Mức phạt trả tài liệu quá hạn ở Thư viện Trường ĐH Khoa học Xã hội và Nhân văn (ĐHQG-HCM) là 2.000 đồng/ngày. Nếu bạn đọc tái phạm 02 lần trở lên, sẽ bị khóa giao dịch sử dụng thư viện từ 03 đến 06 tháng. [Document 1]",
+      "contexts": [
+        "[Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM] thư viện.\n\n6.  Cần trả tài liệu đúng thời gian quy định, nếu có nhu cầu tiếp tục sử dụng tài liệu đang mượn bạn\n\nđọc  cần  liên  hệ  thư  viện  để  gia  hạn.  Nếu  để  trễ  hạn  trả tài  liệu  bạn  đọc  phải  nộp  phạt  2.000\n\nđ/ngày (nếu tái phạm 02 lần trở lên bạn đọc sẽ bị khóa giao dịch sử dụng thư viện từ 03 đến 06\n\ntháng).\n\n7.  Không được sao chụp trái phép các tài liệu của thư viện, nếu có nhu cầu sao chụp tài liệu bạn",
+        "[Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM] hạn (nếu như không có bạn đọc khác chờ mượn). Thời gian tài liệu được gia hạn sử dụng\n\ntiếp là 14 ngày.\n\n5.  Nếu trả tài liệu trễ hạn, bạn đọc phải nộp phạt 2.000 đ/ngày (nếu tái phạm 02 lần trở lên\n\nbạn đọc sẽ bị khóa giao dịch sử dụng thư viện từ 03 đến 06 tháng).\n\n6.  Nếu bạnđọclàmmất hoặclàmhư hỏngtài liệu sẽbịxửlýtheo các hình thức đã quy định ở nội\n\nquy chung.\n\n7.  Thực hiện các bước mượn, trả tài liệu theo đúng quy trình phục vụ.",
+        "[Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM] + Tiền phạt: nộp phạt số tiền bằng 01 lần giá của tài liệu mất, được định giá tại thời điểm nộp\n\nphạt.\n\n-  Nếu trên thị trường và thư viện đều không còn tài liệu đã mất thì bạn đọc phải nộp phạt số\n\ntiền gấp 03 lần giá trị của tài liệu được định giá tại thời điểm nộp phạt.\n\n11. Ngoài nội quy chung, mỗi phòng chức năng đều có những quy định riêng, bạn đọc\n\ncần tham\n\nkhảo trước khi vào sử dụng.",
+        "[Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM] ngày 01 tháng 09  đến hết ngày 15 tháng 01; học kỳ II: từ ngày 16 tháng 01 đến  hết  ngày 31\n\ntháng 08).\n\n4.  Đến thời hạn 30 ngàynếu bạn đọc có nhu cầu sử dụng tiếp tài liệu cần liên hệ thư viện để  gia\n\nhạn (nếu như không có bạn đọc khác chờ mượn). Thời gian tài liệu được gia hạn sử dụng\n\ntiếp là 14 ngày.\n\n5.  Nếu trả tài liệu trễ hạn, bạn đọc phải nộp phạt 2.000 đ/ngày (nếu tái phạm 02 lần trở lên",
+        "[Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM] 1\n\n\fđọc phải báo ngay cho chuyên viên thư viện. Nếu thư viện tìm được tài liệu, thư viện sẽ cung\n\ncấp địa chỉ để bạn đọc mua trả tài liệu và nộp thêm 02 lần tiền giá trị của tài liệu tại thời điểm\n\nnộp phạt.\n\n-  Nếu không còn tài liệu mất trên thị trường, nhưng thư viện có bản gốc, bạn đọc phải chi trả\n\ncác chi phí sau:\n\n+ Tiền scan tài liệu mất: 2.000 đồng/trang  x  tổng số trang tài liệu;\n\n+ Tiền in: 500 đồng/trang  x  tổng số trang tài liệu;"
+      ],
+      "source_titles": [
+        "Nội quy Thư viện — Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM",
+        "Nội quy Thư viện — Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM",
+        "Nội quy Thư viện — Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM",
+        "Nội quy Thư viện — Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM",
+        "Nội quy Thư viện — Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM"
+      ],
+      "retrieval_source": "hybrid",
+      "latency_s": 16.634,
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 0.44865589520604976,
+        "context_recall": 1.0,
+        "context_precision": 0.99999999998
+      }
+    },
+    {
+      "question": "Nội quy Thư viện Trường ĐH Khoa học Xã hội và Nhân văn (ĐHQG-HCM) cấm những hành vi nào đối với tài liệu?",
+      "expected_answer": "Theo nội quy Thư viện Trường ĐH KHXH&NV (ĐHQG-HCM): không được mang tài liệu ra khỏi thư viện nếu chưa qua thủ tục mượn; không được tráo đổi, xé trang, cắt xén, làm rách, nát, hư hỏng hoặc viết, vẽ vào tài liệu.",
+      "expected_context": "Nội quy Thư viện Trường ĐH KHXH&NV, ĐHQG-HCM — mục các hành vi bị nghiêm cấm.",
+      "answer": "Nội quy Thư viện Trường ĐH Khoa học Xã hội và Nhân văn (ĐHQG-HCM) cấm những hành vi sau đối với tài liệu:\n\n1. Không được sao chụp trái phép các tài liệu của thư viện. Nếu có nhu cầu sao chụp tài liệu, bạn đọc cần liên hệ với chuyên viên thư viện và sao chụp theo quy định của thư viện. [Document 4]\n\n2. Không được làm xáo trộn, làm đổ tài liệu khi vào kho lựa chọn tài liệu. [Document 3]\n\n3. Nếu tài liệu có hư hỏng bất thường, bạn đọc cần báo cho chuyên viên thư viện. [Document 5]\n\n4. Nếu để trễ hạn trả tài liệu, bạn đọc sẽ phải nộp phạt và có thể bị khóa giao dịch sử dụng thư viện từ 03 đến 06 tháng nếu tái phạm. [Document 4]",
+      "contexts": [
+        "[Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM] đọc cần liên hệ với chuyên viên thư viện và sao chụp theo quy định của thư viện.\n\n8.  Bạn đọc được mượn tài liệu như sau:\n\n-  Tài liệu tham khảo được mượn 06 cuốn đối với SV, HVSĐH; 08 cuốn đối với CB - GV trong\n\nvòng 30 ngày và phải trả tài liệu đúng thời hạn quy định.\n\n-    Giáo trình: được mượn 06 cuốn đối với SV, HVSĐH; 08 cuốn đối với CB - GV, trong thời gian",
+        "[Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM] + Tiền phạt: nộp phạt số tiền bằng 01 lần giá của tài liệu mất, được định giá tại thời điểm nộp\n\nphạt.\n\n-  Nếu trên thị trường và thư viện đều không còn tài liệu đã mất thì bạn đọc phải nộp phạt số\n\ntiền gấp 03 lần giá trị của tài liệu được định giá tại thời điểm nộp phạt.\n\n11. Ngoài nội quy chung, mỗi phòng chức năng đều có những quy định riêng, bạn đọc\n\ncần tham\n\nkhảo trước khi vào sử dụng.",
+        "[Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM] (WINDOW ON KOREA)\n\nI.  Nội quy sử dụng tài liệu.\n\n1.  Khi vào phòng đọc tham khảo Hàn Quốc, bạn đọc phải xuất trình thẻ cán bộ/thẻ sinh viên/thẻ\n\nhọc viên/thẻ thư viện và tuân thủ sự hướng dẫn của chuyên viên thư viện.\n\n2.  Để túi xách đúng nơi quy định. Khi vào kho lựa chọn tài liệu, bạn đọc không được làm xáo\n\ntrộn, làm đổ tài liệu, chỉ được mang 01 quyển vở/giấy tập để ghi chép (không sử dụng giấy khổ\n\nA4, A3…).\n\n3.  Trình tự mượn:",
+        "[Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM] thư viện.\n\n6.  Cần trả tài liệu đúng thời gian quy định, nếu có nhu cầu tiếp tục sử dụng tài liệu đang mượn bạn\n\nđọc  cần  liên  hệ  thư  viện  để  gia  hạn.  Nếu  để  trễ  hạn  trả tài  liệu  bạn  đọc  phải  nộp  phạt  2.000\n\nđ/ngày (nếu tái phạm 02 lần trở lên bạn đọc sẽ bị khóa giao dịch sử dụng thư viện từ 03 đến 06\n\ntháng).\n\n7.  Không được sao chụp trái phép các tài liệu của thư viện, nếu có nhu cầu sao chụp tài liệu bạn",
+        "[Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM] 3.  Trình tự mượn tài liệu tham khảo:\n\n•  Mỗi  lượt  được  mượn  03  tài  liệu đối với Sinh viên, Học viên sau đại học và 05  tài\n\nliệu  đối với Cán bộ - Giảng viên.\n\n•  Đặt thẻ cán bộ/thẻ sinh viên/thẻ học viên/thẻ thư viện lên tài  liệu  cần mượn tại quầy\n\nphục vụ.\n\n•  Kiểm  tra  tình  trạng  tài  liệu  trước  khi  mượn  để  báo  cho  chuyên  viên  thư  viện\n\n(nếu tài liệu có hư hỏng bất thường)."
+      ],
+      "source_titles": [
+        "Nội quy Thư viện — Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM",
+        "Nội quy Thư viện — Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM",
+        "Nội quy Thư viện — Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM",
+        "Nội quy Thư viện — Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM",
+        "Nội quy Thư viện — Trường ĐH Khoa học Xã hội và Nhân văn, ĐHQG-HCM"
+      ],
+      "retrieval_source": "hybrid",
+      "latency_s": 3.118,
+      "scores": {
+        "faithfulness": 0.8888888888888888,
+        "answer_relevance": 0.5000649489171375,
+        "context_recall": 1.0,
+        "context_precision": 0.4166666666458333
+      }
+    },
+    {
+      "question": "Theo quy chế đào tạo của Trường ĐH Khoa học Tự nhiên (ĐHQG-HCM), sinh viên chương trình đại trà phải đăng ký tối thiểu và tối đa bao nhiêu tín chỉ trong một học kỳ chính?",
+      "expected_answer": "Theo quy chế đào tạo Trường ĐH Khoa học Tự nhiên (ĐHQG-HCM), chương trình đại trà đăng ký tối thiểu 14 tín chỉ (không kể Giáo dục quốc phòng, thể chất, ngoại ngữ tổng quát) và tối đa 25 tín chỉ trong học kỳ chính.",
+      "expected_context": "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN), Trường ĐH Khoa học Tự nhiên ĐHQG-HCM — điều về khối lượng học tập và đăng ký học phần.",
+      "answer": "Theo quy chế đào tạo của Trường ĐH Khoa học Tự nhiên (ĐHQG-HCM):\n\n- Sinh viên chương trình đại trà phải đăng ký tối thiểu 14 tín chỉ trong một học kỳ chính (không kể Giáo dục quốc phòng, Giáo dục thể chất và Ngoại ngữ tổng quát) [Document 2].\n- Sinh viên chương trình đại trà cũng phải đăng ký tối đa 25 tín chỉ trong một học kỳ chính [Document 1].",
+      "contexts": [
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] b) Số tín chỉ đăng ký học tối đa trong học kỳ chính:\n-  Đối với chương trình Tiên tiến, Liên kết, Chất lượng cao:  tối đa là 22 tín\n\nchỉ.\n\n-  Đối với chương trình đại trà: tối đa là 25 tín chỉ.\n-  Số tín chỉ đăng ký học tối đa trong học kỳ hè là 12 tín chỉ\n-  Trong trường hợp đặc biệt sinh viên muốn đăng ký vượt quá số tín chỉ tối đa\nhoặc ít hơn số tín chỉ tối thiểu trong một học kỳ thì phải có đơn đề nghị, được Khoa\nđồng ý và Hiệu trưởng chấp thuận.",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] bỏ học và phải nhận điểm không (điểm 0).\n\n2. Số tín chỉ tối thiểu, tối đa trong học kỳ\na) Số tín chỉ đăng ký học tối thiểu trong học kỳ:\n-  Đối với chương trình Tiên tiến, Liên kết, Chất lượng cao:  tối thiểu là 10 tín\n\nchỉ.\n\n-  Đối với chương trình đại trà: tối thiểu là 14 tín chỉ (không kể Giáo dục quốc\n\nphòng, Giáo dục thể chất và Ngoại ngữ tổng quát).",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] Quốc Phòng, Giáo dục thể chất, Tin học cơ sở).\n\nf) Học kỳ liền kề trước thời điểm xét của ngành thứ nhất phải có điểm trung\n\nbình tích lũy học kỳ tối thiểu từ 7.0 trở lên.\n\ng) Quy định khác của Khoa phụ trách đào tạo (nếu có).\n2. Trong quá trình sinh viên học cùng lúc hai chương trình, sinh viên sẽ bị loại\nkhỏi danh sách đã đăng ký học chương trình thứ hai nếu thuộc vào các trường hợp\nnhư sau:",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] a) Đáp ứng ngưỡng bảo đảm chất lượng của chương trình thứ hai trong năm\n\ntuyển sinh\n\nb) Ngành đào tạo của chương trình đào tạo thứ hai (ngành thứ hai) phải khác\n\nngành đào tạo của chương trình đào tạo thứ nhất (ngành thứ nhất);\n\nc) Phải cùng hình thức và trình độ đào tạo giữa hai chương trình đào tạo;\nd) Đã hoàn tất ít nhất hai học kỳ của ngành thứ nhất;\ne) Đạt tối thiểu 15 tín chỉ tích lũy/một học kỳ (không kể Ngoại ngữ, Giáo dục",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] 03 học kỳ chính với tổng số tối thiểu 30 tuần lên lớp.\n\nc) Kế hoạch năm học thể hiện những mốc thời gian chính của các hoạt động\nđào tạo trong năm học cho tất cả hình thức, chương trình đào tạo, được công bố kịp\nthời tới các bên liên quan trước khi bắt đầu năm học."
+      ],
+      "source_titles": [
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM"
+      ],
+      "retrieval_source": "hybrid",
+      "latency_s": 10.503,
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 0.42361845116574576,
+        "context_recall": 1.0,
+        "context_precision": 0.9166666666361111
+      }
+    },
+    {
+      "question": "Theo quy chế đào tạo của Trường ĐH Khoa học Tự nhiên (ĐHQG-HCM), học kỳ hè sinh viên được đăng ký tối đa bao nhiêu tín chỉ?",
+      "expected_answer": "Tối đa 12 tín chỉ trong học kỳ hè, theo quy chế đào tạo Trường ĐH Khoa học Tự nhiên (ĐHQG-HCM).",
+      "expected_context": "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — quy định khối lượng đăng ký học kỳ hè.",
+      "answer": "Theo quy chế đào tạo của Trường ĐH Khoa học Tự nhiên (ĐHQG-HCM), sinh viên được đăng ký tối đa 12 tín chỉ trong học kỳ hè [Document 1].",
+      "contexts": [
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] b) Số tín chỉ đăng ký học tối đa trong học kỳ chính:\n-  Đối với chương trình Tiên tiến, Liên kết, Chất lượng cao:  tối đa là 22 tín\n\nchỉ.\n\n-  Đối với chương trình đại trà: tối đa là 25 tín chỉ.\n-  Số tín chỉ đăng ký học tối đa trong học kỳ hè là 12 tín chỉ\n-  Trong trường hợp đặc biệt sinh viên muốn đăng ký vượt quá số tín chỉ tối đa\nhoặc ít hơn số tín chỉ tối thiểu trong một học kỳ thì phải có đơn đề nghị, được Khoa\nđồng ý và Hiệu trưởng chấp thuận.",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] c) Đối với sinh viên học cùng lúc hai chương trình, tổng số tín chỉ đăng ký tối\n\nđa cho mỗi học kỳ chính là 37, mỗi học kỳ hè không vượt quá 15.\n\n3. Điều chỉnh đăng ký học phần: theo kế hoạch điều chỉnh đăng ký học phần\n\ntại mỗi học kỳ.\n\n4. Trách nhiệm của sinh viên:\na) Chủ động theo dõi kết quả đăng ký học phần để xác nhận hoặc điều chỉnh\n\nnếu có.\n\nb) Thực hiện đầy đủ các yêu cầu như lên lớp, làm bài tập, thực hành, thí nghiệm,",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] 6\n\nĐiều 7. Tổ chức đăng ký học tập\n1. Đăng ký học phần:\na) Đầu mỗi học kỳ, sinh viên phải theo dõi thông báo để nắm thông tin về các\nhọc phần sẽ mở trong học kỳ và đăng ký các học phần trên trang thông tin điện tử\ncủa Phòng Đào tạo hoặc của Khoa.\n\nb) Tổng số tín chỉ của các học phần trong một học kỳ được tính bao gồm: số tín\n\nchỉ của học phần đăng ký mới, học phần học lại và học phần cải thiện.",
+        "### **Theo dõi về thông báo và lịch đăng ký**\nĐể thực hiện **cách đăng ký học phần** nhanh, sinh viên HUFLIT cần thường xuyên kiểm tra website của trường và phòng đào tạo để biết chính xác thời gian bắt đầu và kết thúc từng đợt đăng ký (https://portal.huflit.edu.vn).\nĐồng thời, nắm rõ các quy định về số tín chỉ mỗi học kỳ sinh viên có học lực bình thường được đăng ký khoảng 20 tín chỉ sinh viên có học lực yếu đăng ký tối thiểu 12 tín chỉ và sinh viên giỏi đăng ký tối đa không quá 30 tín chỉ.",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] 2. Trường sẽ quy định cụ thể về điều kiện trao đổi sinh viên, hợp tác đào tạo,\nviệc công nhận kết quả học tập và chuyển đổi tín chỉ cho sinh viên khi thực hiện\nchương trình đào tạo và công khai trên trang thông tin điện tử của cơ sở đào tạo (nếu\ncó).\n\nĐiều 22. Học cùng lúc hai chương trình\n1. Sinh viên được xét học cùng  lúc hai chương trình sớm nhất tại thời điểm\n\nđăng ký khi sinh viên có đủ tất cả các điều kiện theo quy định như sau:"
+      ],
+      "source_titles": [
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Cách đăng ký học phần: Hướng dẫn chi tiết từng bước",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM"
+      ],
+      "retrieval_source": "hybrid",
+      "latency_s": 3.906,
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 0.9439879983053573,
+        "context_recall": 1.0,
+        "context_precision": 0.9166666666361111
+      }
+    },
+    {
+      "question": "Theo quy chế đào tạo của Trường ĐH Khoa học Tự nhiên (ĐHQG-HCM), khi nào sinh viên bị cảnh báo học tập cuối học kỳ chính?",
+      "expected_answer": "Khi tổng số tín chỉ đạt trong học kỳ nhỏ hơn 7 tín chỉ (trừ sinh viên đã tích lũy tối thiểu 130 tín chỉ), hoặc điểm trung bình học kỳ liền kề dưới 3,0 hoặc trung bình hai học kỳ dưới 4,0 — theo quy chế của Trường ĐH Khoa học Tự nhiên (ĐHQG-HCM).",
+      "expected_context": "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — điều về cảnh báo học tập.",
+      "answer": "Trong tài liệu không có thông tin về quy định cảnh báo học tập cuối học kỳ chính của Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM. Do đó, tôi không thể cung cấp câu trả lời cho câu hỏi này.",
+      "contexts": [
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] nghiệp ngay sau khi đủ điều kiện.\n\n2. Cuối mỗi học kỳ, Trường sẽ thông báo xét tốt nghiệp cho sinh viên.\n3. Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau:\na) Cho đến thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc\n\nkhông đang trong thời gian bị kỷ luật ở mức đình chỉ học tập;\n\nb) Tích lũy đủ số học phần và tổng số tín chỉ theo quy định của chương trình\n\nđào tạo;",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] 6. Sinh viên không tốt nghiệp được cấp chứng nhận về các học phần đã tích luỹ\n\ntrong chương trình đào tạo của nhà trường khi có nhu cầu.\n\n7. Sinh viên phải thực hiện quy trình và thủ tục xét tốt nghiệp công nhận tốt\n\nnghiệp ngay sau khi hoàn tất chương trình đào tạo và đủ điều kiện tốt nghiệp.\n\n8. Cuối mỗi học kỳ, Trường sẽ thông báo xét tốt nghiệp cho sinh viên.\n\nChương IV\nNHỮNG QUY ĐỊNH KHÁC ĐỐI VỚI SINH VIÊN",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] đào tạo và của Hiệu trưởng.\n\n2. Sinh viên được xem xét chuyển Trường khi có đủ các điều kiện sau:\na) Không đang là sinh viên trình độ năm thứ nhất hoặc năm cuối khóa, không\nthuộc diện bị xem xét buộc thôi học và còn đủ thời gian học tập theo quy định tại\nkhoản 7 Điều 2 của Quy chế này;\n\nb) Sinh viên đạt điều kiện trúng tuyển của chương trình, ngành đào tạo cùng\n\nkhóa tuyển sinh tại nơi chuyển đến;",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] Quy chế này.\n\n3. Sinh viên thuộc diện bị buộc thôi học sẽ bị xóa tên khỏi danh sách sinh viên.\nTrường sẽ thông báo cho sinh viên biết chậm nhất một tháng sau khi có quyết định\nbuộc thôi học.\n\n4. Kết quả học tập đã tích lũy của sinh viên trong trường hợp sinh viên bị buộc\n\nthôi học được lưu trữ tại Trường.\n\n\f14\n\nĐiều 17. Xét tốt nghiệp và công nhận tốt nghiệp\n1. Sinh viên phải thực hiện quy trình và thủ tục xét tốt nghiệp và công nhận tốt",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] d) Điều kiện làm khóa luận hoặc đồ án tốt nghiệp dựa vào các tiêu chí như sau:\n- Điểm trung bình tích lũy của khóa học.\n- Tiêu chí khác theo quy định của Khoa phụ trách đào tạo.\n\n2. Sinh viên thực hiện khoá luận tốt nghiệp và đồ án tốt nghiệp trong thời gian\n\n\f9\n\nlà một học kỳ tại học kỳ cuối cùng của khoá học. Tuỳ đặc điểm của ngành đào tạo,\nsinh viên làm khoá luận tốt nghiệp có thể được giao đề tài sớm hơn."
+      ],
+      "source_titles": [
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM"
+      ],
+      "retrieval_source": "hybrid",
+      "latency_s": 8.639,
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 0.0,
+        "context_recall": 1.0,
+        "context_precision": 0.0
+      }
+    },
+    {
+      "question": "Theo quy chế đào tạo của Trường ĐH Khoa học Tự nhiên (ĐHQG-HCM), những trường hợp nào sinh viên bị buộc thôi học?",
+      "expected_answer": "Theo quy chế Trường ĐH Khoa học Tự nhiên (ĐHQG-HCM): không hoàn thành học phí đúng hạn; tự ý bỏ học hoặc bỏ thi từ một học kỳ chính trở lên; bị cảnh báo học tập lần thứ ba liên tiếp; bị kỷ luật ở mức buộc thôi học; vượt quá thời gian học tập tối đa quy định.",
+      "expected_context": "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — điều về buộc thôi học.",
+      "answer": "Theo quy chế đào tạo của Trường ĐH Khoa học Tự nhiên (ĐHQG-HCM), sinh viên bị buộc thôi học trong các trường hợp sau:\n\n1. Sinh viên thuộc diện bị xem xét buộc thôi học sẽ bị xóa tên khỏi danh sách sinh viên. Trường sẽ thông báo cho sinh viên biết chậm nhất một tháng sau khi có quyết định buộc thôi học [Document 2].\n\n2. Sinh viên thi hộ hoặc nhờ người thi hộ sẽ bị kỷ luật ở mức đình chỉ học tập 01 (một) năm đối với trường hợp vi phạm lần thứ nhất và buộc thôi học đối với trường hợp vi phạm lần thứ hai [Document 3].\n\n3. Người học sử dụng hồ sơ, văn bằng, chứng chỉ giả làm điều kiện trúng tuyển hoặc điều kiện tốt nghiệp sẽ bị buộc thôi học; văn bằng tốt nghiệp nếu đã được cấp sẽ bị thu hồi, huỷ bỏ [Document 3].",
+      "contexts": [
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] đào tạo và của Hiệu trưởng.\n\n2. Sinh viên được xem xét chuyển Trường khi có đủ các điều kiện sau:\na) Không đang là sinh viên trình độ năm thứ nhất hoặc năm cuối khóa, không\nthuộc diện bị xem xét buộc thôi học và còn đủ thời gian học tập theo quy định tại\nkhoản 7 Điều 2 của Quy chế này;\n\nb) Sinh viên đạt điều kiện trúng tuyển của chương trình, ngành đào tạo cùng\n\nkhóa tuyển sinh tại nơi chuyển đến;",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] Quy chế này.\n\n3. Sinh viên thuộc diện bị buộc thôi học sẽ bị xóa tên khỏi danh sách sinh viên.\nTrường sẽ thông báo cho sinh viên biết chậm nhất một tháng sau khi có quyết định\nbuộc thôi học.\n\n4. Kết quả học tập đã tích lũy của sinh viên trong trường hợp sinh viên bị buộc\n\nthôi học được lưu trữ tại Trường.\n\n\f14\n\nĐiều 17. Xét tốt nghiệp và công nhận tốt nghiệp\n1. Sinh viên phải thực hiện quy trình và thủ tục xét tốt nghiệp và công nhận tốt",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] 2. Sinh viên thi hộ hoặc nhờ người thi hộ đều bị kỷ luật ở mức đình chỉ học tập\n01 (một) năm đối với trường hợp vi phạm lần thứ nhất và buộc thôi học đối  với\ntrường hợp vi phạm lần thứ hai.\n\n3. Người học sử dụng hồ sơ, văn bằng, chứng chỉ giả làm điều kiện trúng tuyển\nhoặc điều kiện tốt nghiệp sẽ bị buộc thôi học; văn bằng tốt nghiệp nếu đã được cấp\nsẽ bị thu hồi, huỷ bỏ.",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] nhận trở lại học tập tại Trường thì phải làm đơn xin học lại theo quy định.\n\n4. Sinh viên xin thôi học vì lý do cá nhân, trừ trường hợp bị xem xét buộc thôi\nhọc hoặc xem xét kỷ luật, muốn quay trở lại học phải dự tuyển đầu vào như những\nthí sinh khác.\n\n\f16\n\n5. Hiệu trưởng ban hành quyết định nghỉ học tạm thời, tiếp nhận trở lại học và\ncho thôi học; sinh viên xin nghỉ học tạm thời được bảo lưu kết quả học tập đã tích\nlũy.",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] b) Có hai loại học phần: học phần bắt buộc và học phần tự chọn.\n-  Học phần bắt buộc là học phần chứa đựng những nội dung kiến thức chính\n\nyếu của mỗi chương trình đào tạo và bắt buộc sinh viên phải tích lũy."
+      ],
+      "source_titles": [
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM"
+      ],
+      "retrieval_source": "hybrid",
+      "latency_s": 9.416,
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 0.5322259839717647,
+        "context_recall": 0.6,
+        "context_precision": 0.6388888888675925
+      }
+    },
+    {
+      "question": "Theo quy chế đào tạo của Trường ĐH Khoa học Tự nhiên (ĐHQG-HCM), thời gian học tập tối đa của sinh viên được kéo dài thêm bao lâu so với chương trình chuẩn?",
+      "expected_answer": "Theo quy chế Trường ĐH Khoa học Tự nhiên (ĐHQG-HCM), sinh viên được rút ngắn tối đa một (01) năm học và kéo dài thêm không vượt quá ba (03) năm học; riêng chương trình liên thông đại học kéo dài không vượt quá hai (02) năm học. Quá thời hạn sẽ bị xóa tên khỏi danh sách sinh viên.",
+      "expected_context": "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — điều về thời gian học tập.",
+      "answer": "Theo quy chế đào tạo của Trường ĐH Khoa học Tự nhiên (ĐHQG-HCM), sinh viên được phép kéo dài thời gian học thêm không vượt quá ba (03) năm học so với chương trình chuẩn. Riêng đối với chương trình liên thông đại học, sinh viên có thể kéo dài thêm không quá hai (02) năm học theo kế hoạch học tập [Document 1].",
+      "contexts": [
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] 7. Thời gian tối đa để sinh viên hoàn thành khoá học\nTuỳ theo khả năng học tập, sinh viên được rút ngắn hoặc kéo dài thời gian học\n\nnhư sau:\n\na) Sinh viên được phép rút ngắn tối đa một (01) năm học và kéo dài thêm không\nvượt quá ba (03) năm học theo kế hoạch học tập. Riêng đối với chương trình liên\nthông đại học, sinh viên kéo dài thêm không vượt quá hai (02) năm học  theo kế\nhoạch học tập.",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] 3. Thời gian tối đa được phép học đối với sinh viên học cùng lúc hai chương\ntrình là thời gian tối đa quy định cho chương trình thứ nhất, quy định tại khoản 7\nĐiều 2 của Quy chế này. Khi học chương trình thứ hai, sinh viên được công nhận\nkết quả của những học phần có nội dung và khối lượng kiến thức tương đương có\ntrong chương trình thứ nhất.",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] 6. Đối với mỗi hình thức đào tạo, chương trình đào tạo được cung cấp kế hoạch\nhọc tập chuẩn toàn khoá để định hướng cho sinh viên. Thời gian theo kế hoạch học\ntập chuẩn toàn khoá đối với hình thức đào tạo chính quy phải phù hợp với thời gian\nquy định trong Khung cơ cấu hệ thống giáo dục quốc dân, đồng thời đảm bảo đa số\nsinh viên hoàn thành chương trình đào tạo.",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] b) Quá thời hạn tối đa của khóa học, sinh viên sẽ bị xóa tên khỏi danh sách sinh\n\nviên của Trường.\n\nc) Tùy vào trường hợp cụ thể, Hiệu trưởng xem xét và gia hạn thêm thời gian\nđào tạo cho sinh viên nhưng không được vượt quá hai lần thời gian thiết kế của khóa\nhọc tương ứng với mỗi chương trình đào tạo.",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] công nhận các môn học đã tích lũy theo quy định.\n\n4. Thời gian học được phép học tối đa đối với sinh viên chuyển đến là thời gian\n\n\f17\n\ntối đa hoàn thành khóa học tương ứng theo quy định tại khoản 7 Điều 2 của quy chế\nnày."
+      ],
+      "source_titles": [
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM"
+      ],
+      "retrieval_source": "hybrid",
+      "latency_s": 52.359,
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 0.5652234980629828,
+        "context_recall": 1.0,
+        "context_precision": 0.8874999999778125
+      }
+    },
+    {
+      "question": "Theo quy chế đào tạo của Trường ĐH Khoa học Tự nhiên (ĐHQG-HCM), điểm trung bình 8,5 theo thang 10 tương ứng với điểm chữ nào?",
+      "expected_answer": "Điểm chữ A, tương ứng 3,5 theo thang điểm 4 (khoảng từ 8,0 đến cận 9,0), theo bảng chuyển đổi tại Điều 11 quy chế của Trường ĐH Khoa học Tự nhiên (ĐHQG-HCM).",
+      "expected_context": "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Điều 11, bảng chuyển đổi thang điểm 10 sang điểm chữ và thang điểm 4.",
+      "answer": "Theo quy chế đào tạo của Trường ĐH Khoa học Tự nhiên (ĐHQG-HCM), điểm trung bình 8,5 theo thang 10 tương ứng với điểm chữ A. Cụ thể, điểm 8,0 đến cận 9,0 tương ứng với điểm chữ A [Document 2].",
+      "contexts": [
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] C\n\n\f10\n\nĐiểm 4\n1,5\n1,0\n0,0\n\nĐiểm chữ\n D+\nD\nF\n\nThang điểm 10\n4,0 đến cận 5,0\n3,0 đến cận 4,0\n\n<3,0\n\n2. Thang điểm 4 và thang điểm chữ chỉ mang tính tham khảo, chuyển đổi khi\n\ncần thiết, không dùng để ghi và phân loại đánh giá.",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] Điều 11. Tính điểm học phần\n1. Điểm học phần theo thang điểm 10, là điểm cuối cùng để đánh giá kết quả\ncủa một học phần, được tính từ tổng các điểm thành phần nhân với trọng số tương\nứng, được làm tròn tới một chữ số thập phân và được quy đổi theo thang điểm 4 và\nthang điểm chữ như sau:\n\nThang điểm 10\n9,0 đến 10,0\n8,0 đến cận 9,0\n7,0 đến cận 8,0\n6,0 đến cận 7,0\n5,0 đến cận 6,0\n\nĐiểm 4\n4,0\n3,5\n3,0\n2,5\n2,0\n\nĐiểm chữ\nA+\nA\nB+\nB\n\nC\n\n\f10\n\nĐiểm 4\n1,5\n1,0\n0,0",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] Điểm trung bình\n\na. Loại đạt\nTừ 9 đến 10\nTừ 8 đến cận 9\nTừ 7 đến cận 8\nTừ 5 đến cận 7\nb. Loại không đạt\nTừ 4 đến cận 5\nDưới 4\n\nXếp loại/hạng\n\nXuất sắc\nGiỏi\nKhá\nTrung bình\nXếp loại\nYếu\nKém\n\n\f13\n\n-  Áp dụng cho khóa 2020 trở về trước:\n\nĐiểm trung bình\n\na. Loại đạt\nTừ 9 đến 10\nTừ 8 đến cận 9\nTừ 7 đến cận 8\nTừ 6 đến cận 7\nTừ 5 đến cận 6\nb. Loại không đạt\nTừ 4 đến cận 5\nDưới 4\n\nXếp loại/hạng\n\nXuất sắc\nGiỏi\nKhá\nTrung bình khá\nTrung bình\nXếp loại\nYếu\nKém",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] 8\n\ncuối học kỳ). Các điểm thành phần được đánh giá theo thang điểm 10. Phương pháp\nđánh giá, hình thức đánh giá và trọng số của mỗi điểm thành phần được quy định\ntrong đề cương chi tiết của mỗi học phần, được Khoa thông qua và được Hiệu trưởng\nphê duyệt. Điểm quá trình và điểm thi kết thúc học phần được quy định như sau:",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] c) Điểm đánh giá khóa luận tốt nghiệp, đồ án tốt nghiệp được đánh giá theo\nthang điểm 10. Điểm tổng kết đánh giá khóa luận tốt nghiệp, đồ án tốt nghiệp được\nlàm tròn tới một chữ số thập phân, là điểm trung bình cộng không tính hệ số của tất\ncả thành viên bao gồm: thành viên Hội đồng, người hướng dẫn và người phản biện.\nNếu các Khoa có quy định  khác về điểm tổng kết đánh giá khóa luận tốt nghiệp, đồ"
+      ],
+      "source_titles": [
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM"
+      ],
+      "retrieval_source": "hybrid",
+      "latency_s": 6.731,
+      "scores": {
+        "faithfulness": 0.5,
+        "answer_relevance": 0.6430169945021246,
+        "context_recall": 1.0,
+        "context_precision": 0.999999999975
+      }
+    },
+    {
+      "question": "Theo quy chế đào tạo của Trường ĐH Khoa học Tự nhiên (ĐHQG-HCM), sinh viên học lại học phần không đạt thì điểm nào được tính là điểm chính thức?",
+      "expected_answer": "Điểm của lần học cuối là điểm chính thức của học phần, theo Điều 14 quy chế Trường ĐH Khoa học Tự nhiên (ĐHQG-HCM).",
+      "expected_context": "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Điều 14 về học lại và cải thiện điểm.",
+      "answer": "Theo quy chế đào tạo của Trường ĐH Khoa học Tự nhiên (ĐHQG-HCM), sinh viên có điểm học phần không đạt phải đăng ký học lại, và điểm lần học cuối sẽ là điểm chính thức của học phần đó [Document 1].",
+      "contexts": [
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] 3. Điểm bảo lưu (BL) và điểm miễn (M) không tính vào điểm trung bình học\n\nkỳ và điểm trung bình tích lũy.\n\n4. Khối lượng tối đa được công nhận, chuyển đổi không vượt quá 25% khối\n\nlượng học tập tối thiểu của chương trình đào tạo.\nĐiều 14. Học lại và học cải thiện điểm\n1. Học lại\na) Sinh viên có điểm học phần không đạt phải đăng ký học lại, điểm lần học\n\ncuối là điểm chính thức của học phần",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] của học phần này được tính là số tín chỉ tích lũy.\n\n5. Sinh viên vắng mặt trong buổi thi, đánh giá không có lý do chính đáng phải\nnhận điểm 0 (không) đối với điểm thành phần/hình thức kiểm tra tương ứng. Trường\nhợp sinh viên vắng mặt trong buổi thi cuối học kỳ nhưng có nộp đơn xin phép vắng\nthi và có lý do chính đáng sẽ được hoãn thi theo quy định tại Điều 12 của quy chế\nnày.",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] 2. Học cải thiện điểm\na) Đối với các học phần đã đạt nhưng muốn cải thiện điểm thì sinh viên phải\nđăng ký học lại và nộp học phí theo quy định. Điểm lần học cuối là điểm chính thức\ncủa học phần.\n\nb) Tùy vào điều kiện giảng dạy thực tế đối các các học phần, Trường sẽ quy\n\nđịnh cụ thể các học phần không được học cải thiện (nếu có).",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] 11\n\nkỳ.\n\n2. Trường sẽ xem xét công nhận, chuyển đổi tín chỉ trên cơ sở đối sánh chuẩn\nđầu ra, nội dung và khối lượng học tập, cách thức đánh giá học phần và các điều\nkiện bảo đảm chất lượng. Nếu được chấp thuận thì học phần được miễn sẽ có điểm\nmà sinh viên đã đạt tại Trường khác và kèm theo chữ bảo lưu (BL). Trường hợp\nđiểm cụ thể không xác định, học phần được miễn sẽ có điểm được ký hiệu M (điểm\nM).",
+        "[Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM] a) Điểm trung bình: là điểm trung bình của những học phần mà sinh viên đã\nhọc trong một học kỳ, trong một năm học hoặc tính từ đầu khóa học được tính theo\nđiểm chính thức của học phần và trọng số là số tín chỉ của học phần đó."
+      ],
+      "source_titles": [
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM",
+        "Quy chế đào tạo trình độ đại học (QĐ 1175/QĐ-KHTN) — Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM"
+      ],
+      "retrieval_source": "hybrid",
+      "latency_s": 18.475,
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 0.4319441292385411,
+        "context_recall": 1.0,
+        "context_precision": 0.99999999998
+      }
+    },
+    {
+      "question": "Ký túc xá Trường Đại học Công nghiệp Thực phẩm TP.HCM mở và đóng cổng lúc mấy giờ?",
+      "expected_answer": "Tại ký túc xá Trường ĐH Công nghiệp Thực phẩm TP.HCM: mở cổng lúc 05 giờ 00, đóng cổng lúc 22 giờ 30 vào ngày thường và 23 giờ 00 vào dịp Lễ, Tết; thang máy hoạt động từ 5 giờ 30 đến 22 giờ 30.",
+      "expected_context": "Nội quy - Quy chế lưu trú tại Ký túc xá Trường ĐH Công nghiệp Thực phẩm TP.HCM — quy định giờ giấc.",
+      "answer": "Ký túc xá Trường Đại học Công nghiệp Thực phẩm TP.HCM mở cổng lúc 05 giờ 00 phút và đóng cổng vào ngày thường lúc 22 giờ 30 phút, vào ngày lễ, Tết lúc 23 giờ 00 phút [Document 1].",
+      "contexts": [
+        "[Trường ĐH Công nghiệp Thực phẩm TP.HCM] +   Giờ mở cổng:   05 giờ 00 phút\n\n2\n\n\f           +   Giờ đóng cổng:  Ngày thường:\n\n22 giờ 30 phút\n\n                                            Ngày Lễ, Tết:\n\n23 giờ 00 phút\n\n2. Tất cả công chức viên chức, HSSV khi vào KTX phải đeo bảng  tên. Khách đến\nliên hệ công tác, thân nhân, bạn bè của HSSV đến thăm phải xuất trình giấy tờ tuỳ thân,\nđeo thẻ khách và tuân theo sự hướng dẫn của bảo vệ.\n\nĐiều 7. Qui định về phòng ở",
+        "[Trường ĐH Công nghiệp Thực phẩm TP.HCM] - Việc gia hạn hợp đồng hoặc ký hợp đồng mới đều phải tuân thủ quy chế này.\n\nChương III\n\nNỘI QUI – QUI ĐỊNH LƯU TRÚ TẠI  KÝ TÚC XÁ\n\nĐiều 6. Qui định ra vào cổng và thời gian sinh hoạt Ký túc xá\n\n1. Công chức, viên chức đến làm việc, HSSV – nội trú, khách đến liên hệ công tác\nvới KTX Trường Đại học Công nghiệp Thực phẩm Tp. Hồ Chí Minh phải chịu sự kiểm\nsoát của lực lượng bảo vệ và phải chấp hành nội quy ra vào cơ quan.",
+        "[Trường ĐH Công nghiệp Thực phẩm TP.HCM] NỘI QUI - QUI CHẾ\nLƯU TRÚ TẠI KÝ TÚC XÁ CỦA TRƯỜNG\nĐẠI HỌC CÔNG NGHIỆP THỰC PHẨM TP. HỒ CHÍ MINH\n(Ban hành kèm theo Quyết định số     /QĐ-KTX, ngày      tháng     năm      của\nGiám đốc Ký túc xá sinh viên, Trường Đại học Công nghiệp Thực phẩm thành\nphố Hồ Chí Minh)\n\n Chương I\n\n NHỮNG QUI ĐỊNH CHUNG",
+        "[Trường ĐH Công nghiệp Thực phẩm TP.HCM] Chương I\n\n NHỮNG QUI ĐỊNH CHUNG\n\nĐiều 1. Ký túc xá học sinh sinh viên là cơ sở thuộc quyền quản lý của Nhà trường\nbao gồm, phòng ở, nhà ở, nhà ăn và các phương tiện dịch vụ khác để phục vụ Học sinh\n– Sinh viên (HSSV) nội trú ăn, ở, sinh hoạt, học tập và rèn luyện nhằm góp phần thực\nhiện tốt mục tiêu và nhiệm vụ của trường.",
+        "[Trường ĐH Công nghiệp Thực phẩm TP.HCM] viên sử dụng. Thời gian hoạt động của thang máy từ 5 giờ 30 đến 22 giờ 30."
+      ],
+      "source_titles": [
+        "Nội quy - Quy chế lưu trú tại Ký túc xá — Trường ĐH Công nghiệp Thực phẩm TP.HCM",
+        "Nội quy - Quy chế lưu trú tại Ký túc xá — Trường ĐH Công nghiệp Thực phẩm TP.HCM",
+        "Nội quy - Quy chế lưu trú tại Ký túc xá — Trường ĐH Công nghiệp Thực phẩm TP.HCM",
+        "Nội quy - Quy chế lưu trú tại Ký túc xá — Trường ĐH Công nghiệp Thực phẩm TP.HCM",
+        "Nội quy - Quy chế lưu trú tại Ký túc xá — Trường ĐH Công nghiệp Thực phẩm TP.HCM"
+      ],
+      "retrieval_source": "hybrid",
+      "latency_s": 2.405,
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 0.619568472555259,
+        "context_recall": 1.0,
+        "context_precision": 0.99999999995
+      }
+    },
+    {
+      "question": "Ký túc xá Trường Đại học Công nghiệp Thực phẩm TP.HCM có cho tiếp khách trong phòng ở không?",
+      "expected_answer": "Không. Nội quy ký túc xá Trường ĐH Công nghiệp Thực phẩm TP.HCM quy định rõ không được tiếp khách trong phòng ở, đồng thời cấm đun nấu trong phòng, cấm cờ bạc và cấm tàng trữ ma túy, vũ khí, chất nổ.",
+      "expected_context": "Nội quy - Quy chế lưu trú tại Ký túc xá Trường ĐH Công nghiệp Thực phẩm TP.HCM — các hành vi bị cấm.",
+      "answer": "Ký túc xá Trường Đại học Công nghiệp Thực phẩm TP.HCM không cho phép tiếp khách trong phòng ở. Cụ thể, quy định nêu rõ: \"Không được tiếp khách trong phòng ở\" [Document 4].",
+      "contexts": [
+        "[Trường ĐH Công nghiệp Thực phẩm TP.HCM] Điều 7. Qui định về phòng ở\n\n1. Mỗi phòng ở phòng bầu ra trưởng phòng, các thành viên phải tuân thủ sự quản lý\ncủa trưởng phòng và có trách nhiệm thực hiện nghiêm túc nội qui - quy định lưu trú, đại\ndiện ký nhận với Trung tâm Ký túc xá sinh viên về tài sản của từng phòng.\n\n2. Hàng ngày phải luân phiên cử người trực phòng, giữ vệ sinh chung, ngăn nắp, lịch\nsự, không được vứt rác, xả nước, quăng đồ vật bừa bãi trong phòng và từ các tầng lầu\nxuống dưới.",
+        "[Trường ĐH Công nghiệp Thực phẩm TP.HCM] - Việc gia hạn hợp đồng hoặc ký hợp đồng mới đều phải tuân thủ quy chế này.\n\nChương III\n\nNỘI QUI – QUI ĐỊNH LƯU TRÚ TẠI  KÝ TÚC XÁ\n\nĐiều 6. Qui định ra vào cổng và thời gian sinh hoạt Ký túc xá\n\n1. Công chức, viên chức đến làm việc, HSSV – nội trú, khách đến liên hệ công tác\nvới KTX Trường Đại học Công nghiệp Thực phẩm Tp. Hồ Chí Minh phải chịu sự kiểm\nsoát của lực lượng bảo vệ và phải chấp hành nội quy ra vào cơ quan.",
+        "[Trường ĐH Công nghiệp Thực phẩm TP.HCM] Chương I\n\n NHỮNG QUI ĐỊNH CHUNG\n\nĐiều 1. Ký túc xá học sinh sinh viên là cơ sở thuộc quyền quản lý của Nhà trường\nbao gồm, phòng ở, nhà ở, nhà ăn và các phương tiện dịch vụ khác để phục vụ Học sinh\n– Sinh viên (HSSV) nội trú ăn, ở, sinh hoạt, học tập và rèn luyện nhằm góp phần thực\nhiện tốt mục tiêu và nhiệm vụ của trường.",
+        "[Trường ĐH Công nghiệp Thực phẩm TP.HCM] 5. Thực hiện tốt giờ giấc học tập, sinh hoạt, nghỉ ngơi theo quy định của khu nội trú.\nBan  đêm,  muốn  học  quá  giờ phải  dùng  đèn  cá  nhân  không  làm  ảnh  hưởng đến người\nkhác.\n\n6.  Không  được  tiếp  khách  trong  phòng  ở.  Sinh viên  nam  không  được  vào  phòng\n\ncủa sinh viên nữ và ngược lại.\n\n7. Không phơi quần áo và các đồ dùng khác tùy tiện ngoài hành lang.\n\n8. Không nói tục chửi thề, đùa nghịch, gây gổ kích động đánh nhau, tổ chức bè nhóm",
+        "Giá phòng ký túc Đại học Quốc gia TP.HCM năm học 2025 - 2026.\nKý túc xá của trường ** Đại học  Kinh tế TP.HCM ** gồm các loại phòng: 6 chỗ, 8 chỗ, 9 chỗ, 10 chỗ, và 12 chỗ, mức phí từ 180.000 - 1,15 triệu đồng/tháng/sinh viên. Cụ thể:"
+      ],
+      "source_titles": [
+        "Nội quy - Quy chế lưu trú tại Ký túc xá — Trường ĐH Công nghiệp Thực phẩm TP.HCM",
+        "Nội quy - Quy chế lưu trú tại Ký túc xá — Trường ĐH Công nghiệp Thực phẩm TP.HCM",
+        "Nội quy - Quy chế lưu trú tại Ký túc xá — Trường ĐH Công nghiệp Thực phẩm TP.HCM",
+        "Nội quy - Quy chế lưu trú tại Ký túc xá — Trường ĐH Công nghiệp Thực phẩm TP.HCM",
+        "Mức phí ký túc xá các trường đại học 2025, cao nhất hơn 3 triệu đồng/tháng"
+      ],
+      "retrieval_source": "hybrid",
+      "latency_s": 2.039,
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 0.5954317319190602,
+        "context_recall": 0.3333333333333333,
+        "context_precision": 0.6388888888675925
+      }
+    },
+    {
+      "question": "Quy định về giờ giấc ra vào ký túc xá của Trường Đại học Cần Thơ và Trường ĐH Công nghiệp Thực phẩm TP.HCM khác nhau thế nào?",
+      "expected_answer": "Hai trường quy định khác nhau. Trường Đại học Cần Thơ quy định giờ giữ yên tĩnh (trưa 12-13 giờ, tối 23 giờ đến 5 giờ sáng). Trường ĐH Công nghiệp Thực phẩm TP.HCM quy định giờ mở/đóng cổng: mở 05 giờ 00, đóng 22 giờ 30 ngày thường và 23 giờ 00 dịp Lễ, Tết.",
+      "expected_context": "Cần đồng thời hai nguồn: Nội quy KTX Trường Đại học Cần Thơ và Nội quy - Quy chế lưu trú KTX Trường ĐH Công nghiệp Thực phẩm TP.HCM.",
+      "answer": "Quy định về giờ giấc ra vào ký túc xá của Trường Đại học Cần Thơ và Trường ĐH Công nghiệp Thực phẩm TP.HCM khác nhau như sau:\n\n1. **Trường ĐH Công nghiệp Thực phẩm TP.HCM**:\n   - Giờ mở cổng: 05 giờ 00 phút.\n   - Giờ đóng cổng: Ngày thường 22 giờ 30 phút, Ngày Lễ, Tết 23 giờ 00 phút. Tất cả công chức viên chức, HSSV khi vào KTX phải đeo bảng tên và xuất trình giấy tờ tùy thân nếu là khách [Document 4].\n\n2. **Trường Đại học Cần Thơ**:\n   - Sinh viên nội trú khi ra vào khu vực KTX phải mang Thẻ Sinh viên và đúng giờ quy định, nhưng không có thông tin cụ thể về giờ mở và đóng cổng trong tài liệu [Document 3].\n\nTóm lại, Trường ĐH Công nghiệp Thực phẩm TP.HCM có quy định cụ thể về giờ mở và đóng cổng, trong khi Trường Đại học Cần Thơ yêu cầu sinh viên mang Thẻ Sinh viên và tuân thủ giờ quy định nhưng không nêu rõ giờ cụ thể.",
+      "contexts": [
+        "[Trường ĐH Công nghiệp Thực phẩm TP.HCM] - Việc gia hạn hợp đồng hoặc ký hợp đồng mới đều phải tuân thủ quy chế này.\n\nChương III\n\nNỘI QUI – QUI ĐỊNH LƯU TRÚ TẠI  KÝ TÚC XÁ\n\nĐiều 6. Qui định ra vào cổng và thời gian sinh hoạt Ký túc xá\n\n1. Công chức, viên chức đến làm việc, HSSV – nội trú, khách đến liên hệ công tác\nvới KTX Trường Đại học Công nghiệp Thực phẩm Tp. Hồ Chí Minh phải chịu sự kiểm\nsoát của lực lượng bảo vệ và phải chấp hành nội quy ra vào cơ quan.",
+        "[Trường ĐH Công nghiệp Thực phẩm TP.HCM] 5. Thực hiện tốt giờ giấc học tập, sinh hoạt, nghỉ ngơi theo quy định của khu nội trú.\nBan  đêm,  muốn  học  quá  giờ phải  dùng  đèn  cá  nhân  không  làm  ảnh  hưởng đến người\nkhác.\n\n6.  Không  được  tiếp  khách  trong  phòng  ở.  Sinh viên  nam  không  được  vào  phòng\n\ncủa sinh viên nữ và ngược lại.\n\n7. Không phơi quần áo và các đồ dùng khác tùy tiện ngoài hành lang.\n\n8. Không nói tục chửi thề, đùa nghịch, gây gổ kích động đánh nhau, tổ chức bè nhóm",
+        "[Trường Đại học Cần Thơ] đăng ký với Văn phòng TT. PVSV hoặc Tổ Bảo vệ KTX, sẽ được bố trí ở khu vực\nriêng.\nĐiều 3. Quy định về sinh họat\n1. SV nội trú khi ra vào khu vực KTX phải mang Thẻ Sinh viên và đúng giờ quy\nđịnh.\n2. Không làm ồn ào gây ảnh hưởng đến người khác trong giờ nghỉ (Buổi trưa từ\n12 giờ đến 13 giờ; Buổi tối từ 23 giờ đến 5 giờ sáng hôm sau).\n3. Không được qua khu vực KTX SV khác giới; Không tiếp khách trong phòng ở\n(kể cả SV nội trú ở phòng khác).",
+        "[Trường ĐH Công nghiệp Thực phẩm TP.HCM] +   Giờ mở cổng:   05 giờ 00 phút\n\n2\n\n\f           +   Giờ đóng cổng:  Ngày thường:\n\n22 giờ 30 phút\n\n                                            Ngày Lễ, Tết:\n\n23 giờ 00 phút\n\n2. Tất cả công chức viên chức, HSSV khi vào KTX phải đeo bảng  tên. Khách đến\nliên hệ công tác, thân nhân, bạn bè của HSSV đến thăm phải xuất trình giấy tờ tuỳ thân,\nđeo thẻ khách và tuân theo sự hướng dẫn của bảo vệ.\n\nĐiều 7. Qui định về phòng ở",
+        "[Trường ĐH Công nghiệp Thực phẩm TP.HCM] Điều 7. Qui định về phòng ở\n\n1. Mỗi phòng ở phòng bầu ra trưởng phòng, các thành viên phải tuân thủ sự quản lý\ncủa trưởng phòng và có trách nhiệm thực hiện nghiêm túc nội qui - quy định lưu trú, đại\ndiện ký nhận với Trung tâm Ký túc xá sinh viên về tài sản của từng phòng.\n\n2. Hàng ngày phải luân phiên cử người trực phòng, giữ vệ sinh chung, ngăn nắp, lịch\nsự, không được vứt rác, xả nước, quăng đồ vật bừa bãi trong phòng và từ các tầng lầu\nxuống dưới."
+      ],
+      "source_titles": [
+        "Nội quy - Quy chế lưu trú tại Ký túc xá — Trường ĐH Công nghiệp Thực phẩm TP.HCM",
+        "Nội quy - Quy chế lưu trú tại Ký túc xá — Trường ĐH Công nghiệp Thực phẩm TP.HCM",
+        "Nội quy công tác nội trú tại Ký túc xá — Trường Đại học Cần Thơ",
+        "Nội quy - Quy chế lưu trú tại Ký túc xá — Trường ĐH Công nghiệp Thực phẩm TP.HCM",
+        "Nội quy - Quy chế lưu trú tại Ký túc xá — Trường ĐH Công nghiệp Thực phẩm TP.HCM"
+      ],
+      "retrieval_source": "hybrid",
+      "latency_s": 8.56,
+      "scores": {
+        "faithfulness": 0.5,
+        "answer_relevance": 0.6219251592240778,
+        "context_recall": 0.6666666666666666,
+        "context_precision": 0.0
+      }
+    },
+    {
+      "question": "Ký túc xá Đại học Quốc gia TP.HCM bố trí bao nhiêu chỗ ở cho tân sinh viên trong năm học 2024-2025?",
+      "expected_answer": "Khoảng 10.500 chỗ dành cho tân sinh viên, trên tổng quy mô 35.500 chỗ ở (25.000 chỗ còn lại dành cho sinh viên các khóa trên).",
+      "expected_context": "Bài báo về chỗ ở ký túc xá Đại học Quốc gia TP.HCM năm học 2024-2025 và mức phí từng loại phòng.",
+      "answer": "Ký túc xá Đại học Quốc gia TP.HCM dự kiến sẽ bố trí 10.500 chỗ ở cho tân sinh viên trong năm học 2024-2025 [Document 1].",
+      "contexts": [
+        "## Đăng ký ở ký túc xá trực tuyến\nTrao đổi với _Tuổi Trẻ Online_ , ông Lại Thế Tuân - trưởng phòng tổng hợp, Trung tâm quản lý ký túc xá Đại học Quốc gia TP.HCM - cho biết theo số liệu, dự kiến năm học 2024-2025 ký túc xá sẽ tiếp nhận 35.500 sinh viên vào ở, trong đó dự kiến sinh viên cũ là 25.000 chỗ và tân sinh viên là 10.500 chỗ.",
+        "TRỌNG NHÂN\n\nKý túc xá Đại học Quốc gia TP.HCM dự kiến tiếp nhận 35.500 sinh viên trong năm học 2024-2025. Sinh viên cho hay phí ký túc xá tăng so với năm trước.",
+        "Giá phòng ký túc Đại học Quốc gia TP.HCM năm học 2025 - 2026.\nKý túc xá của trường ** Đại học  Kinh tế TP.HCM ** gồm các loại phòng: 6 chỗ, 8 chỗ, 9 chỗ, 10 chỗ, và 12 chỗ, mức phí từ 180.000 - 1,15 triệu đồng/tháng/sinh viên. Cụ thể:",
+        "Đơn giá lệ phí phòng ở ký túc xá từ năm học 2023-2024 đến năm 2025-2026 được thông báo tăng theo từng năm - Ảnh: ĐÌNH KHẢI chụp lại\nMột số sinh viên phản ánh đến _Tuổi Trẻ Online_ về việc ký túc xá Đại học Quốc gia TP.HCM tăng phí nội trú trong năm học 2024-2025.",
+        "Mức thu lệ phí phòng ở và đơn giá dịch vụ tăng thêm tại ký túc xá Đại học Quốc gia TP.HCM từ 1-9-2024 đến 31-8-2025 - Ảnh: ĐÌNH KHẢI chụp lại\nĐại diện Trung tâm quản lý ký túc xá Đại học Quốc gia TP.HCM cho biết phí nội trú được đưa ra theo lộ trình đã được duyệt. Trung tâm quản lý ký túc xá đã thông báo từ đầu năm học trước - năm học 2023-2024 - cho các sinh viên được biết."
+      ],
+      "source_titles": [
+        "10.500 chỗ ở cho tân sinh viên tại ký túc xá ĐH Quốc gia TP.HCM - Tuổi Trẻ Online",
+        "10.500 chỗ ở cho tân sinh viên tại ký túc xá ĐH Quốc gia TP.HCM - Tuổi Trẻ Online",
+        "Mức phí ký túc xá các trường đại học 2025, cao nhất hơn 3 triệu đồng/tháng",
+        "10.500 chỗ ở cho tân sinh viên tại ký túc xá ĐH Quốc gia TP.HCM - Tuổi Trẻ Online",
+        "10.500 chỗ ở cho tân sinh viên tại ký túc xá ĐH Quốc gia TP.HCM - Tuổi Trẻ Online"
+      ],
+      "retrieval_source": "hybrid",
+      "latency_s": 14.688,
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 0.6630224855189133,
+        "context_recall": 1.0,
+        "context_precision": 0.99999999995
+      }
+    },
+    {
+      "question": "Tân sinh viên nên chuẩn bị gì trước giờ mở cổng đăng ký học phần để tránh bị nghẽn hệ thống?",
+      "expected_answer": "Ghi sẵn tên và mã học phần, giảng viên, thời gian học; lập trước thời khóa biểu dự kiến; chuẩn bị phương án dự phòng khi lớp hết chỗ; đăng nhập sớm và kiên nhẫn vì hệ thống hay quá tải; lưu đăng ký ngay và chụp màn hình thời khóa biểu làm bằng chứng.",
+      "expected_context": "Bài hướng dẫn đăng ký tín chỉ/học phần hiệu quả cho tân sinh viên trên Báo Điện tử Chính phủ.",
+      "answer": "Tân sinh viên nên chuẩn bị những điều sau trước giờ mở cổng đăng ký học phần để tránh bị nghẽn hệ thống:\n\n1. **Đăng nhập sớm vào hệ thống đăng ký:** Sinh viên nên truy cập website đăng ký học phần trước giờ mở để làm quen giao diện và hạn chế tình trạng nghẽn mạng, tải trang chậm. Trong trường hợp hệ thống quá tải, có thể chuẩn bị sẵn nhiều thiết bị hoặc sử dụng trình duyệt khác để tăng khả năng đăng nhập thành công. [Document 1]\n\n2. **Chuẩn bị trước thông tin cần thiết:** Trước ngày mở đăng ký, sinh viên cần kiểm tra kỹ danh sách các môn học trong kế hoạch học tập, bao gồm mã môn, số tín chỉ và loại học phần. Việc nắm sẵn thông tin giúp thao tác nhanh hơn khi hệ thống mở, hạn chế nhầm lẫn hoặc mất thời gian tìm kiếm. [Document 2]\n\n3. **Kiên nhẫn và sử dụng nhiều trình duyệt:** Vào khung giờ bắt đầu mở hệ thống đăng ký, tất cả sinh viên sẽ tập trung đăng nhập, có thể dẫn đến tình trạng lỗi mạng hoặc sập trang web. Do đó, sinh viên cần phải kiên nhẫn để có thể đăng nhập lại vào hệ thống, có thể sử dụng nhiều trình duyệt web để tăng thêm cơ hội đăng ký thành công. [Document 5]",
+      "contexts": [
+        "* **Đăng nhập sớm vào hệ thống đăng ký:** Sinh viên nên truy cập website đăng ký học phần trước giờ mở để làm quen giao diện và hạn chế tình trạng nghẽn mạng, tải trang chậm. Trong trường hợp hệ thống quá tải, có thể chuẩn bị sẵn nhiều thiết bị hoặc sử dụng trình duyệt khác để tăng khả năng đăng nhập thành công.",
+        "Để quá trình đăng ký học phần diễn ra suôn sẻ và tránh tình trạng hết chỗ hoặc lỗi hệ thống, sinh viên HUFLIT nên chủ động chuẩn bị và áp dụng một số mẹo sau:\n  * **Chuẩn bị trước thông tin cần thiết:** Trước ngày mở đăng ký, sinh viên cần kiểm tra kỹ danh sách các môn học trong kế hoạch học tập, bao gồm mã môn, số tín chỉ và loại học phần. Việc nắm sẵn thông tin giúp thao tác nhanh hơn khi hệ thống mở, hạn chế nhầm lẫn hoặc mất thời gian tìm kiếm.",
+        "**Cách đăng ký học phần** là vấn đề được nhiều sinh viên HUFLIT quan tâm, đặc biệt vào mỗi đầu học kỳ khi hệ thống mở đăng ký. Dưới đây là những câu hỏi thường gặp cùng câu trả lời giúp sinh viên chủ động và tự tin hơn trong quá trình đăng ký học phần.\n### **Sinh viên HUFLIT cần chuẩn bị gì trước khi đăng ký học phần?**",
+        "Đăng kí học phần ở đại học thực chất là một cuộc chiến khốc liệt. Tất cả sinh viên sẽ phải đăng nhập hệ thống để đăng ký học phần cho kỳ học sau. Vì có quá nhiều sinh viên đăng nhập vào hệ thống cùng một lúc, vì thế có thể xảy ra một số lỗi làm sinh viên không thể đăng kí được lịch học. Một số tình trạng như lỗi mạng, số lượng sinh viên trong lớp không còn trống,... là thường xuyên xảy ra.\n## **Cần chuẩn bị gì trước khi đăng kí tín chỉ, học phần?**",
+        "### **Lưu ý sinh viên cần biết khi đăng kí học phần**\nThời gian đăng kí học phần thường được nhà trường quy định từ trước. Vào khung giờ bắt đầu mở hệ thống đăng kí, tất cả sinh viên sẽ tập trung đăng nhập, có thể dẫn đến tình trạng lỗi mạng hoặc sập trang web. Do đó, sinh viên cần phải kiên nhẫn để có thể đăng nhập lại vào hệ thống, có thể sử dụng nhiều trình duyệt web để tăng thêm cơ hội đăng ký thành công."
+      ],
+      "source_titles": [
+        "Cách đăng ký học phần: Hướng dẫn chi tiết từng bước",
+        "Cách đăng ký học phần: Hướng dẫn chi tiết từng bước",
+        "Cách đăng ký học phần: Hướng dẫn chi tiết từng bước",
+        "Cách đăng kí tín chỉ, học phần hiệu quả cho tân sinh viên",
+        "Cách đăng kí tín chỉ, học phần hiệu quả cho tân sinh viên"
+      ],
+      "retrieval_source": "hybrid",
+      "latency_s": 5.708,
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevance": 0.5500018619394057,
+        "context_recall": 0.8,
+        "context_precision": 0.99999999998
+      }
+    }
+  ]
+}
