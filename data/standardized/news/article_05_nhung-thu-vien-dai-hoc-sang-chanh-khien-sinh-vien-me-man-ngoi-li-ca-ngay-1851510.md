@@ -1,0 +1,253 @@
+# Những thư viện đại học sang chảnh khiến sinh viên mê mẩn 'ngồi lì' cả ngày
+
+**Source:** https://thanhnien.vn/nhung-thu-vien-dai-hoc-sang-chanh-khien-sinh-vien-me-man-ngoi-li-ca-ngay-1851510758.htm
+
+**Crawled:** 2026-09-20T15:13:05
+
+---
+
+[ Bạn cần biết ](https://thanhnien.vn/ban-can-biet.htm "Bạn cần biết")[ Tiện ích ](https://thanhnien.vn/tien-ich/thoi-tiet.htm "Tiện ích")[ Liên hệ ](https://thanhnien.vn/lien-he.htm "Liên hệ")
+Theo dõi báo trên
+[![Youtube](https://thanhnien-static.mediacdn.vn/thanhnien.vn/image/icon_youtube_fill.svg)](https://www.youtube.com/channel/UCIW9cGgoRuGJnky3K3tbzNg "Youtube")[![Facebook](https://thanhnien-static.mediacdn.vn/thanhnien.vn/image/icon_facebook_full_color.svg)](https://www.facebook.com/thanhnien "Facebook")[![Tiktok](https://thanhnien-static.mediacdn.vn/thanhnien.vn/image/Icon_Tiktok_fill.svg)](https://www.tiktok.com/@baothanhnien.official "Tiktok")[![Zalo](https://thanhnien-static.mediacdn.vn/thanhnien.vn/image/icon_zalo_full_color.svg)](https://zalo.me/2431025964363015388 "Zalo")
+Tìm kiếm
+[![Báo thanh niên](https://static.thanhnien.com.vn/thanhnien.vn/image/logo-40-nam-trang-chu.svg)](https://thanhnien.vn/ "Báo thanh niên")
+[Quảng cáo](https://banggia.thanhnien.vn/ "Quảng cáo")[Đặt báo](https://datbao.thanhnien.vn/ "Đặt báo")[Đăng nhập](https://my.thanhnien.vn/page/login.html?redirect_url=https://thanhnien.vn/nhung-thu-vien-dai-hoc-sang-chanh-khien-sinh-vien-me-man-ngoi-li-ca-ngay-1851510758.htm "Đăng nhập")
+[![avatar-user](https://static.thanhnien.com.vn/thanhnien.vn/image/ava_inter.png)](https://my.thanhnien.vn/)
+Bình luận mới được duyệt[Xem tất cả](https://my.thanhnien.vn/binh-luan "Xem tất cả")
+[ Thông tin tài khoản ](https://my.thanhnien.vn/ "Thông tin tài khoản")[ Đổi mật khẩu ](https://my.thanhnien.vn/doi-mat-khau "Đổi mật khẩu")[ Tin đã lưu ](https://my.thanhnien.vn/tin-da-luu "Tin đã lưu")[ Tin đã xem ](https://my.thanhnien.vn/tin-da-xem "Tin đã xem") Đăng xuất 
+  * [](https://thanhnien.vn/ "Trang chủ")
+  * [ Chính trị ](https://thanhnien.vn/chinh-tri.htm "Chính trị")
+Chính trị
+  * [ Thời sự ](https://thanhnien.vn/thoi-su.htm "Thời sự")
+Thời sự
+  * [ Thế giới ](https://thanhnien.vn/the-gioi.htm "Thế giới")
+Thế giới
+  * [ Kinh tế ](https://thanhnien.vn/kinh-te.htm "Kinh tế")
+Kinh tế
+  * [ Đời sống ](https://thanhnien.vn/doi-song.htm "Đời sống")
+Đời sống
+  * [ Sức khỏe ](https://thanhnien.vn/suc-khoe.htm "Sức khỏe")
+Sức khỏe
+  * [ Giới trẻ ](https://thanhnien.vn/gioi-tre.htm "Giới trẻ")
+Giới trẻ
+  * [ Giáo dục ](https://thanhnien.vn/giao-duc.htm "Giáo dục")
+Giáo dục
+  * [ Du lịch ](https://thanhnien.vn/du-lich.htm "Du lịch")
+Du lịch
+  * [ Văn hóa ](https://thanhnien.vn/van-hoa.htm "Văn hóa")
+Văn hóa
+  * [ Giải trí ](https://thanhnien.vn/giai-tri.htm "Giải trí")
+Giải trí
+  * [ Thể thao ](https://thanhnien.vn/the-thao.htm "Thể thao")
+Thể thao
+  * [ Công nghệ ](https://thanhnien.vn/cong-nghe.htm "Công nghệ")
+Công nghệ - Game
+  * [ Xe ](https://thanhnien.vn/xe.htm "Xe")
+Xe
+  * [ Video ](https://thanhnien.vn/video.htm "Video")
+Video
+  * [Tiêu dùng](https://thanhnien.vn/tieu-dung-thong-minh.htm "Tiêu dùng thông minh")
+Tiêu dùng
+  * [ Thời trang trẻ ](https://thanhnien.vn/thoi-trang-tre.htm "Thời trang trẻ")
+Thời trang trẻ
+
+Đóng menu 
+[ Chào ngày mới ](https://thanhnien.vn/chao-ngay-moi.htm "Chào ngày mới")[ Tin 24h ](https://thanhnien.vn/tin-24h.htm "Tin 24h")[ Tin thị trường ](https://thanhnien.vn/thi-truong.htm "Tin thị trường")[ Tin 360 ](https://thanhnien.vn/tin-nhanh-360.htm "Tin 360")
+[ Video ](https://thanhnien.vn/video.htm "Video")[ Magazine ](https://thanhnien.vn/magazine.htm "Magazine")
+[ Tiện ích ](https://thanhnien.vn/tien-ich/thoi-tiet.htm "Tiện ích")[ Bạn cần biết ](https://thanhnien.vn/ban-can-biet.htm "Bạn cần biết")[ Liên hệ ](https://thanhnien.vn/lien-he.htm "Liên hệ")[ Thông tin toà soạn ](https://thanhnien.vn/thong-tin-toa-soan.html "Thông tin toà soạn")[ Liên hệ quảng cáo ](https://banggia.thanhnien.vn/ "Liên hệ quảng cáo")
+[](https://www.facebook.com/thanhnien "Facebook")[](https://zalo.me/2431025964363015388 "Zalo")[](https://www.youtube.com/channel/UCIW9cGgoRuGJnky3K3tbzNg "Youtube")
+[](javascript:; "Bình luận")
+[Giáo dục](https://thanhnien.vn/giao-duc.htm "Giáo dục")
+# Những thư viện đại học sang chảnh khiến sinh viên mê mẩn 'ngồi lì' cả ngày
+[![Mỹ Quyên](https://images2.thanhnien.vn/zoom/80_80/50x50/Uploaded/authors/quyen_WCHK.jpg)](https://thanhnien.vn/author/my-quyen-185108.htm "Mỹ Quyên")
+[Mỹ Quyên](https://thanhnien.vn/author/my-quyen-185108.htm "Mỹ Quyên")- myquyentn@gmail.com 
+15/10/2022 14:22 GMT+7 
+Chia sẻ 
+![](https://static.mediacdn.vn/thanhnien.vn/gg-2.svg)![](https://static.mediacdn.vn/thanhnien.vn/ggr-x2.png)
+Chọn Báo _Thanh Niên_ làm **nguồn ưu tiên** trên Google tìm kiếm. Xem hướng dẫn.
+![](https://static.mediacdn.vn/thanhnien.vn/x-x2.png)
+![](https://static.mediacdn.vn/thanhnien.vn/mail-x2.png)
+![Bạn muốn Google ưu tiên](https://static.mediacdn.vn/thanhnien.vn/banmuonpc.png)![Bạn muốn Google ưu tiên](https://static.mediacdn.vn/thanhnien.vn/banmuonmb2.png)![Laptop](https://static.mediacdn.vn/thanhnien.vn/laptoptn.png)
+BƯỚC**1**
+Nhấp vào nút "Thêm _Thanh Niên_ trên Google" hoặc mở trực tiếp đường dẫn này: 
+<https://www.google.com/preferences/source?q=thanhnien.vn>
+BƯỚC**2**
+Tại trang vừa mở, tìm dòng "Báo _Thanh Niên_ " và bấm vào ô vuông bên phải.
+Khi ô vuông chuyển thành dấu tích xanh là bạn đã thành công rồi!
+![](https://static.mediacdn.vn/thanhnien.vn/ting.png)
+**LƯU Ý NHỎ:** Nếu muốn kiểm tra xem cài đặt còn hiệu lực không, bạn chỉ cần **mở lại link trên** là thấy ngay **dấu tích xanh** vẫn đang hiển thị. 
+![Các nguồn ưu tiên](https://static.mediacdn.vn/thanhnien.vn/cacnguon.png)![Các nguồn ưu tiên](https://static.mediacdn.vn/thanhnien.vn/banmuonmb3.png)
+Chúc bạn đọc báo vui vẻ! 
+Không chỉ là nơi để đọc sách, học bài, chạy deadline... mà những thư viện trường ĐH hiện đại bậc nhất Việt Nam này còn làm sinh viên mê mẩn 'ngồi lì cả ngày' bởi không gian sang chảnh, view tuyệt đẹp. 
+INSPiRE Library (thư viện truyền cảm hứng) của [Trường ĐH Tôn Đức Thắng](https://thanhnien.vn/truong-dh-ton-duc-thang-con-xet-tuyen-bo-sung-hon-500-chi-tieu-post1503902.html "Trường ĐH Tôn Đức Thắng còn xét tuyển bổ sung hơn 500 chỉ tiêu") được xem là một trong những thư viện hiện đại của Việt Nam hiện nay với mức đầu tư tới 129 tỉ đồng. Tọa lạc ngay bên bờ kênh xanh mát và cây cối tốt tươi tại Q.7, TP.HCM, thư viện này được thiết kế theo mô hình không gian học tập chung (learning commons) gồm 7 tầng lầu, mỗi lầu có một màu sắc riêng.  
+| ![](https://thanhnien.mediacdn.vn/Uploaded/myquyen/2022_10_15/img-7082-1962.jpg) |  
+| --- |  
+| Nơi tự học rộng rãi, view vô cùng "chill" |  
+| MỸ QUYÊN |  
+| ![](https://thanhnien.mediacdn.vn/Uploaded/myquyen/2022_10_15/nisus-47-845.jpg) |  
+| --- |  
+| Sinh viên có thể ngồi đọc sách, trao đổi cùng nhau trong một không gian hiện đại |  
+| châu nguyễn |  
+Thư viện này có thể phục vụ khoảng 3.000 người sử dụng cùng lúc tại các khu chức năng như không gian học tập chung gồm các phòng thuyết trình, phòng nghiên cứu cá nhân, phòng học nhóm, phòng xem phim, phòng hội thảo trực tuyến...; không gian cho các dịch vụ thông tin gồm các quầy thông tin, khu vực trưng bày tài liệu mới, khu vực sử dụng máy tính, các điểm truy cập nhanh, các trạm in ấn đa chức năng, trạm mượn sách tự động...
+Không chỉ vậy, [sinh viên](https://thanhnien.vn/sinh-vien-muon-kiem-tien-va-co-them-kinh-nghiem-thi-lam-cong-viec-nay-post1510323.html "Sinh viên muốn kiếm tiền và có thêm kinh nghiệm thì làm công việc này") còn được thụ hưởng không gian giao lưu học tập gồm các điểm gặp gỡ, khu vực cà phê, khu vực đọc [giải trí](https://thanhnien.vn/giai-tri/ "giải trí"), sảnh triển lãm... cực kỳ sang chảnh. Máy lạnh mát rượi, wifi cực mạnh, view tuyệt đẹp, không gian "siêu" thư giãn... khiến cho sinh viên thế hệ [Gen Z](https://thanhnien.vn/greater-you-everyday-nhung-ngoi-sao-gen-z-xuat-sac-tieng-anh-post1506389.html "Greater You Everyday: Những ngôi sao Gen Z xuất sắc tiếng Anh") không chỉ thỏa mãn nhu cầu học tập mà còn là nơi lý tưởng để thỏa mãn đam mê... check-in, sống ảo.  
+| ![](https://thanhnien.mediacdn.vn/Uploaded/myquyen/2022_10_15/img-7264-3741.jpg) |  
+| --- |  
+| Rộng rãi, mát mẻ, sạch sẽ như vậy ai mà không "mê" |  
+| châu nguyễn |  
+| ![](https://thanhnien.mediacdn.vn/Uploaded/myquyen/2022_10_15/img-7262-9835.jpg) |  
+| --- |  
+| Một góc học tập sang xịn |  
+| châu nguyễn |  
+| ![](https://thanhnien.mediacdn.vn/Uploaded/myquyen/2022_10_15/img-7263-2959.jpg) |  
+| --- |  
+| Ngồi học từ sáng đến đêm vẫn không muốn về vì ở đây yên tĩnh, wifi mạnh như... sóng thần |  
+| châu nguyễn |  
+| ![](https://thanhnien.mediacdn.vn/Uploaded/myquyen/2022_10_15/img-7100-1289.jpg) |  
+| --- |  
+| Giờ nghỉ trưa bỗng có một tiếng đàn cất lên dìu dặt khiến ai nấy đều cảm thấy thư giãn  |  
+| mỹ quyên |  
+Trong khi đó, hệ thống thư viện Trường ĐH Quốc tế Sài Gòn (khu vực Thảo Điền, TP.Thủ Đức) nổi bật với thiết kế phương Tây sang trọng, bắt mắt với các dãy cầu thang sách trải dài khắp các tầng lầu, các gam màu đa dạng như cam, xanh, vàng… được kết hợp hài hòa tạo cho thư viện một không gian trẻ trung, sáng tạo và năng động. Không gian tự học, không gian nghỉ ngơi dành cho sinh viên vô cùng rộng rãi, thoáng mát với bàn ghế, máy tính cùng các trang thiết bị "sang xịn".
+Hai thư viện gồm Alexandria và Trần Nhân Tông của Trường ĐH Quốc tế Sài Gòn sở hữu hàng chục ngàn đầu sách ngoại văn và Việt văn cùng nguồn tài nguyên thông tin điện tử về học thuật và [nghiên cứu](https://thanhnien.vn/37-nha-khoa-hoc-cua-viet-nam-vao-top-nha-khoa-hoc-anh-huong-nhat-the-gioi-post1509550.html "37 nhà khoa học của Việt Nam vào tốp nhà khoa học ảnh hưởng nhất thế giới ") toàn cầu, được xem là nơi “check-in” lý tưởng của nhiều sinh viên vì không gian quá "chill".   
+| ![](https://thanhnien.mediacdn.vn/Uploaded/myquyen/2022_10_15/img-7145-8212.jpg) |  
+| --- |  
+ |  
+ |  
+| Sinh viên chọn sách để đọc |  
+| MỸ QUYÊN |  
+| ![](https://thanhnien.mediacdn.vn/Uploaded/myquyen/2022_10_15/img-7157-7742.jpg) |  
+| --- |  
+ |  
+ |  
+| Ngồi học ở đây không muốn về nhà |  
+| mỹ quyên |  
+| ![](https://thanhnien.mediacdn.vn/Uploaded/myquyen/2022_10_15/img-7162-2267.jpg) |  
+| --- |  
+ |  
+ |  
+| Bàn ghế xịn, sách vở nhiều, cây xanh thư thái |  
+| MỸ QUYÊN |  
+| ![](https://thanhnien.mediacdn.vn/Uploaded/myquyen/2022_10_15/img-7135-4453.jpg) |  
+| --- |  
+| Wifi chạy phà phà tha hồ lên mạng đọc tài liệu |  
+| MỸ QUYÊN |  
+| ![](https://thanhnien.mediacdn.vn/Uploaded/myquyen/2022_10_15/img-7138-4985.jpg) |  
+| --- |  
+ |  
+ |  
+| Khi nào mỏi mắt, nhìn qua bên phải là mắt được "bảo dưỡng" ngay  |  
+| mỹ quyên |  
+Một trong những thư viện được thiết kế và xây dựng mới hiện đại là thư viện thông minh của [Trường ĐH Kinh tế TP.HCM](https://thanhnien.vn/truong-dh-kinh-te-tp-hcm-xet-tuyen-bo-sung-nhieu-nganh-tai-phan-hieu-post1502684.html "Trường ĐH Kinh tế TP.HCM xét tuyển bổ sung nhiều ngành tại phân hiệu") tại cơ sở trên đường Nguyễn Tri Phương (Q.10, TP.HCM). Không chỉ có thiết kế không gian thoáng mát, yên tĩnh để sinh viên học tập, thư viện này còn được trang bị nhiều camera cảm biến và thiết bị thu thập thông tin khác. 
+Nhờ ứng dụng [công nghệ](https://thanhnien.vn/cong-nghe-game/ "công nghệ") IoT, các thông số như lượng người đang tập trung ở bất kỳ vị trí nào; chất lượng không khí như bụi mịn, [nhiệt độ](https://thanhnien.vn/nhiet-do/ "nhiệt độ"), độ ẩm; tiếng ồn, cường độ ánh sáng đều được hệ thống thu thập để có những điều chỉnh phù hợp nhằm tiết kiệm năng lượng và bảo vệ [sức khỏe](https://thanhnien.vn/suc-khoe/ "sức khỏe") cho sinh viên, [giảng viên](https://thanhnien.vn/khi-giang-vien-thuc-tap-o-doanh-nghiep-post1493584.html "Khi giảng viên 'thực tập' ở doanh nghiệp") khi sử dụng thư viện.  
+| ![](https://thanhnien.mediacdn.vn/Uploaded/myquyen/2022_10_15/img-6989-4856.jpg) |  
+| --- |  
+ |  
+ |  
+| Rủ nhau vào thư viện học |  
+| MỸ QUYÊN |  
+| ![](https://thanhnien.mediacdn.vn/Uploaded/myquyen/2022_10_15/img-6998-4633.jpg) |  
+| --- |  
+ |  
+ |  
+| Có không gian trao đổi bài vở |  
+| MỸ QUYÊN |  
+| ![](https://thanhnien.mediacdn.vn/Uploaded/myquyen/2022_10_15/img-6994-7545.jpg) |  
+| --- |  
+ |  
+ |  
+| Một mình giữa "đám đông", không hề cô đơn mà vẫn đầy riêng tư yên tĩnh |  
+| mỹ quyên |  
+| ![](https://thanhnien.mediacdn.vn/Uploaded/myquyen/2022_10_15/img-7008-7909.jpg) |  
+| --- |  
+ |  
+ |  
+| Mỗi người một góc, tha hồ tập trung |  
+| MỸ QUYÊN |  
+| ![](https://thanhnien.mediacdn.vn/Uploaded/myquyen/2022_10_15/img-7009-2475.jpg) |  
+| --- |  
+ |  
+ |  
+| Đây là thư viện hay quán cà phê mà lại có thể thoải mái, thư giãn thế này  |  
+| mỹ quyên |  
+| ![](https://thanhnien.mediacdn.vn/Uploaded/myquyen/2022_10_15/img-7010-6587.jpg) |  
+| --- |  
+ |  
+ |  
+| Chọn một góc "chill" để vừa học vừa... tâm sự  |  
+| MỸ QUYÊN |  
+| ![](https://thanhnien.mediacdn.vn/Uploaded/myquyen/2022_10_15/img-7015-5940.jpg) |  
+| --- |  
+ |  
+ |  
+| Sinh viên có thể ngồi xuyên trưa |  
+| MỸ QUYÊN |  
+Ngay khi bước vào khu vực thư viện của [Trường ĐH Hoa Sen](https://thanhnien.vn/diem-chuan-truong-dh-hoa-sen-nganh-cao-nhat-18-diem-post1500295.html "Điểm chuẩn Trường ĐH Hoa Sen: ngành cao nhất 18 điểm") ở cơ sở Q.1 (TP.HCM), sinh viên và [giảng viên](https://thanhnien.vn/giao-duc/nguoi-thay/ "giảng viên") đã cảm thấy cực kỳ thư giãn với tiếng nhạc không lời êm ái du dương dìu dặt bên tai. Không gian của thư viện này cũng khiến sinh viên thích mê vì thiết kế sang chảnh nhưng vẫn gần gũi.
+Mỗi khu vực lại có một phong cách, màu sắc, kiểu bàn ghế khác nhau phù hợp với nhu cầu học tập của từng cá nhân và nhóm.
+Đặc biệt, với hơn 80.000 đầu sách giấy, sách điện tử, báo, tạp chí và 5.000 tài liệu được số hóa, sinh viên và giảng viên tha hồ nghiên cứu phục vụ cho ngành học của mình.  
+| ![](https://thanhnien.mediacdn.vn/Uploaded/myquyen/2022_10_15/img-6922-7711.jpg) |  
+| --- |  
+ |  
+ |  
+| Chọn góc nào cũng đều lý tưởng |  
+| mỹ quyên |  
+| ![](https://thanhnien.mediacdn.vn/Uploaded/myquyen/2022_10_15/img-6916-7065.jpg) |  
+| --- |  
+ |  
+ |  
+| Không có nơi nào tốt hơn nơi này để học tập, trao đổi bài vở |  
+| mỹ quyên |  
+| ![](https://thanhnien.mediacdn.vn/Uploaded/myquyen/2022_10_15/img-6920-9342.jpg) |  
+| --- |  
+ |  
+ |  
+| Góc học này yên tĩnh, kín đáo, không lo ai làm phiền  |  
+| mỹ quyên |  
+| ![](https://thanhnien.mediacdn.vn/Uploaded/myquyen/2022_10_15/img-6919-6180.jpg) |  
+| --- |  
+ |  
+ |  
+| Khi căng thẳng có thể ngước lên... ngắm tranh  |  
+| mỹ quyên |  
+##  Tin liên quan 
+[![Thư viện trường đại học phải rộng bao nhiêu mới đủ?](https://images2.thanhnien.vn/zoom/205_128/Uploaded/thuyngan/2022_09_12/dsc00702-8598.jpg)](https://thanhnien.vn/thu-vien-truong-dai-hoc-phai-rong-bao-nhieu-moi-du-1851498510.htm "Thư viện trường đại học phải rộng bao nhiêu mới đủ?")
+### [Thư viện trường đại học phải rộng bao nhiêu mới đủ?](https://thanhnien.vn/thu-vien-truong-dai-hoc-phai-rong-bao-nhieu-moi-du-1851498510.htm "Thư viện trường đại học phải rộng bao nhiêu mới đủ?")
+[Thư viện trường đại học (ĐH) phải có phòng đọc chung, phòng đọc chuyên ngành, phòng học nhóm... Tổng diện tích các phòng đọc phải bảo đảm ít nhất 200 m 2 , mỗi giáo trình có ít nhất 50 bản sách/1.000 sinh viên của chuyên ngành đào tạo...](https://thanhnien.vn/thu-vien-truong-dai-hoc-phai-rong-bao-nhieu-moi-du-1851498510.htm "Thư viện trường đại học \(ĐH\) phải có phòng đọc chung, phòng đọc chuyên ngành, phòng học nhóm... Tổng diện tích các phòng đọc phải bảo đảm ít nhất 200 m 2 , mỗi giáo trình có ít nhất 50 bản sách/1.000 sinh viên của chuyên ngành đào tạo...")
+### [Thư viện trang bị võng nằm, ghế massage cho sinh viên](https://thanhnien.vn/thu-vien-trang-bi-vong-nam-ghe-massage-cho-sinh-vien-185695155.htm "Thư viện trang bị võng nằm, ghế massage cho sinh viên")
+### [Trường ĐH phải có diện tích xây dựng 5 hecta mới được hoạt động đào tạo](https://thanhnien.vn/truong-dh-phai-co-dien-tich-xay-dung-5-hecta-moi-duoc-hoat-dong-dao-tao-1851506692.htm "Trường ĐH phải có diện tích xây dựng 5 hecta mới được hoạt động đào tạo")
+Chia sẻ 
+![](https://static.mediacdn.vn/thanhnien.vn/gg-2.svg)![](https://static.mediacdn.vn/thanhnien.vn/ggr-x2.png)
+Chọn Báo _Thanh Niên_ làm **nguồn ưu tiên** trên Google tìm kiếm. Xem hướng dẫn.
+![](https://static.mediacdn.vn/thanhnien.vn/x-x2.png)
+![](https://static.mediacdn.vn/thanhnien.vn/mail-x2.png)
+Bình luận (0) 
+Gửi bình luận
+Quan tâm nhấtMới nhất
+Xem thêm bình luận
+#### Khám phá thêm chủ đề
+[ thư viện sang chảnh ](https://thanhnien.vn/thu-vien-sang-chanh-tags494477.html "thư viện sang chảnh")[ ĐH Hoa Sen ](https://thanhnien.vn/dh-hoa-sen-tags494478.html "ĐH Hoa Sen")[ sách ngoại văn ](https://thanhnien.vn/sach-ngoai-van-tags494479.html "sách ngoại văn")[ giảng viên ](https://thanhnien.vn/giang-vien-tags492158.html "giảng viên")[ sinh viên ](https://thanhnien.vn/sinh-vien-tags486602.html " sinh viên")[ Gen Z ](https://thanhnien.vn/gen-z-tags485656.html " Gen Z")[ Thư viện ](https://thanhnien.vn/thu-vien-tags490865.html " Thư viện")[ ĐH Tôn Đức Thắng ](https://thanhnien.vn/dh-ton-duc-thang-tags490866.html "ĐH Tôn Đức Thắng")[ ĐH Quốc tế Sài Gòn ](https://thanhnien.vn/dh-quoc-te-sai-gon-tags490868.html "ĐH Quốc tế Sài Gòn")[ ĐH Kinh tế Tp.HCM ](https://thanhnien.vn/dh-kinh-te-tphcm-tags491014.html "ĐH Kinh tế Tp.HCM")[ nghiên cứu ](https://thanhnien.vn/nghien-cuu-tags486950.html "nghiên cứu")
+[Chính trị](https://thanhnien.vn/chinh-tri.htm "Chính trị")[Thời sự](https://thanhnien.vn/thoi-su.htm "Thời sự")[ Thế giới ](https://thanhnien.vn/the-gioi.htm " Thế giới")[ Kinh tế ](https://thanhnien.vn/kinh-te.htm " Kinh tế")
+[ Đời sống ](https://thanhnien.vn/doi-song.htm " Đời sống")[ Sức khoẻ ](https://thanhnien.vn/suc-khoe.htm " Sức khoẻ")[ Giới trẻ ](https://thanhnien.vn/gioi-tre.htm "Giới trẻ")[ Giáo dục ](https://thanhnien.vn/giao-duc.htm "Giáo dục")
+[ Du lịch ](https://thanhnien.vn/du-lich.htm "Du lịch")[ Văn hoá ](https://thanhnien.vn/van-hoa.htm "Văn hoá")[ Giải trí ](https://thanhnien.vn/giai-tri.htm "Giải trí")[ Thể thao ](https://thanhnien.vn/the-thao.htm "Thể thao")
+[ Công nghệ ](https://thanhnien.vn/cong-nghe.htm "Công nghệ")[ Xe ](https://thanhnien.vn/xe.htm " Xe")[ Thời trang trẻ ](https://thanhnien.vn/thoi-trang-tre.htm "Thời trang trẻ")[ Video ](https://thanhnien.vn/video.htm "Video")
+[ Bạn đọc ](https://thanhnien.vn/ban-doc.htm " Bạn đọc")[ Rao vặt ](https://raovat.thanhnien.vn/ "Rao vặt")
+[![footer__logo](https://static.thanhnien.com.vn/thanhnien.vn/image/logo-ft.png)](https://thanhnien.vn/ "Báo Thanh niên")
+[Đặt báo ](https://datbao.thanhnien.vn/ "Đặt báo")[Quảng cáo ](https://banggia.thanhnien.vn/ "Quảng cáo")[RSS ](https://thanhnien.vn/rss.html "RSS")[Tòa soạn ](https://thanhnien.vn/thong-tin-toa-soan.html "Tòa soạn")[Chính sách bảo mật ](https://thanhnien.vn/policy.html "Chính sách bảo mật")
+Theo dõi báo trên
+[](https://www.facebook.com/thanhnien "Facebook")[](https://zalo.me/2431025964363015388 "Zalo")[](https://www.youtube.com/channel/UCIW9cGgoRuGJnky3K3tbzNg "Youtube")
+Hotline
+0906 645 777
+Liên hệ quảng cáo
+0908 780 404
+Tổng biên tập: Nguyễn Ngọc Toàn 
+Phó tổng biên tập thường trực: Hải Thành 
+Phó tổng biên tập: Lâm Hiếu Dũng 
+Phó tổng biên tập: Trần Việt Hưng
+Tổng thư ký tòa soạn: Đức Trung 
+Giấy phép xuất bản số 110/GP - BTTTT cấp ngày 24.3.2020 © 2003-2026 Bản quyền thuộc về Báo Thanh Niên. Cấm sao chép dưới mọi hình thức nếu không có sự chấp thuận bằng văn bản. [![Chứng nhận tín nhiệm mạng](https://static.mediacdn.vn/zoom/150_68/thanhnien.vn/image/handle_cert.png)](https://tinnhiemmang.vn/danh-ba-tin-nhiem/thanhnienvn-1625711824 "Chứng nhận tín nhiệm mạng")
+Top
+####  Bạn không thể gửi bình luận liên tục. Xin hãy đợi   
+60 giây nữa.
+Bình luận (0) 
+Gửi bình luận
+Đăng nhập để bình luận
+Quan tâm nhấtMới nhất
+Xem thêm bình luận
