@@ -16,25 +16,38 @@ def rerank_rrf(
     k: int = 60,
 ) -> list[dict]:
     """Fuse nhiều ranked lists và trả hybrid SearchResult."""
-    # TODO: Implement RRF.
-    #
-    # scores = {}
-    # items = {}
-    # for ranked_list in ranked_lists:
-    #     for rank, item in enumerate(ranked_list, 1):
-    #         item_id = item["id"]
-    #         scores[item_id] = scores.get(item_id, 0.0) + 1 / (k + rank)
-    #         items[item_id] = item
-    #
-    # ranked_ids = sorted(scores, key=scores.get, reverse=True)
-    # results = []
-    # for item_id in ranked_ids[:top_k]:
-    #     result = items[item_id].copy()
-    #     result["score"] = scores[item_id]
-    #     result["retrieval_method"] = "hybrid"
-    #     results.append(result)
-    # return results
-    raise NotImplementedError("Implement rerank_rrf")
+    if top_k <= 0:
+        return []
+    if k < 0:
+        raise ValueError("RRF k must be non-negative")
+    scores: dict[str, float] = {}
+    items: dict[str, dict] = {}
+    first_seen: dict[str, int] = {}
+    order = 0
+    for ranked_list in ranked_lists:
+        seen_in_list: set[str] = set()
+        for rank, item in enumerate(ranked_list, 1):
+            item_id = item["id"]
+            if item_id in seen_in_list:
+                continue
+            seen_in_list.add(item_id)
+            scores[item_id] = scores.get(item_id, 0.0) + 1 / (k + rank)
+            items.setdefault(item_id, item)
+            first_seen.setdefault(item_id, order)
+            order += 1
+
+    ranked_ids = sorted(
+        scores,
+        key=lambda item_id: (-scores[item_id], first_seen[item_id], item_id),
+    )
+    results = []
+    for item_id in ranked_ids[:top_k]:
+        result = items[item_id].copy()
+        result["metadata"] = dict(result["metadata"])
+        result["score"] = scores[item_id]
+        result["retrieval_method"] = "hybrid"
+        results.append(result)
+    return results
 
 
 if __name__ == "__main__":

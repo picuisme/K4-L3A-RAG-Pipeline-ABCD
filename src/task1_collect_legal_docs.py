@@ -12,9 +12,16 @@ Nếu website chặn crawler, hãy chọn nguồn công khai khác; không vư�
 """
 
 from pathlib import Path
+from urllib.parse import urlparse
+
+import requests
 
 
 DATA_DIR = Path(__file__).parent.parent / "data" / "landing" / "legal"
+
+# Add a public URL here only when the corresponding document is not already
+# supplied manually.  Keeping this mapping explicit makes provenance auditable.
+LEGAL_DOCUMENT_URLS: dict[str, str] = {}
 
 
 def setup_directory() -> None:
@@ -24,20 +31,41 @@ def setup_directory() -> None:
 
 
 def download_documents() -> None:
-    """Tải ít nhất 3 PDF/DOCX từ nguồn công khai."""
-    # TODO: Có thể tải thủ công hoặc dùng requests.
-    #
-    # Ví dụ:
-    # import requests
-    #
-    # sources = {
-    #     "policy-a.pdf": "https://example.edu/policy-a.pdf",
-    # }
-    # for filename, url in sources.items():
-    #     response = requests.get(url, timeout=30)
-    #     response.raise_for_status()
-    #     (DATA_DIR / filename).write_bytes(response.content)
-    raise NotImplementedError("Implement download_documents")
+    """Download configured public documents without overwriting local files."""
+    setup_directory()
+    for filename, url in LEGAL_DOCUMENT_URLS.items():
+        suffix = Path(filename).suffix.lower()
+        if suffix not in {".pdf", ".doc", ".docx"}:
+            raise ValueError(f"Unsupported legal document type: {filename}")
+        if urlparse(url).scheme not in {"http", "https"}:
+            raise ValueError(f"Invalid public URL for {filename}")
+
+        destination = DATA_DIR / filename
+        if destination.exists() and destination.stat().st_size > 1024:
+            print(f"Exists: {destination}")
+            continue
+
+        response = requests.get(
+            url,
+            timeout=45,
+            headers={"User-Agent": "UniversityServicesRAG/1.0"},
+        )
+        response.raise_for_status()
+        destination.write_bytes(response.content)
+        print(f"Downloaded: {destination}")
+
+    documents = [
+        path
+        for path in DATA_DIR.iterdir()
+        if path.suffix.lower() in {".pdf", ".doc", ".docx"}
+        and path.stat().st_size > 1024
+    ]
+    if len(documents) < 3:
+        raise RuntimeError(
+            "Cần ít nhất 3 PDF/DOCX trong data/landing/legal; "
+            "hãy thêm file thủ công hoặc khai báo LEGAL_DOCUMENT_URLS."
+        )
+    print(f"Validated {len(documents)} legal documents")
 
 
 if __name__ == "__main__":

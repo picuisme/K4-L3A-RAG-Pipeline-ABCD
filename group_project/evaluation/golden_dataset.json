@@ -1,0 +1,104 @@
+[
+  {
+    "question": "Sinh viên nội trú KTX Đại học Cần Thơ phải giữ yên lặng vào những khung giờ nào?",
+    "expected_answer": "Không làm ồn từ 12:00 đến 13:00 và từ 23:00 đến 05:00 sáng hôm sau.",
+    "expected_context": "Không làm ồn ào gây ảnh hưởng đến người khác trong giờ nghỉ, buổi trưa từ 12 giờ đến 13 giờ và buổi tối từ 23 giờ đến 5 giờ sáng hôm sau.",
+    "source": "noi-quy-ky-tuc-xa-dh-can-tho.pdf"
+  },
+  {
+    "question": "Sinh viên có được tiếp khách trong phòng ở KTX Đại học Cần Thơ không?",
+    "expected_answer": "Không. Sinh viên không được tiếp khách trong phòng ở, kể cả sinh viên nội trú ở phòng khác.",
+    "expected_context": "Không được qua khu vực KTX sinh viên khác giới; không tiếp khách trong phòng ở, kể cả sinh viên nội trú ở phòng khác.",
+    "source": "noi-quy-ky-tuc-xa-dh-can-tho.pdf"
+  },
+  {
+    "question": "KTX Đại học Cần Thơ có cho nấu ăn trong phòng không?",
+    "expected_answer": "Không, trừ các dãy nhà tại KTX-A được thiết kế và lắp đặt thiết bị cho phép nấu ăn.",
+    "expected_context": "Không được nấu ăn trong phòng ở và khu vực KTX, trừ các dãy nhà có thiết kế và lắp đặt trang thiết bị cho phép nấu ăn tại KTX-A.",
+    "source": "noi-quy-ky-tuc-xa-dh-can-tho.pdf"
+  },
+  {
+    "question": "Khi ra vào KTX Đại học Cần Thơ, sinh viên phải mang theo gì?",
+    "expected_answer": "Sinh viên phải mang thẻ sinh viên và ra vào đúng giờ quy định.",
+    "expected_context": "Sinh viên nội trú khi ra vào khu vực KTX phải mang Thẻ Sinh viên và đúng giờ quy định.",
+    "source": "noi-quy-ky-tuc-xa-dh-can-tho.pdf"
+  },
+  {
+    "question": "Giờ đóng cổng KTX HUIT vào ngày thường và ngày lễ, Tết là mấy giờ?",
+    "expected_answer": "Ngày thường đóng lúc 22:30; ngày lễ, Tết đóng lúc 23:00.",
+    "expected_context": "Giờ đóng cổng: ngày thường 22 giờ 30 phút; ngày Lễ, Tết 23 giờ 00 phút.",
+    "source": "noi-quy-ky-tuc-xa-huit.pdf"
+  },
+  {
+    "question": "Khách đến thăm sinh viên tại KTX HUIT phải làm gì?",
+    "expected_answer": "Khách phải xuất trình giấy tờ tùy thân, đeo thẻ khách và tuân theo hướng dẫn của bảo vệ.",
+    "expected_context": "Thân nhân, bạn bè của sinh viên đến thăm phải xuất trình giấy tờ tùy thân, đeo thẻ khách và tuân theo sự hướng dẫn của bảo vệ.",
+    "source": "noi-quy-ky-tuc-xa-huit.pdf"
+  },
+  {
+    "question": "Nhóm ưu tiên số 1 khi xét nội trú KTX HUIT gồm những ai?",
+    "expected_answer": "Gồm sinh viên là anh hùng lực lượng vũ trang, anh hùng lao động, thương binh, bệnh binh hoặc người hưởng chính sách như thương binh.",
+    "expected_context": "Nhóm ưu tiên 1: bản thân sinh viên là anh hùng lực lượng vũ trang; anh hùng Lao động; thương binh; bệnh binh; người được hưởng chính sách như thương binh.",
+    "source": "noi-quy-ky-tuc-xa-huit.pdf"
+  },
+  {
+    "question": "Sinh viên nội trú KTX HUIT có bắt buộc mua bảo hiểm không?",
+    "expected_answer": "Có. Sinh viên phải mua bảo hiểm y tế và bảo hiểm tai nạn tại KTX.",
+    "expected_context": "Sinh viên lưu trú tại KTX bắt buộc phải mua bảo hiểm Y tế, bảo hiểm tai nạn tại KTX.",
+    "source": "noi-quy-ky-tuc-xa-huit.pdf"
+  },
+  {
+    "question": "Sinh viên USSH được mượn tối đa bao nhiêu tài liệu tham khảo và trong bao lâu?",
+    "expected_answer": "Sinh viên và học viên sau đại học được mượn 6 cuốn trong 30 ngày.",
+    "expected_context": "Tài liệu tham khảo được mượn 06 cuốn đối với sinh viên, học viên sau đại học trong vòng 30 ngày.",
+    "source": "noi-quy-thu-vien-ussh-vnuhcm.pdf"
+  },
+  {
+    "question": "Mức phạt trả tài liệu thư viện USSH trễ hạn là bao nhiêu?",
+    "expected_answer": "Mức phạt là 2.000 đồng mỗi ngày; tái phạm từ hai lần có thể bị khóa giao dịch 3 đến 6 tháng.",
+    "expected_context": "Nếu để trễ hạn trả tài liệu bạn đọc phải nộp phạt 2.000 đồng/ngày; nếu tái phạm 02 lần trở lên sẽ bị khóa giao dịch sử dụng thư viện từ 03 đến 06 tháng.",
+    "source": "noi-quy-thu-vien-ussh-vnuhcm.pdf"
+  },
+  {
+    "question": "Tài liệu tham khảo của thư viện USSH có thể được gia hạn thêm bao lâu?",
+    "expected_answer": "Có thể gia hạn thêm 14 ngày nếu không có bạn đọc khác chờ mượn.",
+    "expected_context": "Nếu không có bạn đọc khác chờ mượn, thời gian tài liệu được gia hạn sử dụng tiếp là 14 ngày.",
+    "source": "noi-quy-thu-vien-ussh-vnuhcm.pdf"
+  },
+  {
+    "question": "Sinh viên học cùng lúc hai chương trình tại HCMUS được đăng ký tối đa bao nhiêu tín chỉ?",
+    "expected_answer": "Tối đa 37 tín chỉ trong học kỳ chính và 15 tín chỉ trong học kỳ hè.",
+    "expected_context": "Đối với sinh viên học cùng lúc hai chương trình, tổng số tín chỉ đăng ký tối đa cho mỗi học kỳ chính là 37, mỗi học kỳ hè không vượt quá 15.",
+    "source": "quy-che-dao-tao-dai-hoc-hcmus.pdf"
+  },
+  {
+    "question": "HCMUS cho phép công nhận, chuyển đổi tối đa bao nhiêu phần trăm khối lượng chương trình?",
+    "expected_answer": "Không vượt quá 25% khối lượng học tập tối thiểu của chương trình đào tạo.",
+    "expected_context": "Khối lượng tối đa được công nhận, chuyển đổi không vượt quá 25% khối lượng học tập tối thiểu của chương trình đào tạo.",
+    "source": "quy-che-dao-tao-dai-hoc-hcmus.pdf"
+  },
+  {
+    "question": "Điểm học cải thiện tại HCMUS có được dùng để xét học bổng khuyến khích học tập không?",
+    "expected_answer": "Không dùng để tính điểm trung bình học kỳ xét học bổng, nhưng vẫn tính vào điểm trung bình và điểm trung bình tích lũy.",
+    "expected_context": "Điểm cải thiện không được sử dụng vào việc tính điểm trung bình học kỳ để xét học bổng khuyến khích học tập nhưng được tính vào điểm trung bình và điểm trung bình tích lũy.",
+    "source": "quy-che-dao-tao-dai-hoc-hcmus.pdf"
+  },
+  {
+    "question": "HCMUS buộc thôi học sinh viên trong những trường hợp học vụ nào?",
+    "expected_answer": "Các trường hợp gồm không hoàn thành học phí đúng hạn, không đăng ký học phần trong học kỳ, bị cảnh báo học tập lần thứ ba liên tiếp, bị kỷ luật buộc thôi học hoặc vượt thời gian học tối đa.",
+    "expected_context": "Sinh viên bị buộc thôi học khi không hoàn thành nghĩa vụ học phí, không đăng ký học phần, được cảnh báo học tập lần thứ ba liên tiếp, bị kỷ luật buộc thôi học hoặc vượt quá giới hạn thời gian học tập.",
+    "source": "quy-che-dao-tao-dai-hoc-hcmus.pdf"
+  },
+  {
+    "question": "Sinh viên CTUET có học phần bắt buộc bị điểm F phải xử lý thế nào?",
+    "expected_answer": "Phải đăng ký học lại học phần đó ở một trong các học kỳ tiếp theo cho đến khi đạt.",
+    "expected_context": "Sinh viên có học phần bắt buộc bị điểm F phải đăng ký học lại học phần đó ở một trong các học kỳ tiếp theo cho đến khi đạt điểm từ D trở lên.",
+    "source": "so-tay-sinh-vien-ctuet.pdf"
+  },
+  {
+    "question": "Sinh viên CTUET xin nghỉ học tạm thời vì nhu cầu cá nhân cần điều kiện gì?",
+    "expected_answer": "Phải học ít nhất một học kỳ, không thuộc diện buộc thôi học và có điểm trung bình tích lũy không dưới 2,00.",
+    "expected_context": "Trường hợp nghỉ học vì nhu cầu cá nhân chỉ giải quyết khi sinh viên đã học ít nhất 1 học kỳ, không rơi vào tình trạng bị buộc thôi học và có điểm trung bình chung tích lũy không dưới 2,00.",
+    "source": "so-tay-sinh-vien-ctuet.pdf"
+  }
+]
