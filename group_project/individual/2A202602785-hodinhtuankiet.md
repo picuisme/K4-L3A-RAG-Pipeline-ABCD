@@ -2,11 +2,12 @@
 
 ## Thông tin
 
-- **Họ và tên:** Hồ Đình Tuấn Kiệt (xác định từ cấu hình email Git `hodinhtuankiet@gmail.com`)
-- **Mã học viên:** Chưa có trong repository; cần xác nhận trước khi nộp chính thức
+- **Họ và tên:** Hồ Đình Tuấn Kiệt
+- **Mã học viên:** 2A202602785
 - **Nhóm:** K4-L3A — RAG Pipeline ABCD
 - **Repository/branch:** `K4-L3A-RAG-Pipeline-ABCD` / `feat.hodinhtuankiet`
 - **Commit triển khai:** `7f5e189` — `feat: complete university services RAG pipeline`
+- **Commit báo cáo:** `e8bdbd6` — `docs: complete individual contribution report`
 
 ## Phần việc đã thực hiện
 
@@ -31,7 +32,9 @@
 
 ## Kiểm thử và kết quả
 
-- `python -m pytest -q`: **20 passed** (contract + acceptance).
+- `python -m pytest tests/test_contracts.py -q`: **15 passed**.
+- `python -m pytest tests/test_acceptance.py -q`: **5 passed**.
+- `python -m pytest -q`: **20 passed**.
 - `python -m src.task4_chunking_indexing`: **297 chunks** từ 10 tài liệu chuẩn hóa.
 - `python -m src.evaluate`: **17 cases**, 4 metric. Dense-only `0.879`; hybrid + RRF `0.890` (`+0.012`). Context recall tăng từ `0.954` lên `0.971`; độ trễ trung bình tăng khoảng `47 ms/query` trên lần chạy ghi nhận.
 - Lỗi đã xử lý: URL HCMUS trả 404 được thay bằng trang HUIT công khai hoạt động; query ngoài domain từng khớp n-gram chung đã được chặn bằng calibration và domain-aware vectorless fallback; provider lỗi không làm UI crash.
