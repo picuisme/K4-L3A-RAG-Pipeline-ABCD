@@ -9,7 +9,7 @@
 | Evaluator model | Deterministic Vietnamese token-overlap proxies; no API |
 | Generator model | Grounded extractive baseline; no API |
 | Embedding model | hashing-vi-1024 |
-| Corpus version/commit | `feature/legal-rag-individual-report` working tree |
+| Corpus version/commit | `feat.hodinhtuankiet` working tree |
 | Golden dataset size | 17 |
 | `top_k` | 5 |
 | Fallback threshold and calibration | 0.39; golden queries scored 0.410–0.673 and five unrelated queries scored 0.196–0.367; fallback excluded from A/B |
